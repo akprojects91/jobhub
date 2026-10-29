@@ -1,5 +1,5 @@
 {
-"fetched_at": "2026-10-29T07:07:59+00:00",
+"fetched_at": "2026-10-29T13:08:24+00:00",
 "roles": [
 "banking operations",
 "operations officer",
@@ -102,19 +102,19 @@
 {
 "source": "LinkedIn",
 "ok": true,
-"count": 459,
+"count": 448,
 "note": ""
 },
 {
 "source": "Tanqeeb",
 "ok": true,
-"count": 381,
-"note": "blocked from GitHub; using box copy from 2026-10-29T02:42 UTC"
+"count": 383,
+"note": "blocked from GitHub; using box copy from 2026-10-29T11:46 UTC"
 },
 {
 "source": "Workable",
 "ok": true,
-"count": 26,
+"count": 25,
 "note": ""
 },
 {
@@ -125,6 +125,30 @@
 }
 ],
 "jobs": [
+{
+"title": "Supervisor",
+"company": "Apparel Group",
+"location": "Bahrain",
+"posted": "2026-10-29",
+"url": "https://bh.linkedin.com/jobs/view/supervisor-at-apparel-group-4375688571",
+"id": "supervisor|apparel group",
+"sources": [
+"LinkedIn"
+],
+"roles": [
+"operations officer",
+"call centre",
+"store manager"
+],
+"links": {
+"LinkedIn": "https://bh.linkedin.com/jobs/view/supervisor-at-apparel-group-4375688571"
+},
+"families": [
+"Banking & finance ops",
+"Customer service",
+"Retail"
+]
+},
 {
 "title": "AI Specialist",
 "company": "Havelock One Interiors",
@@ -148,6 +172,71 @@
 "Banking & finance ops",
 "IT & software",
 "Project & management"
+]
+},
+{
+"title": "Application Specialist",
+"company": "Kinetic Business Solutions",
+"location": "Manama, Capital Governorate, Bahrain",
+"posted": "2026-10-29",
+"url": "https://bh.linkedin.com/jobs/view/application-specialist-at-kinetic-business-solutions-4481410906",
+"id": "application specialist|kinetic business solutions",
+"sources": [
+"LinkedIn"
+],
+"roles": [
+"operations analyst",
+"client onboarding",
+"account manager",
+"IT support",
+"data analyst",
+"technician",
+"customer service",
+"medical"
+],
+"links": {
+"LinkedIn": "https://bh.linkedin.com/jobs/view/application-specialist-at-kinetic-business-solutions-4481410906"
+},
+"families": [
+"Banking & finance ops",
+"Compliance, risk & audit",
+"Relationship & client mgmt",
+"IT & software",
+"Engineering & technical",
+"Customer service",
+"Healthcare"
+]
+},
+{
+"title": "Front Office & Administrative Assistant",
+"company": "NOYA Studios",
+"location": "Al-Hidd, Muharraq Governorate, Bahrain",
+"posted": "2026-10-29",
+"url": "https://bh.linkedin.com/jobs/view/front-office-administrative-assistant-at-noya-studios-4484095196",
+"id": "front office administrative assistant|noya studios",
+"sources": [
+"LinkedIn"
+],
+"roles": [
+"back office",
+"administration officer",
+"office manager",
+"secretary",
+"receptionist",
+"customer service",
+"call centre",
+"front office",
+"cashier"
+],
+"links": {
+"LinkedIn": "https://bh.linkedin.com/jobs/view/front-office-administrative-assistant-at-noya-studios-4484095196"
+},
+"families": [
+"Banking & finance ops",
+"HR & admin",
+"Customer service",
+"Hospitality & F&B",
+"Retail"
 ]
 },
 {
@@ -249,51 +338,6 @@
 ]
 },
 {
-"title": "Software Enginer",
-"company": "IA Today",
-"location": "Capital Governorate, Bahrain",
-"posted": "2026-10-29",
-"url": "https://bh.linkedin.com/jobs/view/software-enginer-at-ia-today-4484906750",
-"id": "software enginer|ia today",
-"sources": [
-"LinkedIn"
-],
-"roles": [
-"software engineer",
-"data analyst"
-],
-"links": {
-"LinkedIn": "https://bh.linkedin.com/jobs/view/software-enginer-at-ia-today-4484906750"
-},
-"families": [
-"IT & software"
-]
-},
-{
-"title": "Heavy Machinery Service Manager / Industrial Equipment After-Sales Lead",
-"company": "Anser Group SRL - Andina Servicios",
-"location": "Bahrain",
-"posted": "2026-10-29",
-"url": "https://bh.linkedin.com/jobs/view/heavy-machinery-service-manager-industrial-equipment-after-sales-lead-at-anser-group-srl-andina-servicios-4484904760",
-"id": "heavy machinery service manager industrial equipment after sales lead|anser group srl andina servicios",
-"sources": [
-"LinkedIn"
-],
-"roles": [
-"mechanical engineer",
-"electrical engineer",
-"project engineer",
-"operations manager"
-],
-"links": {
-"LinkedIn": "https://bh.linkedin.com/jobs/view/heavy-machinery-service-manager-industrial-equipment-after-sales-lead-at-anser-group-srl-andina-servicios-4484904760"
-},
-"families": [
-"Engineering & technical",
-"Project & management"
-]
-},
-{
 "title": "Estimator",
 "company": "Havelock One Interiors",
 "location": "Askar, Southern Governorate, Bahrain",
@@ -337,6 +381,46 @@
 },
 "families": [
 "Marketing & media"
+]
+},
+{
+"title": "Junior Interior Designer",
+"company": "NOYA Studios",
+"location": "Al-Hidd, Muharraq Governorate, Bahrain",
+"posted": "2026-10-29",
+"url": "https://bh.linkedin.com/jobs/view/junior-interior-designer-at-noya-studios-4484915514",
+"id": "junior interior designer|noya studios",
+"sources": [
+"LinkedIn"
+],
+"roles": [
+"graphic designer"
+],
+"links": {
+"LinkedIn": "https://bh.linkedin.com/jobs/view/junior-interior-designer-at-noya-studios-4484915514"
+},
+"families": [
+"Marketing & media"
+]
+},
+{
+"title": "Beauty Consultant - NARS",
+"company": "Chalhoub Group",
+"location": "Seef, Capital Governorate, Bahrain",
+"posted": "2026-10-29",
+"url": "https://bh.linkedin.com/jobs/view/beauty-consultant-nars-at-chalhoub-group-4437218276",
+"id": "beauty consultant nars|chalhoub group",
+"sources": [
+"LinkedIn"
+],
+"roles": [
+"cashier"
+],
+"links": {
+"LinkedIn": "https://bh.linkedin.com/jobs/view/beauty-consultant-nars-at-chalhoub-group-4437218276"
+},
+"families": [
+"Retail"
 ]
 },
 {
@@ -424,7 +508,7 @@
 "administration officer",
 "office manager",
 "secretary",
-"customer service"
+"data analyst"
 ],
 "links": {
 "LinkedIn": "https://bh.linkedin.com/jobs/view/insurance-account-specialist-at-marsh-4484456371"
@@ -435,7 +519,7 @@
 "Relationship & client mgmt",
 "Accounting & finance",
 "HR & admin",
-"Customer service"
+"IT & software"
 ]
 },
 {
@@ -593,6 +677,31 @@
 ]
 },
 {
+"title": "Project Management Team Leader",
+"company": "Confidential Careers",
+"location": "Manama, Capital Governorate, Bahrain",
+"posted": "2026-10-28",
+"url": "https://bh.linkedin.com/jobs/view/project-management-team-leader-at-confidential-careers-4484438948",
+"id": "project management team leader|confidential careers",
+"sources": [
+"LinkedIn"
+],
+"roles": [
+"AML",
+"project engineer",
+"project manager",
+"operations manager"
+],
+"links": {
+"LinkedIn": "https://bh.linkedin.com/jobs/view/project-management-team-leader-at-confidential-careers-4484438948"
+},
+"families": [
+"Compliance, risk & audit",
+"Engineering & technical",
+"Project & management"
+]
+},
+{
 "title": "Installation Support & Customer Success Specialist",
 "company": "Connect6 Group",
 "location": "Manama, Capital Governorate, Bahrain",
@@ -653,6 +762,40 @@
 ]
 },
 {
+"title": "Omni Channel Specialist",
+"company": "Connect6 Group",
+"location": "Manama, Capital Governorate, Bahrain",
+"posted": "2026-10-28",
+"url": "https://bh.linkedin.com/jobs/view/omni-channel-specialist-at-connect6-group-4482293195",
+"id": "omni channel specialist|connect6 group",
+"sources": [
+"LinkedIn"
+],
+"roles": [
+"account manager",
+"secretary",
+"receptionist",
+"sales executive",
+"marketing",
+"digital marketing",
+"social media",
+"customer service",
+"call centre",
+"front office"
+],
+"links": {
+"LinkedIn": "https://bh.linkedin.com/jobs/view/omni-channel-specialist-at-connect6-group-4482293195"
+},
+"families": [
+"Relationship & client mgmt",
+"HR & admin",
+"Sales & business dev",
+"Marketing & media",
+"Customer service",
+"Hospitality & F&B"
+]
+},
+{
 "title": "Manager - Restaurant",
 "company": "Apparel Group",
 "location": "Bahrain",
@@ -679,38 +822,6 @@
 "Sales & business dev",
 "Retail",
 "Project & management"
-]
-},
-{
-"title": "Omni Channel Specialist",
-"company": "Connect6 Group",
-"location": "Manama, Capital Governorate, Bahrain",
-"posted": "2026-10-28",
-"url": "https://bh.linkedin.com/jobs/view/omni-channel-specialist-at-connect6-group-4482293195",
-"id": "omni channel specialist|connect6 group",
-"sources": [
-"LinkedIn"
-],
-"roles": [
-"secretary",
-"receptionist",
-"sales executive",
-"marketing",
-"digital marketing",
-"social media",
-"customer service",
-"call centre",
-"front office"
-],
-"links": {
-"LinkedIn": "https://bh.linkedin.com/jobs/view/omni-channel-specialist-at-connect6-group-4482293195"
-},
-"families": [
-"HR & admin",
-"Sales & business dev",
-"Marketing & media",
-"Customer service",
-"Hospitality & F&B"
 ]
 },
 {
@@ -818,29 +929,6 @@
 },
 "families": [
 "Engineering & technical"
-]
-},
-{
-"title": "Project Management Team Leader",
-"company": "Confidential Careers",
-"location": "Manama, Capital Governorate, Bahrain",
-"posted": "2026-10-28",
-"url": "https://bh.linkedin.com/jobs/view/project-management-team-leader-at-confidential-careers-4484438948",
-"id": "project management team leader|confidential careers",
-"sources": [
-"LinkedIn"
-],
-"roles": [
-"project engineer",
-"project manager",
-"operations manager"
-],
-"links": {
-"LinkedIn": "https://bh.linkedin.com/jobs/view/project-management-team-leader-at-confidential-careers-4484438948"
-},
-"families": [
-"Engineering & technical",
-"Project & management"
 ]
 },
 {
@@ -1008,6 +1096,7 @@
 "roles": [
 "banking operations",
 "operations officer",
+"operations analyst",
 "back office",
 "payments operations",
 "settlement",
@@ -1558,8 +1647,8 @@
 ],
 "roles": [
 "office manager",
+"sales executive",
 "sales manager",
-"front office",
 "retail",
 "store manager",
 "operations manager"
@@ -1570,7 +1659,6 @@
 "families": [
 "HR & admin",
 "Sales & business dev",
-"Hospitality & F&B",
 "Retail",
 "Project & management"
 ]
@@ -1587,6 +1675,7 @@
 ],
 "roles": [
 "software engineer",
+"data analyst",
 "cyber security"
 ],
 "links": {
@@ -1974,6 +2063,7 @@
 ],
 "roles": [
 "operations officer",
+"finance officer",
 "payroll",
 "HR operations",
 "HR officer",
@@ -1986,64 +2076,10 @@
 },
 "families": [
 "Banking & finance ops",
+"Accounting & finance",
 "HR & admin",
 "Sales & business dev",
 "Retail"
-]
-},
-{
-"title": "Supervisor",
-"company": "Apparel Group",
-"location": "Bahrain",
-"posted": "2026-10-26",
-"url": "https://bh.linkedin.com/jobs/view/supervisor-at-apparel-group-4375688571",
-"id": "supervisor|apparel group",
-"sources": [
-"LinkedIn"
-],
-"roles": [
-"operations officer",
-"call centre",
-"store manager"
-],
-"links": {
-"LinkedIn": "https://bh.linkedin.com/jobs/view/supervisor-at-apparel-group-4375688571"
-},
-"families": [
-"Banking & finance ops",
-"Customer service",
-"Retail"
-]
-},
-{
-"title": "Application Specialist",
-"company": "Kinetic Business Solutions",
-"location": "Manama, Capital Governorate, Bahrain",
-"posted": "2026-10-26",
-"url": "https://bh.linkedin.com/jobs/view/application-specialist-at-kinetic-business-solutions-4481410906",
-"id": "application specialist|kinetic business solutions",
-"sources": [
-"LinkedIn"
-],
-"roles": [
-"operations analyst",
-"client onboarding",
-"IT support",
-"data analyst",
-"technician",
-"customer service",
-"medical"
-],
-"links": {
-"LinkedIn": "https://bh.linkedin.com/jobs/view/application-specialist-at-kinetic-business-solutions-4481410906"
-},
-"families": [
-"Banking & finance ops",
-"Compliance, risk & audit",
-"IT & software",
-"Engineering & technical",
-"Customer service",
-"Healthcare"
 ]
 },
 {
@@ -2128,33 +2164,6 @@
 ]
 },
 {
-"title": "Commercial Executive",
-"company": "Augustus Media",
-"location": "Bahrain",
-"posted": "2026-10-26",
-"url": "https://bh.linkedin.com/jobs/view/commercial-executive-at-augustus-media-4481433374",
-"id": "commercial executive|augustus media",
-"sources": [
-"LinkedIn"
-],
-"roles": [
-"relationship manager",
-"account manager",
-"sales executive",
-"business development",
-"marketing",
-"digital marketing"
-],
-"links": {
-"LinkedIn": "https://bh.linkedin.com/jobs/view/commercial-executive-at-augustus-media-4481433374"
-},
-"families": [
-"Relationship & client mgmt",
-"Sales & business dev",
-"Marketing & media"
-]
-},
-{
 "title": "Sales Manager - Bahrain",
 "company": "Continental",
 "location": "Capital Governorate, Bahrain",
@@ -2182,6 +2191,32 @@
 "Sales & business dev",
 "Marketing & media",
 "Retail"
+]
+},
+{
+"title": "Sales Representative - RateWorld",
+"company": "Connect6 Group",
+"location": "Manama, Capital Governorate, Bahrain",
+"posted": "2026-10-26",
+"url": "https://bh.linkedin.com/jobs/view/sales-representative-rateworld-at-connect6-group-4481433585",
+"id": "sales representative rateworld|connect6 group",
+"sources": [
+"LinkedIn"
+],
+"roles": [
+"relationship manager",
+"account manager",
+"sales executive",
+"business development",
+"call centre"
+],
+"links": {
+"LinkedIn": "https://bh.linkedin.com/jobs/view/sales-representative-rateworld-at-connect6-group-4481433585"
+},
+"families": [
+"Relationship & client mgmt",
+"Sales & business dev",
+"Customer service"
 ]
 },
 {
@@ -2370,26 +2405,23 @@
 ]
 },
 {
-"title": "Sales Representative - RateWorld",
-"company": "Connect6 Group",
-"location": "Manama, Capital Governorate, Bahrain",
+"title": "Plumbing foreman",
+"company": "NASS Group & Corporation",
+"location": "Askar, Southern Governorate, Bahrain",
 "posted": "2026-10-26",
-"url": "https://bh.linkedin.com/jobs/view/sales-representative-rateworld-at-connect6-group-4481433585",
-"id": "sales representative rateworld|connect6 group",
+"url": "https://bh.linkedin.com/jobs/view/plumbing-foreman-at-nass-group-corporation-4483548738",
+"id": "plumbing foreman|nass group corporation",
 "sources": [
 "LinkedIn"
 ],
 "roles": [
-"sales executive",
-"business development",
-"call centre"
+"civil engineer"
 ],
 "links": {
-"LinkedIn": "https://bh.linkedin.com/jobs/view/sales-representative-rateworld-at-connect6-group-4481433585"
+"LinkedIn": "https://bh.linkedin.com/jobs/view/plumbing-foreman-at-nass-group-corporation-4483548738"
 },
 "families": [
-"Sales & business dev",
-"Customer service"
+"Engineering & technical"
 ]
 },
 {
@@ -2404,6 +2436,7 @@
 ],
 "roles": [
 "sales manager",
+"hotel",
 "restaurant",
 "store manager",
 "operations manager"
@@ -2416,28 +2449,6 @@
 "Hospitality & F&B",
 "Retail",
 "Project & management"
-]
-},
-{
-"title": "Content Writer Executive",
-"company": "Augustus Media",
-"location": "Bahrain",
-"posted": "2026-10-26",
-"url": "https://bh.linkedin.com/jobs/view/content-writer-executive-at-augustus-media-4481439245",
-"id": "content writer executive|augustus media",
-"sources": [
-"LinkedIn"
-],
-"roles": [
-"marketing",
-"digital marketing",
-"social media"
-],
-"links": {
-"LinkedIn": "https://bh.linkedin.com/jobs/view/content-writer-executive-at-augustus-media-4481439245"
-},
-"families": [
-"Marketing & media"
 ]
 },
 {
@@ -3219,6 +3230,7 @@
 "bank",
 "financial crime",
 "risk",
+"relationship manager",
 "corporate banking",
 "accountant",
 "finance officer",
@@ -3371,28 +3383,6 @@
 ]
 },
 {
-"title": "Head Pastry Chef – Premium Upscale Café Concept – Al Khobar",
-"company": "The Career Nest",
-"location": "Manama, Capital Governorate, Bahrain",
-"posted": "2026-10-24",
-"url": "https://bh.linkedin.com/jobs/view/head-pastry-chef-%E2%80%93-premium-upscale-caf%C3%A9-concept-%E2%80%93-al-khobar-at-the-career-nest-4482346089",
-"id": "head pastry chef premium upscale caf concept al khobar|the career nest",
-"sources": [
-"LinkedIn"
-],
-"roles": [
-"hotel",
-"restaurant",
-"chef"
-],
-"links": {
-"LinkedIn": "https://bh.linkedin.com/jobs/view/head-pastry-chef-%E2%80%93-premium-upscale-caf%C3%A9-concept-%E2%80%93-al-khobar-at-the-career-nest-4482346089"
-},
-"families": [
-"Hospitality & F&B"
-]
-},
-{
 "title": "Food & Beverage Waiter/Waitress",
 "company": "Hilton",
 "location": "Bahrain",
@@ -3447,6 +3437,7 @@
 "treasury operations",
 "bank",
 "KYC",
+"AML",
 "client onboarding",
 "financial crime",
 "internal control",
@@ -3482,6 +3473,7 @@
 "compliance",
 "accountant",
 "finance officer",
+"financial analyst",
 "payroll",
 "HR operations",
 "HR officer",
@@ -3523,6 +3515,7 @@
 "mechanical engineer",
 "electrical engineer",
 "project engineer",
+"technician",
 "call centre",
 "operations manager"
 ],
@@ -3680,6 +3673,7 @@
 "sales manager",
 "digital marketing",
 "store manager",
+"project manager",
 "operations manager"
 ],
 "links": {
@@ -3717,6 +3711,28 @@
 "HR & admin",
 "Customer service",
 "Hospitality & F&B"
+]
+},
+{
+"title": "On job training - Core",
+"company": "Mondelēz International",
+"location": "Manama, Capital Governorate, Bahrain",
+"posted": "2026-10-23",
+"url": "https://bh.linkedin.com/jobs/view/on-job-training-core-at-mondel%C4%93z-international-4298195943",
+"id": "on job training core|mondel z international",
+"sources": [
+"LinkedIn"
+],
+"roles": [
+"mechanical engineer",
+"retail"
+],
+"links": {
+"LinkedIn": "https://bh.linkedin.com/jobs/view/on-job-training-core-at-mondel%C4%93z-international-4298195943"
+},
+"families": [
+"Engineering & technical",
+"Retail"
 ]
 },
 {
@@ -4116,32 +4132,14 @@
 "LinkedIn"
 ],
 "roles": [
-"restaurant"
+"restaurant",
+"retail"
 ],
 "links": {
 "LinkedIn": "https://bh.linkedin.com/jobs/view/on-job-trainee-core-at-mondel%C4%93z-international-4042181180"
 },
 "families": [
-"Hospitality & F&B"
-]
-},
-{
-"title": "On job training - Core",
-"company": "Mondelēz International",
-"location": "Manama, Capital Governorate, Bahrain",
-"posted": "2026-10-23",
-"url": "https://bh.linkedin.com/jobs/view/on-job-training-core-at-mondel%C4%93z-international-4298195943",
-"id": "on job training core|mondel z international",
-"sources": [
-"LinkedIn"
-],
-"roles": [
-"retail"
-],
-"links": {
-"LinkedIn": "https://bh.linkedin.com/jobs/view/on-job-training-core-at-mondel%C4%93z-international-4298195943"
-},
-"families": [
+"Hospitality & F&B",
 "Retail"
 ]
 },
@@ -4182,43 +4180,6 @@
 ]
 },
 {
-"title": "Accounts Payable Executive / AP Accountant / AP Specialist",
-"company": "Web Masters",
-"location": "Capital Governorate, Bahrain",
-"posted": "2026-10-22",
-"url": "https://bh.linkedin.com/jobs/view/accounts-payable-executive-ap-accountant-ap-specialist-at-web-masters-4481358302",
-"id": "accounts payable executive ap accountant ap specialist|web masters",
-"sources": [
-"LinkedIn"
-],
-"roles": [
-"banking operations",
-"back office",
-"payments operations",
-"settlement",
-"reconciliation",
-"treasury operations",
-"internal control",
-"audit",
-"accountant",
-"finance officer",
-"financial analyst",
-"accounts payable",
-"payroll",
-"procurement"
-],
-"links": {
-"LinkedIn": "https://bh.linkedin.com/jobs/view/accounts-payable-executive-ap-accountant-ap-specialist-at-web-masters-4481358302"
-},
-"families": [
-"Banking & finance ops",
-"Compliance, risk & audit",
-"Accounting & finance",
-"HR & admin",
-"Logistics & supply chain"
-]
-},
-{
 "title": "Merchant Acquiring Team Leader",
 "company": "TAT IT Technolgies",
 "location": "Manama, Capital Governorate, Bahrain",
@@ -4239,6 +4200,7 @@
 "relationship manager",
 "corporate banking",
 "account manager",
+"sales executive",
 "business development",
 "sales manager",
 "marketing"
@@ -4429,7 +4391,7 @@
 "company": "ADG",
 "location": "Manama, Capital Governorate, Bahrain",
 "posted": "2026-10-22",
-"url": "https://bh.linkedin.com/jobs/view/forward-deployed-engineer-at-adg-4479375584",
+"url": "https://bh.linkedin.com/jobs/view/forward-deployed-engineer-at-adg-4481368053",
 "id": "forward deployed engineer|adg",
 "sources": [
 "LinkedIn"
@@ -4437,6 +4399,7 @@
 "roles": [
 "bank",
 "KYC",
+"AML",
 "client onboarding",
 "software engineer",
 "IT support",
@@ -4445,7 +4408,7 @@
 "project engineer"
 ],
 "links": {
-"LinkedIn": "https://bh.linkedin.com/jobs/view/forward-deployed-engineer-at-adg-4479375584"
+"LinkedIn": "https://bh.linkedin.com/jobs/view/forward-deployed-engineer-at-adg-4481368053"
 },
 "families": [
 "Banking & finance ops",
@@ -4937,22 +4900,190 @@
 ]
 },
 {
-"title": "Private Chef - for a UHNWF Family in Oman",
-"company": "Apt Resources",
-"location": "Manama, Capital Governorate, Bahrain",
+"title": "Senior Power Platform, BI & Azure Integration Consultant",
+"company": "Client of Exceed IT Services",
+"location": "Bahrain - Manama",
 "posted": "2026-10-22",
-"url": "https://jobs.workable.com/view/s23qmnXonKtrJ6U7m3v9XE/private-chef---for-a-uhnwf-family-in-oman-in-manama-at-apt-resources",
-"id": "private chef for a uhnwf family in oman|apt resources",
+"url": "https://bahrain.tanqeeb.com/jobs-in-middle-east/all/jobs/021332861.html",
+"id": "senior power platform bi azure integration consultant|client of exceed it services",
 "sources": [
-"Workable"
+"Tanqeeb"
 ],
 "roles": [
-"chef"
+"compliance",
+"internal control",
+"risk",
+"warehouse"
 ],
 "links": {
-"Workable": "https://jobs.workable.com/view/s23qmnXonKtrJ6U7m3v9XE/private-chef---for-a-uhnwf-family-in-oman-in-manama-at-apt-resources"
+"Tanqeeb": "https://bahrain.tanqeeb.com/jobs-in-middle-east/all/jobs/021332861.html"
 },
 "families": [
+"Compliance, risk & audit",
+"Logistics & supply chain"
+]
+},
+{
+"title": "Head of Advisory",
+"company": "Qureos",
+"location": "Bahrain - Manama",
+"posted": "2026-10-22",
+"url": "https://bahrain.tanqeeb.com/jobs-in-middle-east/all/jobs/021332554.html",
+"id": "head of advisory|qureos",
+"sources": [
+"Tanqeeb"
+],
+"roles": [
+"compliance",
+"risk",
+"recruiter",
+"receptionist",
+"business development"
+],
+"links": {
+"Tanqeeb": "https://bahrain.tanqeeb.com/jobs-in-middle-east/all/jobs/021332554.html"
+},
+"families": [
+"Compliance, risk & audit",
+"HR & admin",
+"Sales & business dev"
+]
+},
+{
+"title": "Lecturer in Safety Engineering",
+"company": "Gulf University",
+"location": "Bahrain - Manama",
+"posted": "2026-10-22",
+"url": "https://bahrain.tanqeeb.com/jobs-in-middle-east/all/jobs/021332856.html",
+"id": "lecturer in safety engineering|gulf university",
+"sources": [
+"Tanqeeb"
+],
+"roles": [
+"internal control",
+"risk",
+"recruiter"
+],
+"links": {
+"Tanqeeb": "https://bahrain.tanqeeb.com/jobs-in-middle-east/all/jobs/021332856.html"
+},
+"families": [
+"Compliance, risk & audit",
+"HR & admin"
+]
+},
+{
+"title": "Outdoor Sales Representatives B2B",
+"company": "Confidential",
+"location": "Bahrain - capital government",
+"posted": "2026-10-22",
+"url": "https://bahrain.tanqeeb.com/jobs-in-middle-east/all/jobs/021332850.html",
+"id": "outdoor sales representatives b2b|confidential",
+"sources": [
+"Tanqeeb"
+],
+"roles": [
+"internal control",
+"social media",
+"customer service"
+],
+"links": {
+"Tanqeeb": "https://bahrain.tanqeeb.com/jobs-in-middle-east/all/jobs/021332850.html"
+},
+"families": [
+"Compliance, risk & audit",
+"Marketing & media",
+"Customer service"
+]
+},
+{
+"title": "Senior Consultant - Management Consulting",
+"company": "Keypoint Business Services W.L.L",
+"location": "Bahrain - Manama",
+"posted": "2026-10-22",
+"url": "https://bahrain.tanqeeb.com/jobs-in-middle-east/all/jobs/021332852.html",
+"id": "senior consultant management consulting|keypoint business services w l l",
+"sources": [
+"Tanqeeb"
+],
+"roles": [
+"risk",
+"accountant",
+"business development"
+],
+"links": {
+"Tanqeeb": "https://bahrain.tanqeeb.com/jobs-in-middle-east/all/jobs/021332852.html"
+},
+"families": [
+"Compliance, risk & audit",
+"Accounting & finance",
+"Sales & business dev"
+]
+},
+{
+"title": "Manager - Management consulting",
+"company": "Keypoint Business Services W.L.L",
+"location": "Bahrain - Manama",
+"posted": "2026-10-22",
+"url": "https://bahrain.tanqeeb.com/jobs-in-middle-east/all/jobs/021332854.html",
+"id": "manager management consulting|keypoint business services w l l",
+"sources": [
+"Tanqeeb"
+],
+"roles": [
+"accountant",
+"business development"
+],
+"links": {
+"Tanqeeb": "https://bahrain.tanqeeb.com/jobs-in-middle-east/all/jobs/021332854.html"
+},
+"families": [
+"Accounting & finance",
+"Sales & business dev"
+]
+},
+{
+"title": "Spa Therapist",
+"company": "AccorHotel",
+"location": "Bahrain - Manama",
+"posted": "2026-10-22",
+"url": "https://bahrain.tanqeeb.com/jobs-in-middle-east/all/jobs/021332863.html",
+"id": "spa therapist|accorhotel",
+"sources": [
+"Tanqeeb"
+],
+"roles": [
+"receptionist",
+"hotel"
+],
+"links": {
+"Tanqeeb": "https://bahrain.tanqeeb.com/jobs-in-middle-east/all/jobs/021332863.html"
+},
+"families": [
+"HR & admin",
+"Hospitality & F&B"
+]
+},
+{
+"title": "Hotel Receptionist",
+"company": "Confidential",
+"location": "Bahrain - Manama",
+"posted": "2026-10-22",
+"url": "https://bahrain.tanqeeb.com/jobs-in-middle-east/all/jobs/021332853.html",
+"id": "hotel receptionist|confidential",
+"sources": [
+"Tanqeeb"
+],
+"roles": [
+"receptionist",
+"hotel",
+"front office"
+],
+"links": {
+"Tanqeeb": "https://bahrain.tanqeeb.com/jobs-in-middle-east/all/jobs/021332853.html"
+},
+"families": [
+"HR & admin",
 "Hospitality & F&B"
 ]
 },
@@ -4973,11 +5104,53 @@
 "links": {
 "Tanqeeb": "https://bahrain.tanqeeb.com/jobs-in-middle-east/all/jobs/021332244.html"
 },
-"fit": "borderline",
-"fit_note": "Not one of the target role types — check the details",
-"target": false,
 "families": [
 "HR & admin",
+"Hospitality & F&B"
+]
+},
+{
+"title": "Shutter Door Technician",
+"company": "Client of Dolphin Manpower",
+"location": "Bahrain - Manama",
+"posted": "2026-10-22",
+"url": "https://bahrain.tanqeeb.com/jobs-in-middle-east/all/jobs/021332862.html",
+"id": "shutter door technician|client of dolphin manpower",
+"sources": [
+"Tanqeeb"
+],
+"roles": [
+"technician",
+"doctor"
+],
+"links": {
+"Tanqeeb": "https://bahrain.tanqeeb.com/jobs-in-middle-east/all/jobs/021332862.html"
+},
+"families": [
+"Engineering & technical",
+"Healthcare"
+]
+},
+{
+"title": "Head Baker",
+"company": "AccorHotel",
+"location": "Bahrain - Manama",
+"posted": "2026-10-22",
+"url": "https://bahrain.tanqeeb.com/jobs-in-middle-east/all/jobs/021332857.html",
+"id": "head baker|accorhotel",
+"sources": [
+"Tanqeeb"
+],
+"roles": [
+"business development",
+"hotel",
+"chef"
+],
+"links": {
+"Tanqeeb": "https://bahrain.tanqeeb.com/jobs-in-middle-east/all/jobs/021332857.html"
+},
+"families": [
+"Sales & business dev",
 "Hospitality & F&B"
 ]
 },
@@ -4999,12 +5172,95 @@
 "links": {
 "Tanqeeb": "https://bahrain.tanqeeb.com/jobs-in-middle-east/all/jobs/021332245.html"
 },
-"fit": "borderline",
-"fit_note": "Not one of the target role types — check the details",
-"target": false,
 "families": [
 "Sales & business dev",
 "Hospitality & F&B"
+]
+},
+{
+"title": "Outdoor Sales Executive B2C- Bahrain",
+"company": "Confidential",
+"location": "Bahrain - capital government",
+"posted": "2026-10-22",
+"url": "https://bahrain.tanqeeb.com/jobs-in-middle-east/all/jobs/021332849.html",
+"id": "outdoor sales executive b2c bahrain|confidential",
+"sources": [
+"Tanqeeb"
+],
+"roles": [
+"social media",
+"customer service",
+"doctor"
+],
+"links": {
+"Tanqeeb": "https://bahrain.tanqeeb.com/jobs-in-middle-east/all/jobs/021332849.html"
+},
+"families": [
+"Marketing & media",
+"Customer service",
+"Healthcare"
+]
+},
+{
+"title": "Asst. Fitters (Tanks/Vessels)",
+"company": "Client of Talentrio",
+"location": "Bahrain - Manama",
+"posted": "2026-10-22",
+"url": "https://bahrain.tanqeeb.com/jobs-in-middle-east/all/jobs/021332859.html",
+"id": "asst fitters tanks vessels|client of talentrio",
+"sources": [
+"Tanqeeb"
+],
+"roles": [
+"medical"
+],
+"links": {
+"Tanqeeb": "https://bahrain.tanqeeb.com/jobs-in-middle-east/all/jobs/021332859.html"
+},
+"families": [
+"Healthcare"
+]
+},
+{
+"title": "Tank / Vessel Fabricators",
+"company": "Client of Talentrio",
+"location": "Bahrain - Manama",
+"posted": "2026-10-22",
+"url": "https://bahrain.tanqeeb.com/jobs-in-middle-east/all/jobs/021332858.html",
+"id": "tank vessel fabricators|client of talentrio",
+"sources": [
+"Tanqeeb"
+],
+"roles": [
+"medical"
+],
+"links": {
+"Tanqeeb": "https://bahrain.tanqeeb.com/jobs-in-middle-east/all/jobs/021332858.html"
+},
+"families": [
+"Healthcare"
+]
+},
+{
+"title": "Setter Out",
+"company": "Havelock Ahi Wll",
+"location": "Bahrain - Manama",
+"posted": "2026-10-22",
+"url": "https://bahrain.tanqeeb.com/jobs-in-middle-east/all/jobs/021332855.html",
+"id": "setter out|havelock ahi wll",
+"sources": [
+"Tanqeeb"
+],
+"roles": [
+"procurement",
+"project manager"
+],
+"links": {
+"Tanqeeb": "https://bahrain.tanqeeb.com/jobs-in-middle-east/all/jobs/021332855.html"
+},
+"families": [
+"Logistics & supply chain",
+"Project & management"
 ]
 },
 {
@@ -5026,6 +5282,7 @@
 "trade finance",
 "treasury operations",
 "bank",
+"AML",
 "financial crime",
 "internal control",
 "risk",
@@ -5055,6 +5312,7 @@
 "roles": [
 "banking operations",
 "back office",
+"settlement",
 "credit administration",
 "credit operations",
 "trade finance",
@@ -5172,6 +5430,7 @@
 "banking operations",
 "operations analyst",
 "KYC",
+"AML",
 "client onboarding",
 "financial crime",
 "internal control",
@@ -5929,9 +6188,6 @@
 "links": {
 "Tanqeeb": "https://bahrain.tanqeeb.com/jobs-in-middle-east/all/jobs/021329709.html"
 },
-"fit": "borderline",
-"fit_note": "Not one of the target role types — check the details",
-"target": false,
 "families": [
 "Banking & finance ops",
 "Compliance, risk & audit",
@@ -5958,9 +6214,6 @@
 "links": {
 "Tanqeeb": "https://bahrain.tanqeeb.com/jobs-in-middle-east/all/jobs/021331289.html"
 },
-"fit": "borderline",
-"fit_note": "Not one of the target role types — check the details",
-"target": false,
 "families": [
 "Banking & finance ops",
 "Compliance, risk & audit"
@@ -5986,9 +6239,6 @@
 "links": {
 "Tanqeeb": "https://bahrain.tanqeeb.com/jobs-in-middle-east/all/jobs/021329710.html"
 },
-"fit": "borderline",
-"fit_note": "Not one of the target role types — check the details",
-"target": false,
 "families": [
 "Banking & finance ops",
 "Compliance, risk & audit",
@@ -6016,9 +6266,6 @@
 "links": {
 "Tanqeeb": "https://bahrain.tanqeeb.com/jobs-in-middle-east/all/jobs/021328831.html"
 },
-"fit": "borderline",
-"fit_note": "Not one of the target role types — check the details",
-"target": false,
 "families": [
 "Banking & finance ops",
 "Compliance, risk & audit",
@@ -6052,9 +6299,6 @@
 "links": {
 "Tanqeeb": "https://bahrain.tanqeeb.com/jobs-in-middle-east/all/jobs/021329247.html"
 },
-"fit": "borderline",
-"fit_note": "Partial match — check the duties and pay",
-"target": false,
 "families": [
 "Banking & finance ops",
 "Compliance, risk & audit",
@@ -6083,9 +6327,6 @@
 "links": {
 "Tanqeeb": "https://bahrain.tanqeeb.com/jobs-in-middle-east/all/jobs/021346729.html"
 },
-"fit": "borderline",
-"fit_note": "Partial match — check the duties and pay",
-"target": false,
 "families": [
 "Banking & finance ops",
 "Compliance, risk & audit",
@@ -6114,9 +6355,6 @@
 "links": {
 "Tanqeeb": "https://bahrain.tanqeeb.com/jobs-in-middle-east/all/jobs/021329714.html"
 },
-"fit": "borderline",
-"fit_note": "Not one of the target role types — check the details",
-"target": false,
 "families": [
 "Banking & finance ops",
 "Compliance, risk & audit",
@@ -6147,9 +6385,6 @@
 "links": {
 "Tanqeeb": "https://bahrain.tanqeeb.com/jobs-in-middle-east/all/jobs/021332024.html"
 },
-"fit": "borderline",
-"fit_note": "Partial match — check the duties and pay",
-"target": true,
 "families": [
 "Compliance, risk & audit",
 "HR & admin",
@@ -6181,9 +6416,6 @@
 "links": {
 "Tanqeeb": "https://bahrain.tanqeeb.com/jobs-in-middle-east/all/jobs/021330861.html"
 },
-"fit": "none",
-"fit_note": "Not a fit (score 0): Head of / AVP level or above",
-"target": false,
 "families": [
 "Compliance, risk & audit",
 "Relationship & client mgmt",
@@ -6210,9 +6442,6 @@
 "links": {
 "Tanqeeb": "https://bahrain.tanqeeb.com/jobs-in-middle-east/all/jobs/021329715.html"
 },
-"fit": "borderline",
-"fit_note": "Not one of the target role types — check the details",
-"target": false,
 "families": [
 "Compliance, risk & audit"
 ]
@@ -6234,9 +6463,6 @@
 "links": {
 "Tanqeeb": "https://bahrain.tanqeeb.com/jobs-in-middle-east/all/jobs/021331286.html"
 },
-"fit": "borderline",
-"fit_note": "Partial match — check the duties and pay",
-"target": false,
 "families": [
 "Accounting & finance",
 "HR & admin"
@@ -6259,9 +6485,6 @@
 "links": {
 "Tanqeeb": "https://bahrain.tanqeeb.com/jobs-in-middle-east/all/jobs/021329712.html"
 },
-"fit": "borderline",
-"fit_note": "Partial match — check the duties and pay",
-"target": false,
 "families": [
 "IT & software",
 "Sales & business dev"
@@ -6283,9 +6506,6 @@
 "links": {
 "Tanqeeb": "https://bahrain.tanqeeb.com/jobs-in-middle-east/all/jobs/021329711.html"
 },
-"fit": "borderline",
-"fit_note": "Partial match — check the duties and pay",
-"target": false,
 "families": [
 "IT & software"
 ]
@@ -6307,9 +6527,6 @@
 "links": {
 "Tanqeeb": "https://bahrain.tanqeeb.com/jobs-in-middle-east/all/jobs/021330862.html"
 },
-"fit": "none",
-"fit_note": "Not a fit (score 0): Sales / business development (not RM)",
-"target": false,
 "families": [
 "Marketing & media",
 "Legal"
@@ -6333,9 +6550,6 @@
 "links": {
 "Tanqeeb": "https://bahrain.tanqeeb.com/jobs-in-middle-east/all/jobs/021329699.html"
 },
-"fit": "none",
-"fit_note": "Not a fit (score 0): Sales / business development (not RM)",
-"target": false,
 "families": [
 "Marketing & media",
 "Customer service"
@@ -6358,9 +6572,6 @@
 "links": {
 "Tanqeeb": "https://bahrain.tanqeeb.com/jobs-in-middle-east/all/jobs/021329700.html"
 },
-"fit": "borderline",
-"fit_note": "Partial match — check the duties and pay",
-"target": true,
 "families": [
 "Healthcare",
 "Retail"
@@ -6385,9 +6596,6 @@
 "links": {
 "Tanqeeb": "https://bahrain.tanqeeb.com/jobs-in-middle-east/all/jobs/021332023.html"
 },
-"fit": "none",
-"fit_note": "Not a fit (score 0): Hospitality / trades",
-"target": false,
 "families": [
 "Hospitality & F&B",
 "Legal"
@@ -6409,9 +6617,6 @@
 "links": {
 "Tanqeeb": "https://bahrain.tanqeeb.com/jobs-in-middle-east/all/jobs/021329701.html"
 },
-"fit": "borderline",
-"fit_note": "Not one of the target role types — check the details",
-"target": false,
 "families": [
 "Hospitality & F&B"
 ]
@@ -6432,9 +6637,6 @@
 "links": {
 "Tanqeeb": "https://bahrain.tanqeeb.com/jobs-in-middle-east/all/jobs/021329708.html"
 },
-"fit": "none",
-"fit_note": "Not a fit (score 0): Hospitality / trades",
-"target": false,
 "families": [
 "Hospitality & F&B"
 ]
@@ -6455,9 +6657,6 @@
 "links": {
 "Tanqeeb": "https://bahrain.tanqeeb.com/jobs-in-middle-east/all/jobs/021331287.html"
 },
-"fit": "borderline",
-"fit_note": "Not one of the target role types — check the details",
-"target": false,
 "families": [
 "Legal"
 ]
@@ -6482,38 +6681,6 @@
 },
 "families": [
 "Banking & finance ops",
-"Logistics & supply chain",
-"Project & management"
-]
-},
-{
-"title": "Central Planning Engineer",
-"company": "Flowciti group",
-"location": "Manama, Capital Governorate, Bahrain",
-"posted": "2026-10-20",
-"url": "https://bh.linkedin.com/jobs/view/central-planning-engineer-at-flowciti-group-4481583414",
-"id": "central planning engineer|flowciti group",
-"sources": [
-"LinkedIn"
-],
-"roles": [
-"operations analyst",
-"settlement",
-"data analyst",
-"mechanical engineer",
-"electrical engineer",
-"civil engineer",
-"project engineer",
-"logistics",
-"project manager"
-],
-"links": {
-"LinkedIn": "https://bh.linkedin.com/jobs/view/central-planning-engineer-at-flowciti-group-4481583414"
-},
-"families": [
-"Banking & finance ops",
-"IT & software",
-"Engineering & technical",
 "Logistics & supply chain",
 "Project & management"
 ]
@@ -6595,6 +6762,7 @@
 "reconciliation",
 "trade finance",
 "treasury operations",
+"AML",
 "compliance",
 "financial crime",
 "internal control",
@@ -6709,6 +6877,7 @@
 "government relations",
 "business development",
 "sales manager",
+"marketing",
 "store manager",
 "logistics",
 "procurement",
@@ -6722,6 +6891,7 @@
 "Accounting & finance",
 "HR & admin",
 "Sales & business dev",
+"Marketing & media",
 "Retail",
 "Logistics & supply chain",
 "Project & management"
@@ -6923,28 +7093,6 @@
 ]
 },
 {
-"title": "Quantity Surveyor - 10+ Years of  Experience - preferred GCC Experience.",
-"company": "Consulting Engineers Group UK Ltd",
-"location": "Bahrain",
-"posted": "2026-10-20",
-"url": "https://bh.linkedin.com/jobs/view/quantity-surveyor-10%2B-years-of-experience-preferred-gcc-experience-at-consulting-engineers-group-uk-ltd-4481543388",
-"id": "quantity surveyor 10 years of experience preferred gcc experience|consulting engineers group uk ltd",
-"sources": [
-"LinkedIn"
-],
-"roles": [
-"civil engineer",
-"procurement"
-],
-"links": {
-"LinkedIn": "https://bh.linkedin.com/jobs/view/quantity-surveyor-10%2B-years-of-experience-preferred-gcc-experience-at-consulting-engineers-group-uk-ltd-4481543388"
-},
-"families": [
-"Engineering & technical",
-"Logistics & supply chain"
-]
-},
-{
 "title": "Cold Email Outreach Specialist",
 "company": "Pavago",
 "location": "TELECOMMUTE",
@@ -7088,6 +7236,26 @@
 ]
 },
 {
+"title": "Quantity Surveyor - 10+ Years of  Experience - preferred GCC Experience.",
+"company": "Consulting Engineers Group UK Ltd",
+"location": "Bahrain",
+"posted": "2026-10-20",
+"url": "https://bh.linkedin.com/jobs/view/quantity-surveyor-10%2B-years-of-experience-preferred-gcc-experience-at-consulting-engineers-group-uk-ltd-4481543388",
+"id": "quantity surveyor 10 years of experience preferred gcc experience|consulting engineers group uk ltd",
+"sources": [
+"LinkedIn"
+],
+"roles": [
+"procurement"
+],
+"links": {
+"LinkedIn": "https://bh.linkedin.com/jobs/view/quantity-surveyor-10%2B-years-of-experience-preferred-gcc-experience-at-consulting-engineers-group-uk-ltd-4481543388"
+},
+"families": [
+"Logistics & supply chain"
+]
+},
+{
 "title": "Front Office Receptionist",
 "company": "AccorHotel",
 "location": "Bahrain - Manama",
@@ -7107,9 +7275,6 @@
 "links": {
 "Tanqeeb": "https://bahrain.tanqeeb.com/jobs-in-middle-east/all/jobs/021326761.html"
 },
-"fit": "borderline",
-"fit_note": "Not one of the target role types — check the details",
-"target": false,
 "families": [
 "Banking & finance ops",
 "Compliance, risk & audit",
@@ -7136,9 +7301,6 @@
 "links": {
 "Tanqeeb": "https://bahrain.tanqeeb.com/jobs-in-middle-east/all/jobs/021326758.html"
 },
-"fit": "borderline",
-"fit_note": "Partial match — check the duties and pay",
-"target": true,
 "families": [
 "Banking & finance ops",
 "Accounting & finance"
@@ -7163,9 +7325,6 @@
 "links": {
 "Tanqeeb": "https://bahrain.tanqeeb.com/jobs-in-middle-east/all/jobs/021326751.html"
 },
-"fit": "borderline",
-"fit_note": "Partial match — check the duties and pay",
-"target": true,
 "families": [
 "Compliance, risk & audit",
 "Accounting & finance",
@@ -7191,9 +7350,6 @@
 "links": {
 "Tanqeeb": "https://bahrain.tanqeeb.com/jobs-in-middle-east/all/jobs/021326755.html"
 },
-"fit": "borderline",
-"fit_note": "Not one of the target role types — check the details",
-"target": false,
 "families": [
 "Compliance, risk & audit",
 "IT & software",
@@ -7219,9 +7375,6 @@
 "links": {
 "Tanqeeb": "https://bahrain.tanqeeb.com/jobs-in-middle-east/all/jobs/021326754.html"
 },
-"fit": "borderline",
-"fit_note": "Not one of the target role types — check the details",
-"target": false,
 "families": [
 "Compliance, risk & audit",
 "IT & software",
@@ -7244,9 +7397,6 @@
 "links": {
 "Tanqeeb": "https://bahrain.tanqeeb.com/jobs-in-bahrain/all/jobs/021328632.html"
 },
-"fit": "none",
-"fit_note": "Not a fit (score 0): Sales / business development (not RM)",
-"target": false,
 "families": [
 "Relationship & client mgmt"
 ]
@@ -7269,9 +7419,6 @@
 "links": {
 "Tanqeeb": "https://bahrain.tanqeeb.com/jobs-in-middle-east/all/jobs/021326753.html"
 },
-"fit": "borderline",
-"fit_note": "Not one of the target role types — check the details",
-"target": false,
 "families": [
 "HR & admin",
 "Healthcare",
@@ -7294,9 +7441,6 @@
 "links": {
 "Tanqeeb": "https://bahrain.tanqeeb.com/jobs-in-middle-east/all/jobs/021326760.html"
 },
-"fit": "none",
-"fit_note": "Not a fit (score 0): Hospitality / trades",
-"target": false,
 "families": [
 "Customer service"
 ]
@@ -7318,9 +7462,6 @@
 "links": {
 "Tanqeeb": "https://bahrain.tanqeeb.com/jobs-in-middle-east/all/jobs/021326763.html"
 },
-"fit": "borderline",
-"fit_note": "Not one of the target role types — check the details",
-"target": false,
 "families": [
 "Healthcare",
 "Hospitality & F&B"
@@ -7343,9 +7484,6 @@
 "links": {
 "Tanqeeb": "https://bahrain.tanqeeb.com/jobs-in-middle-east/all/jobs/021326756.html"
 },
-"fit": "borderline",
-"fit_note": "Not one of the target role types — check the details",
-"target": true,
 "families": [
 "Healthcare"
 ]
@@ -7367,9 +7505,6 @@
 "links": {
 "Tanqeeb": "https://bahrain.tanqeeb.com/jobs-in-middle-east/all/jobs/021328358.html"
 },
-"fit": "borderline",
-"fit_note": "Not one of the target role types — check the details",
-"target": false,
 "families": [
 "Hospitality & F&B",
 "Legal"
@@ -7391,9 +7526,6 @@
 "links": {
 "Tanqeeb": "https://bahrain.tanqeeb.com/jobs-in-middle-east/all/jobs/021326750.html"
 },
-"fit": "borderline",
-"fit_note": "Not one of the target role types — check the details",
-"target": false,
 "families": [
 "Hospitality & F&B"
 ]
@@ -7415,9 +7547,6 @@
 "links": {
 "Tanqeeb": "https://bahrain.tanqeeb.com/jobs-in-middle-east/all/jobs/021325990.html"
 },
-"fit": "none",
-"fit_note": "Not a fit (score 0): Head of / AVP level or above",
-"target": false,
 "families": [
 "Logistics & supply chain"
 ]
@@ -7935,13 +8064,15 @@
 "LinkedIn"
 ],
 "roles": [
-"hotel"
+"hotel",
+"operations manager"
 ],
 "links": {
 "LinkedIn": "https://bh.linkedin.com/jobs/view/housekeeping-supervisor-at-hilton-4455191755"
 },
 "families": [
-"Hospitality & F&B"
+"Hospitality & F&B",
+"Project & management"
 ]
 },
 {
@@ -8027,9 +8158,6 @@
 "links": {
 "Tanqeeb": "https://bahrain.tanqeeb.com/jobs-in-middle-east/all/jobs/021323915.html"
 },
-"fit": "strong",
-"fit_note": "Back-office / operations, Payments & settlement",
-"target": true,
 "families": [
 "Banking & finance ops",
 "Customer service"
@@ -8053,9 +8181,6 @@
 "links": {
 "Tanqeeb": "https://bahrain.tanqeeb.com/jobs-in-middle-east/all/jobs/021325188.html"
 },
-"fit": "borderline",
-"fit_note": "Not one of the target role types — check the details",
-"target": true,
 "families": [
 "Banking & finance ops",
 "Compliance, risk & audit",
@@ -8082,9 +8207,6 @@
 "links": {
 "Tanqeeb": "https://bahrain.tanqeeb.com/jobs-in-middle-east/all/jobs/021323914.html"
 },
-"fit": "borderline",
-"fit_note": "Not one of the target role types — check the details",
-"target": false,
 "families": [
 "Banking & finance ops",
 "Accounting & finance",
@@ -8112,9 +8234,6 @@
 "links": {
 "Tanqeeb": "https://bahrain.tanqeeb.com/jobs-in-middle-east/all/jobs/021325189.html"
 },
-"fit": "borderline",
-"fit_note": "Not one of the target role types — check the details",
-"target": false,
 "families": [
 "Banking & finance ops",
 "Accounting & finance",
@@ -8138,9 +8257,6 @@
 "links": {
 "Tanqeeb": "https://bahrain.tanqeeb.com/jobs-in-middle-east/all/jobs/021323913.html"
 },
-"fit": "borderline",
-"fit_note": "Not one of the target role types — check the details",
-"target": false,
 "families": [
 "Compliance, risk & audit"
 ]
@@ -8163,9 +8279,6 @@
 "links": {
 "Tanqeeb": "https://bahrain.tanqeeb.com/jobs-in-middle-east/all/jobs/021323907.html"
 },
-"fit": "borderline",
-"fit_note": "Not one of the target role types — check the details",
-"target": false,
 "families": [
 "Compliance, risk & audit",
 "Engineering & technical",
@@ -8189,9 +8302,6 @@
 "links": {
 "Tanqeeb": "https://bahrain.tanqeeb.com/jobs-in-middle-east/all/jobs/021323906.html"
 },
-"fit": "borderline",
-"fit_note": "Not one of the target role types — check the details",
-"target": false,
 "families": [
 "Compliance, risk & audit",
 "Project & management"
@@ -8216,9 +8326,6 @@
 "links": {
 "Tanqeeb": "https://bahrain.tanqeeb.com/jobs-in-middle-east/all/jobs/021323909.html"
 },
-"fit": "none",
-"fit_note": "Not a fit (score 0): Sales / business development (not RM)",
-"target": false,
 "families": [
 "Relationship & client mgmt",
 "HR & admin",
@@ -8243,9 +8350,6 @@
 "links": {
 "Tanqeeb": "https://bahrain.tanqeeb.com/jobs-in-middle-east/all/jobs/021323905.html"
 },
-"fit": "borderline",
-"fit_note": "Not one of the target role types — check the details",
-"target": false,
 "families": [
 "HR & admin",
 "Hospitality & F&B"
@@ -8267,9 +8371,6 @@
 "links": {
 "Tanqeeb": "https://bahrain.tanqeeb.com/jobs-in-middle-east/all/jobs/021323902.html"
 },
-"fit": "none",
-"fit_note": "Not a fit (score 0): Hospitality / trades",
-"target": false,
 "families": [
 "Engineering & technical"
 ]
@@ -8292,9 +8393,6 @@
 "links": {
 "Tanqeeb": "https://bahrain.tanqeeb.com/jobs-in-middle-east/all/jobs/021324958.html"
 },
-"fit": "borderline",
-"fit_note": "Not one of the target role types — check the details",
-"target": false,
 "families": [
 "Marketing & media",
 "Healthcare"
@@ -8316,9 +8414,6 @@
 "links": {
 "Tanqeeb": "https://bahrain.tanqeeb.com/jobs-in-middle-east/all/jobs/021323908.html"
 },
-"fit": "borderline",
-"fit_note": "Not one of the target role types — check the details",
-"target": false,
 "families": [
 "Hospitality & F&B"
 ]
@@ -8339,9 +8434,6 @@
 "links": {
 "Tanqeeb": "https://bahrain.tanqeeb.com/jobs-in-bahrain/all/jobs/021324790.html"
 },
-"fit": "borderline",
-"fit_note": "Not one of the target role types — check the details",
-"target": false,
 "families": [
 "Retail"
 ]
@@ -8362,9 +8454,6 @@
 "links": {
 "Tanqeeb": "https://bahrain.tanqeeb.com/jobs-in-middle-east/all/jobs/021324959.html"
 },
-"fit": "borderline",
-"fit_note": "Not one of the target role types — check the details",
-"target": false,
 "families": [
 "Legal"
 ]
@@ -8386,9 +8475,6 @@
 "links": {
 "Tanqeeb": "https://bahrain.tanqeeb.com/jobs-in-middle-east/all/jobs/021323910.html"
 },
-"fit": "borderline",
-"fit_note": "Not one of the target role types — check the details",
-"target": false,
 "families": [
 "Legal"
 ]
@@ -8417,6 +8503,7 @@
 "treasury operations",
 "bank",
 "KYC",
+"AML",
 "client onboarding",
 "compliance",
 "financial crime",
@@ -8657,29 +8744,6 @@
 ]
 },
 {
-"title": "Senior Sales Engineer - Yokogawa Products & EPC (Based in Algeria)",
-"company": "Yokogawa",
-"location": "Muharraq, Muharraq Governorate, Bahrain",
-"posted": "2026-10-18",
-"url": "https://bh.linkedin.com/jobs/view/senior-sales-engineer-yokogawa-products-epc-based-in-algeria-at-yokogawa-4480904642",
-"id": "senior sales engineer yokogawa products epc based in algeria|yokogawa",
-"sources": [
-"LinkedIn"
-],
-"roles": [
-"relationship manager",
-"account manager",
-"sales executive"
-],
-"links": {
-"LinkedIn": "https://bh.linkedin.com/jobs/view/senior-sales-engineer-yokogawa-products-epc-based-in-algeria-at-yokogawa-4480904642"
-},
-"families": [
-"Relationship & client mgmt",
-"Sales & business dev"
-]
-},
-{
 "title": "Call Center/Receptionist",
 "company": "Alzayani Investments",
 "location": "Bahrain",
@@ -8792,9 +8856,6 @@
 "links": {
 "Tanqeeb": "https://bahrain.tanqeeb.com/jobs-in-middle-east/all/jobs/021321936.html"
 },
-"fit": "borderline",
-"fit_note": "Not one of the target role types — check the details",
-"target": false,
 "families": [
 "Banking & finance ops",
 "Accounting & finance",
@@ -8821,9 +8882,6 @@
 "links": {
 "Tanqeeb": "https://bahrain.tanqeeb.com/jobs-in-middle-east/all/jobs/021320638.html"
 },
-"fit": "borderline",
-"fit_note": "Not one of the target role types — check the details",
-"target": false,
 "families": [
 "Banking & finance ops",
 "Hospitality & F&B"
@@ -8848,9 +8906,6 @@
 "links": {
 "Tanqeeb": "https://bahrain.tanqeeb.com/jobs-in-bahrain/all/jobs/021321281.html"
 },
-"fit": "none",
-"fit_note": "Not a fit (score 0): Head of / AVP level or above",
-"target": false,
 "families": [
 "Banking & finance ops",
 "Compliance, risk & audit",
@@ -8896,9 +8951,6 @@
 "links": {
 "Tanqeeb": "https://bahrain.tanqeeb.com/jobs-in-middle-east/all/jobs/021319816.html"
 },
-"fit": "borderline",
-"fit_note": "Not one of the target role types — check the details",
-"target": false,
 "families": [
 "HR & admin",
 "IT & software",
@@ -8924,9 +8976,6 @@
 "links": {
 "Tanqeeb": "https://bahrain.tanqeeb.com/jobs-in-middle-east/all/jobs/021319815.html"
 },
-"fit": "borderline",
-"fit_note": "Not one of the target role types — check the details",
-"target": false,
 "families": [
 "HR & admin",
 "IT & software",
@@ -8952,9 +9001,6 @@
 "links": {
 "Tanqeeb": "https://bahrain.tanqeeb.com/jobs-in-middle-east/all/jobs/021319813.html"
 },
-"fit": "none",
-"fit_note": "Not a fit (score 0): Sales / business development (not RM)",
-"target": false,
 "families": [
 "HR & admin",
 "IT & software",
@@ -8980,9 +9026,6 @@
 "links": {
 "Tanqeeb": "https://bahrain.tanqeeb.com/jobs-in-middle-east/all/jobs/021319812.html"
 },
-"fit": "strong",
-"fit_note": "Back-office / operations",
-"target": false,
 "families": [
 "HR & admin",
 "IT & software",
@@ -9115,7 +9158,8 @@
 "roles": [
 "bank",
 "relationship manager",
-"financial analyst"
+"financial analyst",
+"business development"
 ],
 "links": {
 "LinkedIn": "https://bh.linkedin.com/jobs/view/investment-advisor-at-julius-baer-4471896067"
@@ -9123,7 +9167,8 @@
 "families": [
 "Banking & finance ops",
 "Relationship & client mgmt",
-"Accounting & finance"
+"Accounting & finance",
+"Sales & business dev"
 ]
 },
 {
@@ -9249,6 +9294,8 @@
 "LinkedIn"
 ],
 "roles": [
+"sales executive",
+"business development",
 "marketing",
 "digital marketing"
 ],
@@ -9256,6 +9303,7 @@
 "LinkedIn": "https://bh.linkedin.com/jobs/view/bahrain-voyage-program-march-2027-sales-marketing-at-marriott-international-4479379795"
 },
 "families": [
+"Sales & business dev",
 "Marketing & media"
 ]
 },
@@ -9401,9 +9449,6 @@
 "links": {
 "Tanqeeb": "https://bahrain.tanqeeb.com/jobs-in-middle-east/all/jobs/021317710.html"
 },
-"fit": "none",
-"fit_note": "Not a fit (score 0): Hospitality / trades",
-"target": false,
 "families": [
 "Compliance, risk & audit",
 "Hospitality & F&B"
@@ -9429,9 +9474,6 @@
 "links": {
 "Tanqeeb": "https://bahrain.tanqeeb.com/jobs-in-middle-east/all/jobs/021316613.html"
 },
-"fit": "borderline",
-"fit_note": "Partial match — check the duties and pay",
-"target": false,
 "families": [
 "Compliance, risk & audit",
 "Accounting & finance",
@@ -9460,9 +9502,6 @@
 "links": {
 "Tanqeeb": "https://bahrain.tanqeeb.com/jobs-in-middle-east/all/jobs/021316272.html"
 },
-"fit": "borderline",
-"fit_note": "Partial match — check the duties and pay",
-"target": false,
 "families": [
 "Compliance, risk & audit",
 "HR & admin",
@@ -9489,9 +9528,6 @@
 "links": {
 "Tanqeeb": "https://bahrain.tanqeeb.com/jobs-in-bahrain/all/jobs/021318196.html"
 },
-"fit": "strong",
-"fit_note": "Back-office / operations",
-"target": false,
 "families": [
 "Compliance, risk & audit",
 "Marketing & media",
@@ -9517,9 +9553,6 @@
 "links": {
 "Tanqeeb": "https://bahrain.tanqeeb.com/jobs-in-middle-east/all/jobs/021316279.html"
 },
-"fit": "strong",
-"fit_note": "Back-office / operations",
-"target": false,
 "families": [
 "HR & admin",
 "Hospitality & F&B",
@@ -9542,9 +9575,6 @@
 "links": {
 "Tanqeeb": "https://bahrain.tanqeeb.com/jobs-in-bahrain/all/jobs/021318194.html"
 },
-"fit": "none",
-"fit_note": "Not a fit (score 0): Sales / business development (not RM)",
-"target": false,
 "families": [
 "HR & admin"
 ]
@@ -9567,9 +9597,6 @@
 "links": {
 "Tanqeeb": "https://bahrain.tanqeeb.com/jobs-in-bahrain/all/jobs/021318195.html"
 },
-"fit": "borderline",
-"fit_note": "Not one of the target role types — check the details",
-"target": false,
 "families": [
 "Marketing & media"
 ]
@@ -9590,9 +9617,6 @@
 "links": {
 "Tanqeeb": "https://bahrain.tanqeeb.com/jobs-in-bahrain/all/jobs/021318192.html"
 },
-"fit": "none",
-"fit_note": "Not a fit (score 0): Customer service / call centre",
-"target": false,
 "families": [
 "Customer service"
 ]
@@ -9614,9 +9638,6 @@
 "links": {
 "Tanqeeb": "https://bahrain.tanqeeb.com/jobs-in-middle-east/all/jobs/021318341.html"
 },
-"fit": "none",
-"fit_note": "Not a fit (score 0): Hospitality / trades",
-"target": false,
 "families": [
 "Hospitality & F&B",
 "Legal"
@@ -9638,9 +9659,6 @@
 "links": {
 "Tanqeeb": "https://bahrain.tanqeeb.com/jobs-in-middle-east/all/jobs/021317082.html"
 },
-"fit": "none",
-"fit_note": "Not a fit (score 0): Hospitality / trades",
-"target": false,
 "families": [
 "Hospitality & F&B"
 ]
@@ -9661,9 +9679,6 @@
 "links": {
 "Tanqeeb": "https://bahrain.tanqeeb.com/jobs-in-middle-east/all/jobs/021317081.html"
 },
-"fit": "none",
-"fit_note": "Not a fit (score 0): Hospitality / trades",
-"target": false,
 "families": [
 "Hospitality & F&B"
 ]
@@ -9686,9 +9701,6 @@
 "links": {
 "Tanqeeb": "https://bahrain.tanqeeb.com/jobs-in-bahrain/all/jobs/021318193.html"
 },
-"fit": "borderline",
-"fit_note": "Not one of the target role types — check the details",
-"target": false,
 "families": [
 "Logistics & supply chain"
 ]
@@ -9709,9 +9721,6 @@
 "links": {
 "Tanqeeb": "https://bahrain.tanqeeb.com/jobs-in-middle-east/all/jobs/021316900.html"
 },
-"fit": "none",
-"fit_note": "Not a fit (score 0): Hospitality / trades",
-"target": false,
 "families": [
 "Logistics & supply chain"
 ]
@@ -9985,6 +9994,7 @@
 "roles": [
 "bank",
 "KYC",
+"AML",
 "client onboarding",
 "financial crime",
 "relationship manager",
@@ -10363,9 +10373,6 @@
 "links": {
 "Tanqeeb": "https://bahrain.tanqeeb.com/jobs-in-middle-east/all/jobs/021315037.html"
 },
-"fit": "borderline",
-"fit_note": "Partial match — check the duties and pay",
-"target": false,
 "families": [
 "Banking & finance ops",
 "Compliance, risk & audit",
@@ -10394,9 +10401,6 @@
 "links": {
 "Tanqeeb": "https://bahrain.tanqeeb.com/jobs-in-middle-east/all/jobs/021315034.html"
 },
-"fit": "borderline",
-"fit_note": "Partial match — check the duties and pay",
-"target": false,
 "families": [
 "Banking & finance ops",
 "Compliance, risk & audit",
@@ -10424,9 +10428,6 @@
 "links": {
 "Tanqeeb": "https://bahrain.tanqeeb.com/jobs-in-middle-east/all/jobs/021313047.html"
 },
-"fit": "borderline",
-"fit_note": "Partial match — check the duties and pay",
-"target": false,
 "families": [
 "Banking & finance ops",
 "HR & admin",
@@ -10454,9 +10455,6 @@
 "links": {
 "Tanqeeb": "https://bahrain.tanqeeb.com/jobs-in-middle-east/all/jobs/021315048.html"
 },
-"fit": "none",
-"fit_note": "Not a fit (score 0): Head of / AVP level or above",
-"target": true,
 "families": [
 "Banking & finance ops",
 "Compliance, risk & audit",
@@ -10483,9 +10481,6 @@
 "links": {
 "Tanqeeb": "https://bahrain.tanqeeb.com/jobs-in-middle-east/all/jobs/021315036.html"
 },
-"fit": "borderline",
-"fit_note": "Not one of the target role types — check the details",
-"target": false,
 "families": [
 "Compliance, risk & audit",
 "Engineering & technical",
@@ -10508,9 +10503,6 @@
 "links": {
 "Tanqeeb": "https://bahrain.tanqeeb.com/jobs-in-middle-east/all/jobs/021313727.html"
 },
-"fit": "borderline",
-"fit_note": "Not one of the target role types — check the details",
-"target": false,
 "families": [
 "Compliance, risk & audit"
 ]
@@ -10532,9 +10524,6 @@
 "links": {
 "Tanqeeb": "https://bahrain.tanqeeb.com/jobs-in-middle-east/all/jobs/021315035.html"
 },
-"fit": "none",
-"fit_note": "Not a fit (score 0): Sales / business development (not RM)",
-"target": false,
 "families": [
 "Relationship & client mgmt",
 "Marketing & media"
@@ -10557,9 +10546,6 @@
 "links": {
 "Tanqeeb": "https://bahrain.tanqeeb.com/jobs-in-middle-east/all/jobs/021315038.html"
 },
-"fit": "borderline",
-"fit_note": "Partial match — check the duties and pay",
-"target": false,
 "families": [
 "HR & admin",
 "Healthcare"
@@ -10581,9 +10567,6 @@
 "links": {
 "Tanqeeb": "https://bahrain.tanqeeb.com/jobs-in-middle-east/all/jobs/021315039.html"
 },
-"fit": "borderline",
-"fit_note": "Partial match — check the duties and pay",
-"target": false,
 "families": [
 "HR & admin"
 ]
@@ -10604,9 +10587,6 @@
 "links": {
 "Tanqeeb": "https://bahrain.tanqeeb.com/jobs-in-middle-east/all/jobs/021313725.html"
 },
-"fit": "borderline",
-"fit_note": "Not one of the target role types — check the details",
-"target": false,
 "families": [
 "Engineering & technical"
 ]
@@ -10628,9 +10608,6 @@
 "links": {
 "Tanqeeb": "https://bahrain.tanqeeb.com/jobs-in-middle-east/all/jobs/021315041.html"
 },
-"fit": "borderline",
-"fit_note": "Partial match — check the duties and pay",
-"target": false,
 "families": [
 "Marketing & media"
 ]
@@ -10651,9 +10628,6 @@
 "links": {
 "Tanqeeb": "https://bahrain.tanqeeb.com/jobs-in-middle-east/all/jobs/021315046.html"
 },
-"fit": "borderline",
-"fit_note": "Not one of the target role types — check the details",
-"target": false,
 "families": [
 "Healthcare"
 ]
@@ -10674,9 +10648,6 @@
 "links": {
 "Tanqeeb": "https://bahrain.tanqeeb.com/jobs-in-middle-east/all/jobs/021315040.html"
 },
-"fit": "none",
-"fit_note": "Not a fit (score 0): Hospitality / trades",
-"target": false,
 "families": [
 "Hospitality & F&B"
 ]
@@ -10697,9 +10668,6 @@
 "links": {
 "Tanqeeb": "https://bahrain.tanqeeb.com/jobs-in-middle-east/all/jobs/021313046.html"
 },
-"fit": "none",
-"fit_note": "Not a fit (score 0): Hospitality / trades",
-"target": false,
 "families": [
 "Hospitality & F&B"
 ]
@@ -10721,9 +10689,6 @@
 "links": {
 "Tanqeeb": "https://bahrain.tanqeeb.com/jobs-in-middle-east/all/jobs/021315033.html"
 },
-"fit": "borderline",
-"fit_note": "Not one of the target role types — check the details",
-"target": false,
 "families": [
 "Logistics & supply chain"
 ]
@@ -10745,9 +10710,6 @@
 "links": {
 "Tanqeeb": "https://bahrain.tanqeeb.com/jobs-in-bahrain/all/jobs/021314455.html"
 },
-"fit": "borderline",
-"fit_note": "Not one of the target role types — check the details",
-"target": false,
 "families": [
 "Logistics & supply chain"
 ]
@@ -10770,9 +10732,6 @@
 "links": {
 "Tanqeeb": "https://bahrain.tanqeeb.com/jobs-in-middle-east/all/jobs/021314610.html"
 },
-"fit": "none",
-"fit_note": "Not a fit (score 0): Head of / AVP level or above",
-"target": false,
 "families": [
 "Logistics & supply chain"
 ]
@@ -10793,9 +10752,6 @@
 "links": {
 "Tanqeeb": "https://bahrain.tanqeeb.com/jobs-in-middle-east/all/jobs/021313726.html"
 },
-"fit": "none",
-"fit_note": "Not a fit (score 0): Sales / business development (not RM)",
-"target": false,
 "families": [
 "Logistics & supply chain"
 ]
@@ -10816,9 +10772,6 @@
 "links": {
 "Tanqeeb": "https://bahrain.tanqeeb.com/jobs-in-middle-east/all/jobs/021315043.html"
 },
-"fit": "borderline",
-"fit_note": "Not one of the target role types — check the details",
-"target": false,
 "families": [
 "Education"
 ]
@@ -10839,9 +10792,6 @@
 "links": {
 "Tanqeeb": "https://bahrain.tanqeeb.com/jobs-in-middle-east/all/jobs/021315045.html"
 },
-"fit": "borderline",
-"fit_note": "Partial match — check the duties and pay",
-"target": false,
 "families": [
 "Legal"
 ]
@@ -10862,9 +10812,6 @@
 "links": {
 "Tanqeeb": "https://bahrain.tanqeeb.com/jobs-in-middle-east/all/jobs/021315044.html"
 },
-"fit": "borderline",
-"fit_note": "Partial match — check the duties and pay",
-"target": false,
 "families": [
 "Legal"
 ]
@@ -11130,6 +11077,7 @@
 "roles": [
 "operations analyst",
 "KYC",
+"AML",
 "risk",
 "corporate banking",
 "accountant",
@@ -11230,6 +11178,7 @@
 "roles": [
 "bank",
 "financial crime",
+"data analyst",
 "sales manager",
 "marketing",
 "digital marketing",
@@ -11241,6 +11190,7 @@
 "families": [
 "Banking & finance ops",
 "Compliance, risk & audit",
+"IT & software",
 "Sales & business dev",
 "Marketing & media"
 ]
@@ -11321,7 +11271,6 @@
 ],
 "roles": [
 "risk",
-"civil engineer",
 "project engineer"
 ],
 "links": {
@@ -11400,8 +11349,10 @@
 "LinkedIn"
 ],
 "roles": [
+"relationship manager",
 "account manager",
 "sales executive",
+"business development",
 "call centre",
 "medical"
 ],
@@ -11484,6 +11435,7 @@
 "customer service",
 "call centre",
 "hotel",
+"restaurant",
 "front office",
 "cashier"
 ],
@@ -11509,6 +11461,7 @@
 ],
 "roles": [
 "data analyst",
+"marketing",
 "digital marketing",
 "graphic designer",
 "social media"
@@ -11534,8 +11487,7 @@
 "roles": [
 "sales executive",
 "call centre",
-"retail",
-"cashier"
+"retail"
 ],
 "links": {
 "LinkedIn": "https://bh.linkedin.com/jobs/view/senior-sales-associate-at-apparel-group-4442596411"
@@ -11614,26 +11566,6 @@
 ]
 },
 {
-"title": "Piano Teacher",
-"company": "Eighty-Eight Keys Music Academy",
-"location": "Northern Governorate, Bahrain",
-"posted": "2026-10-14",
-"url": "https://bh.linkedin.com/jobs/view/piano-teacher-at-eighty-eight-keys-music-academy-4463431451",
-"id": "piano teacher|eighty eight keys music academy",
-"sources": [
-"LinkedIn"
-],
-"roles": [
-"teacher"
-],
-"links": {
-"LinkedIn": "https://bh.linkedin.com/jobs/view/piano-teacher-at-eighty-eight-keys-music-academy-4463431451"
-},
-"families": [
-"Education"
-]
-},
-{
 "title": "Assistant Manager - Loans and Islamic Operations",
 "company": "Arab Banking corporation",
 "location": "Bahrain - Manama",
@@ -11653,9 +11585,6 @@
 "links": {
 "Tanqeeb": "https://bahrain.tanqeeb.com/jobs-in-middle-east/all/jobs/021310929.html"
 },
-"fit": "strong",
-"fit_note": "Back-office / operations",
-"target": false,
 "families": [
 "Banking & finance ops",
 "Accounting & finance"
@@ -11686,9 +11615,6 @@
 "links": {
 "Tanqeeb": "https://bahrain.tanqeeb.com/jobs-in-middle-east/all/jobs/021312376.html"
 },
-"fit": "strong",
-"fit_note": "Government relations / PRO",
-"target": true,
 "families": [
 "Banking & finance ops",
 "Relationship & client mgmt",
@@ -11717,9 +11643,6 @@
 "links": {
 "Tanqeeb": "https://bahrain.tanqeeb.com/jobs-in-middle-east/all/jobs/021312373.html"
 },
-"fit": "none",
-"fit_note": "Not a fit (score 0): Customer service / call centre",
-"target": false,
 "families": [
 "Compliance, risk & audit",
 "Customer service",
@@ -11746,9 +11669,6 @@
 "links": {
 "Tanqeeb": "https://bahrain.tanqeeb.com/jobs-in-middle-east/all/jobs/021310928.html"
 },
-"fit": "borderline",
-"fit_note": "Partial match — check the duties and pay",
-"target": true,
 "families": [
 "Compliance, risk & audit",
 "Logistics & supply chain"
@@ -11774,9 +11694,6 @@
 "links": {
 "Tanqeeb": "https://bahrain.tanqeeb.com/jobs-in-middle-east/all/jobs/021312375.html"
 },
-"fit": "borderline",
-"fit_note": "Partial match — check the duties and pay",
-"target": false,
 "families": [
 "Compliance, risk & audit",
 "Accounting & finance",
@@ -11803,9 +11720,6 @@
 "links": {
 "Tanqeeb": "https://bahrain.tanqeeb.com/jobs-in-middle-east/all/jobs/021310930.html"
 },
-"fit": "borderline",
-"fit_note": "Partial match — check the duties and pay",
-"target": false,
 "families": [
 "Compliance, risk & audit",
 "Accounting & finance",
@@ -11831,9 +11745,6 @@
 "links": {
 "Tanqeeb": "https://bahrain.tanqeeb.com/jobs-in-bahrain/all/jobs/021311793.html"
 },
-"fit": "borderline",
-"fit_note": "Not one of the target role types — check the details",
-"target": false,
 "families": [
 "Relationship & client mgmt",
 "Accounting & finance",
@@ -11857,9 +11768,6 @@
 "links": {
 "Tanqeeb": "https://bahrain.tanqeeb.com/jobs-in-middle-east/all/jobs/021312379.html"
 },
-"fit": "borderline",
-"fit_note": "Partial match — check the duties and pay",
-"target": true,
 "families": [
 "Relationship & client mgmt"
 ]
@@ -11882,9 +11790,6 @@
 "links": {
 "Tanqeeb": "https://bahrain.tanqeeb.com/jobs-in-middle-east/all/jobs/021307560.html"
 },
-"fit": "borderline",
-"fit_note": "Partial match — check the duties and pay",
-"target": false,
 "families": [
 "HR & admin",
 "IT & software",
@@ -11909,9 +11814,6 @@
 "links": {
 "Tanqeeb": "https://bahrain.tanqeeb.com/jobs-in-middle-east/all/jobs/021312371.html"
 },
-"fit": "none",
-"fit_note": "Not a fit (score 0): Sales / business development (not RM)",
-"target": false,
 "families": [
 "Sales & business dev",
 "Retail",
@@ -11935,9 +11837,6 @@
 "links": {
 "Tanqeeb": "https://bahrain.tanqeeb.com/jobs-in-middle-east/all/jobs/021310932.html"
 },
-"fit": "borderline",
-"fit_note": "Partial match — check the duties and pay",
-"target": false,
 "families": [
 "Marketing & media"
 ]
@@ -11960,9 +11859,6 @@
 "links": {
 "Tanqeeb": "https://bahrain.tanqeeb.com/jobs-in-middle-east/all/jobs/021310931.html"
 },
-"fit": "borderline",
-"fit_note": "Not one of the target role types — check the details",
-"target": false,
 "families": [
 "Marketing & media"
 ]
@@ -11986,9 +11882,6 @@
 "links": {
 "Tanqeeb": "https://bahrain.tanqeeb.com/jobs-in-middle-east/all/jobs/021309766.html"
 },
-"fit": "none",
-"fit_note": "Not a fit (score 0): Pure tech role",
-"target": false,
 "families": [
 "Marketing & media",
 "Healthcare",
@@ -12013,9 +11906,6 @@
 "links": {
 "Tanqeeb": "https://bahrain.tanqeeb.com/jobs-in-middle-east/all/jobs/021312372.html"
 },
-"fit": "none",
-"fit_note": "Not a fit (score 0): Hospitality / trades",
-"target": false,
 "families": [
 "Hospitality & F&B",
 "Legal"
@@ -12037,9 +11927,6 @@
 "links": {
 "Tanqeeb": "https://bahrain.tanqeeb.com/jobs-in-middle-east/all/jobs/021310925.html"
 },
-"fit": "borderline",
-"fit_note": "Not one of the target role types — check the details",
-"target": true,
 "families": [
 "Logistics & supply chain"
 ]
@@ -12060,9 +11947,6 @@
 "links": {
 "Tanqeeb": "https://bahrain.tanqeeb.com/jobs-in-middle-east/all/jobs/021309767.html"
 },
-"fit": "none",
-"fit_note": "Not a fit (score 0): Head of / AVP level or above",
-"target": false,
 "families": [
 "Legal"
 ]
@@ -12195,6 +12079,7 @@
 "data analyst",
 "sales executive",
 "business development",
+"marketing",
 "logistics",
 "procurement",
 "supply chain"
@@ -12209,6 +12094,7 @@
 "HR & admin",
 "IT & software",
 "Sales & business dev",
+"Marketing & media",
 "Logistics & supply chain"
 ]
 },
@@ -12277,6 +12163,7 @@
 ],
 "roles": [
 "settlement",
+"AML",
 "client onboarding",
 "compliance",
 "financial crime",
@@ -12301,6 +12188,30 @@
 ]
 },
 {
+"title": "Corporate Lawyer",
+"company": "IDEX Consulting Ltd",
+"location": "Manama, Capital Governorate, Bahrain",
+"posted": "2026-10-13",
+"url": "https://bh.linkedin.com/jobs/view/corporate-lawyer-at-idex-consulting-ltd-4477981614",
+"id": "corporate lawyer|idex consulting ltd",
+"sources": [
+"LinkedIn"
+],
+"roles": [
+"AML",
+"financial crime",
+"legal",
+"lawyer"
+],
+"links": {
+"LinkedIn": "https://bh.linkedin.com/jobs/view/corporate-lawyer-at-idex-consulting-ltd-4477981614"
+},
+"families": [
+"Compliance, risk & audit",
+"Legal"
+]
+},
+{
 "title": "Site Technical Manager",
 "company": "NASS Group & Corporation",
 "location": "Riffa, Southern Governorate, Bahrain",
@@ -12313,6 +12224,7 @@
 "roles": [
 "compliance",
 "risk",
+"electrical engineer",
 "civil engineer",
 "project manager"
 ],
@@ -12343,29 +12255,6 @@
 },
 "families": [
 "Compliance, risk & audit"
-]
-},
-{
-"title": "Corporate Lawyer",
-"company": "IDEX Consulting Ltd",
-"location": "Manama, Capital Governorate, Bahrain",
-"posted": "2026-10-13",
-"url": "https://bh.linkedin.com/jobs/view/corporate-lawyer-at-idex-consulting-ltd-4477981614",
-"id": "corporate lawyer|idex consulting ltd",
-"sources": [
-"LinkedIn"
-],
-"roles": [
-"financial crime",
-"legal",
-"lawyer"
-],
-"links": {
-"LinkedIn": "https://bh.linkedin.com/jobs/view/corporate-lawyer-at-idex-consulting-ltd-4477981614"
-},
-"families": [
-"Compliance, risk & audit",
-"Legal"
 ]
 },
 {
@@ -12471,9 +12360,6 @@
 "links": {
 "Tanqeeb": "https://bahrain.tanqeeb.com/jobs-in-middle-east/all/jobs/021307554.html"
 },
-"fit": "borderline",
-"fit_note": "Partial match — check the duties and pay",
-"target": true,
 "families": [
 "Compliance, risk & audit",
 "Relationship & client mgmt",
@@ -12496,9 +12382,6 @@
 "links": {
 "Tanqeeb": "https://bahrain.tanqeeb.com/jobs-in-middle-east/all/jobs/021307556.html"
 },
-"fit": "none",
-"fit_note": "Not a fit (score 0): Head of / AVP level or above",
-"target": false,
 "families": [
 "HR & admin"
 ]
@@ -12519,9 +12402,6 @@
 "links": {
 "Tanqeeb": "https://bahrain.tanqeeb.com/jobs-in-middle-east/all/jobs/021307563.html"
 },
-"fit": "borderline",
-"fit_note": "Not one of the target role types — check the details",
-"target": false,
 "families": [
 "IT & software"
 ]
@@ -12542,9 +12422,6 @@
 "links": {
 "Tanqeeb": "https://bahrain.tanqeeb.com/jobs-in-middle-east/all/jobs/021306792.html"
 },
-"fit": "borderline",
-"fit_note": "Not one of the target role types — check the details",
-"target": false,
 "families": [
 "IT & software"
 ]
@@ -12565,9 +12442,6 @@
 "links": {
 "Tanqeeb": "https://bahrain.tanqeeb.com/jobs-in-middle-east/all/jobs/021307559.html"
 },
-"fit": "none",
-"fit_note": "Not a fit (score 0): Hospitality / trades",
-"target": false,
 "families": [
 "Engineering & technical"
 ]
@@ -12588,9 +12462,6 @@
 "links": {
 "Tanqeeb": "https://bahrain.tanqeeb.com/jobs-in-middle-east/all/jobs/021307550.html"
 },
-"fit": "borderline",
-"fit_note": "Partial match — check the duties and pay",
-"target": false,
 "families": [
 "Marketing & media"
 ]
@@ -12612,9 +12483,6 @@
 "links": {
 "Tanqeeb": "https://bahrain.tanqeeb.com/jobs-in-middle-east/all/jobs/021307549.html"
 },
-"fit": "none",
-"fit_note": "Not a fit (score 0): Hospitality / trades",
-"target": false,
 "families": [
 "Customer service",
 "Hospitality & F&B"
@@ -12636,9 +12504,6 @@
 "links": {
 "Tanqeeb": "https://bahrain.tanqeeb.com/jobs-in-middle-east/all/jobs/021307553.html"
 },
-"fit": "borderline",
-"fit_note": "Not one of the target role types — check the details",
-"target": false,
 "families": [
 "Healthcare"
 ]
@@ -12661,9 +12526,6 @@
 "links": {
 "Tanqeeb": "https://bahrain.tanqeeb.com/jobs-in-middle-east/all/jobs/021306790.html"
 },
-"fit": "none",
-"fit_note": "Not a fit (score 0): Head of / AVP level or above",
-"target": false,
 "families": [
 "Healthcare",
 "Logistics & supply chain"
@@ -12686,9 +12548,6 @@
 "links": {
 "Tanqeeb": "https://bahrain.tanqeeb.com/jobs-in-middle-east/all/jobs/021306794.html"
 },
-"fit": "none",
-"fit_note": "Not a fit (score 0): Hospitality / trades",
-"target": false,
 "families": [
 "Hospitality & F&B"
 ]
@@ -12709,9 +12568,6 @@
 "links": {
 "Tanqeeb": "https://bahrain.tanqeeb.com/jobs-in-middle-east/all/jobs/021307564.html"
 },
-"fit": "none",
-"fit_note": "Not a fit (score 0): Hospitality / trades",
-"target": false,
 "families": [
 "Hospitality & F&B"
 ]
@@ -12732,9 +12588,6 @@
 "links": {
 "Tanqeeb": "https://bahrain.tanqeeb.com/jobs-in-middle-east/all/jobs/021307557.html"
 },
-"fit": "none",
-"fit_note": "Not a fit (score 0): Hospitality / trades",
-"target": false,
 "families": [
 "Hospitality & F&B"
 ]
@@ -12755,9 +12608,6 @@
 "links": {
 "Tanqeeb": "https://bahrain.tanqeeb.com/jobs-in-middle-east/all/jobs/021307551.html"
 },
-"fit": "none",
-"fit_note": "Not a fit (score 0): Head of / AVP level or above",
-"target": false,
 "families": [
 "Logistics & supply chain"
 ]
@@ -12820,6 +12670,33 @@
 ]
 },
 {
+"title": "Senior Coordinator of Career Center",
+"company": "American University of Bahrain (AUBH)",
+"location": "Riffa, Southern Governorate, Bahrain",
+"posted": "2026-10-12",
+"url": "https://bh.linkedin.com/jobs/view/senior-coordinator-of-career-center-at-american-university-of-bahrain-aubh-4478525854",
+"id": "senior coordinator of career center|american university of bahrain aubh",
+"sources": [
+"LinkedIn"
+],
+"roles": [
+"back office",
+"HR operations",
+"HR officer",
+"recruiter",
+"administration officer",
+"office manager",
+"secretary"
+],
+"links": {
+"LinkedIn": "https://bh.linkedin.com/jobs/view/senior-coordinator-of-career-center-at-american-university-of-bahrain-aubh-4478525854"
+},
+"families": [
+"Banking & finance ops",
+"HR & admin"
+]
+},
+{
 "title": "Manager | Audit & Assurance | Controls Assurance | Bahrain",
 "company": "Deloitte",
 "location": "Manama, Capital Governorate, Bahrain",
@@ -12832,6 +12709,7 @@
 "roles": [
 "reconciliation",
 "KYC",
+"AML",
 "client onboarding",
 "compliance",
 "financial crime",
@@ -12931,31 +12809,6 @@
 "families": [
 "Accounting & finance",
 "IT & software"
-]
-},
-{
-"title": "Senior Coordinator of Career Center",
-"company": "American University of Bahrain (AUBH)",
-"location": "Riffa, Southern Governorate, Bahrain",
-"posted": "2026-10-12",
-"url": "https://bh.linkedin.com/jobs/view/senior-coordinator-of-career-center-at-american-university-of-bahrain-aubh-4478525854",
-"id": "senior coordinator of career center|american university of bahrain aubh",
-"sources": [
-"LinkedIn"
-],
-"roles": [
-"HR operations",
-"HR officer",
-"recruiter",
-"administration officer",
-"office manager",
-"secretary"
-],
-"links": {
-"LinkedIn": "https://bh.linkedin.com/jobs/view/senior-coordinator-of-career-center-at-american-university-of-bahrain-aubh-4478525854"
-},
-"families": [
-"HR & admin"
 ]
 },
 {
@@ -13287,9 +13140,6 @@
 "links": {
 "Tanqeeb": "https://bahrain.tanqeeb.com/jobs-in-middle-east/all/jobs/021306110.html"
 },
-"fit": "borderline",
-"fit_note": "Not one of the target role types — check the details",
-"target": false,
 "families": [
 "Banking & finance ops",
 "Customer service",
@@ -13314,9 +13164,6 @@
 "links": {
 "Tanqeeb": "https://bahrain.tanqeeb.com/jobs-in-middle-east/all/jobs/021304486.html"
 },
-"fit": "borderline",
-"fit_note": "Not one of the target role types — check the details",
-"target": false,
 "families": [
 "Banking & finance ops",
 "Customer service",
@@ -13339,9 +13186,6 @@
 "links": {
 "Tanqeeb": "https://bahrain.tanqeeb.com/jobs-in-middle-east/all/jobs/021304485.html"
 },
-"fit": "borderline",
-"fit_note": "Not one of the target role types — check the details",
-"target": false,
 "families": [
 "Banking & finance ops"
 ]
@@ -13364,9 +13208,6 @@
 "links": {
 "Tanqeeb": "https://bahrain.tanqeeb.com/jobs-in-bahrain/all/jobs/021305153.html"
 },
-"fit": "none",
-"fit_note": "Not a fit (score 0): Head of / AVP level or above",
-"target": false,
 "families": [
 "Compliance, risk & audit",
 "Relationship & client mgmt",
@@ -13390,9 +13231,6 @@
 "links": {
 "Tanqeeb": "https://bahrain.tanqeeb.com/jobs-in-middle-east/all/jobs/021306102.html"
 },
-"fit": "borderline",
-"fit_note": "Not one of the target role types — check the details",
-"target": false,
 "families": [
 "Compliance, risk & audit",
 "Logistics & supply chain"
@@ -13414,9 +13252,6 @@
 "links": {
 "Tanqeeb": "https://bahrain.tanqeeb.com/jobs-in-middle-east/all/jobs/021305272.html"
 },
-"fit": "borderline",
-"fit_note": "Not one of the target role types — check the details",
-"target": false,
 "families": [
 "Compliance, risk & audit"
 ]
@@ -13441,9 +13276,6 @@
 "links": {
 "Tanqeeb": "https://bahrain.tanqeeb.com/jobs-in-bahrain/all/jobs/021305254.html"
 },
-"fit": "borderline",
-"fit_note": "Not one of the target role types — check the details",
-"target": false,
 "families": [
 "Compliance, risk & audit",
 "Customer service",
@@ -13469,9 +13301,6 @@
 "links": {
 "Tanqeeb": "https://bahrain.tanqeeb.com/jobs-in-middle-east/all/jobs/021305266.html"
 },
-"fit": "none",
-"fit_note": "Not a fit (score 0): Pure tech role",
-"target": false,
 "families": [
 "HR & admin",
 "IT & software",
@@ -13494,9 +13323,6 @@
 "links": {
 "Tanqeeb": "https://bahrain.tanqeeb.com/jobs-in-middle-east/all/jobs/021305437.html"
 },
-"fit": "none",
-"fit_note": "Not a fit (score 0): Head of / AVP level or above",
-"target": true,
 "families": [
 "HR & admin"
 ]
@@ -13518,9 +13344,6 @@
 "links": {
 "Tanqeeb": "https://bahrain.tanqeeb.com/jobs-in-middle-east/all/jobs/021305270.html"
 },
-"fit": "borderline",
-"fit_note": "Partial match — check the duties and pay",
-"target": true,
 "families": [
 "HR & admin",
 "IT & software"
@@ -13543,9 +13366,6 @@
 "links": {
 "Tanqeeb": "https://bahrain.tanqeeb.com/jobs-in-middle-east/all/jobs/021306107.html"
 },
-"fit": "borderline",
-"fit_note": "Not one of the target role types — check the details",
-"target": false,
 "families": [
 "HR & admin",
 "Healthcare"
@@ -13569,9 +13389,6 @@
 "links": {
 "Tanqeeb": "https://bahrain.tanqeeb.com/jobs-in-middle-east/all/jobs/021305271.html"
 },
-"fit": "borderline",
-"fit_note": "Not one of the target role types — check the details",
-"target": true,
 "families": [
 "HR & admin",
 "Marketing & media"
@@ -13593,9 +13410,6 @@
 "links": {
 "Tanqeeb": "https://bahrain.tanqeeb.com/jobs-in-middle-east/all/jobs/021306116.html"
 },
-"fit": "borderline",
-"fit_note": "Not one of the target role types — check the details",
-"target": false,
 "families": [
 "IT & software"
 ]
@@ -13616,9 +13430,6 @@
 "links": {
 "Tanqeeb": "https://bahrain.tanqeeb.com/jobs-in-middle-east/all/jobs/021306115.html"
 },
-"fit": "borderline",
-"fit_note": "Not one of the target role types — check the details",
-"target": false,
 "families": [
 "IT & software"
 ]
@@ -13640,9 +13451,6 @@
 "links": {
 "Tanqeeb": "https://bahrain.tanqeeb.com/jobs-in-middle-east/all/jobs/021306109.html"
 },
-"fit": "borderline",
-"fit_note": "Not one of the target role types — check the details",
-"target": false,
 "families": [
 "IT & software",
 "Education"
@@ -13664,9 +13472,6 @@
 "links": {
 "Tanqeeb": "https://bahrain.tanqeeb.com/jobs-in-middle-east/all/jobs/021306108.html"
 },
-"fit": "borderline",
-"fit_note": "Not one of the target role types — check the details",
-"target": false,
 "families": [
 "IT & software"
 ]
@@ -13687,9 +13492,6 @@
 "links": {
 "Tanqeeb": "https://bahrain.tanqeeb.com/jobs-in-middle-east/all/jobs/021304138.html"
 },
-"fit": "borderline",
-"fit_note": "Not one of the target role types — check the details",
-"target": false,
 "families": [
 "IT & software"
 ]
@@ -13713,9 +13515,6 @@
 "links": {
 "Tanqeeb": "https://bahrain.tanqeeb.com/jobs-in-bahrain/all/jobs/021305264.html"
 },
-"fit": "borderline",
-"fit_note": "Not one of the target role types — check the details",
-"target": false,
 "families": [
 "Marketing & media",
 "Customer service"
@@ -13738,9 +13537,6 @@
 "links": {
 "Tanqeeb": "https://bahrain.tanqeeb.com/jobs-in-bahrain/all/jobs/021305253.html"
 },
-"fit": "none",
-"fit_note": "Not a fit (score 0): Sales / business development (not RM)",
-"target": false,
 "families": [
 "Marketing & media"
 ]
@@ -13762,9 +13558,6 @@
 "links": {
 "Tanqeeb": "https://bahrain.tanqeeb.com/jobs-in-middle-east/all/jobs/021306105.html"
 },
-"fit": "none",
-"fit_note": "Not a fit (score 0): Customer service / call centre",
-"target": false,
 "families": [
 "Customer service",
 "Retail"
@@ -13787,9 +13580,6 @@
 "links": {
 "Tanqeeb": "https://bahrain.tanqeeb.com/jobs-in-middle-east/all/jobs/021306112.html"
 },
-"fit": "borderline",
-"fit_note": "Not one of the target role types — check the details",
-"target": false,
 "families": [
 "Healthcare",
 "Logistics & supply chain"
@@ -13811,9 +13601,6 @@
 "links": {
 "Tanqeeb": "https://bahrain.tanqeeb.com/jobs-in-middle-east/all/jobs/021305267.html"
 },
-"fit": "borderline",
-"fit_note": "Not one of the target role types — check the details",
-"target": false,
 "families": [
 "Healthcare"
 ]
@@ -13834,9 +13621,6 @@
 "links": {
 "Tanqeeb": "https://bahrain.tanqeeb.com/jobs-in-middle-east/all/jobs/021304484.html"
 },
-"fit": "borderline",
-"fit_note": "Not one of the target role types — check the details",
-"target": false,
 "families": [
 "Healthcare"
 ]
@@ -13858,9 +13642,6 @@
 "links": {
 "Tanqeeb": "https://bahrain.tanqeeb.com/jobs-in-middle-east/all/jobs/021306114.html"
 },
-"fit": "borderline",
-"fit_note": "Not one of the target role types — check the details",
-"target": false,
 "families": [
 "Hospitality & F&B"
 ]
@@ -13882,9 +13663,6 @@
 "links": {
 "Tanqeeb": "https://bahrain.tanqeeb.com/jobs-in-middle-east/all/jobs/021306106.html"
 },
-"fit": "none",
-"fit_note": "Not a fit (score 0): Hospitality / trades",
-"target": false,
 "families": [
 "Hospitality & F&B"
 ]
@@ -13906,9 +13684,6 @@
 "links": {
 "Tanqeeb": "https://bahrain.tanqeeb.com/jobs-in-middle-east/all/jobs/021304139.html"
 },
-"fit": "borderline",
-"fit_note": "Not one of the target role types — check the details",
-"target": false,
 "families": [
 "Hospitality & F&B"
 ]
@@ -13931,9 +13706,6 @@
 "links": {
 "Tanqeeb": "https://bahrain.tanqeeb.com/jobs-in-middle-east/all/jobs/021305265.html"
 },
-"fit": "strong",
-"fit_note": "Back-office / operations",
-"target": false,
 "families": [
 "Logistics & supply chain",
 "Project & management"
@@ -14071,6 +13843,7 @@
 ],
 "roles": [
 "KYC",
+"AML",
 "compliance",
 "risk",
 "government relations",
@@ -14099,6 +13872,7 @@
 ],
 "roles": [
 "client onboarding",
+"relationship manager",
 "receptionist",
 "sales executive",
 "customer service",
@@ -14112,6 +13886,7 @@
 },
 "families": [
 "Compliance, risk & audit",
+"Relationship & client mgmt",
 "HR & admin",
 "Sales & business dev",
 "Customer service",
@@ -14273,9 +14048,6 @@
 "links": {
 "Tanqeeb": "https://bahrain.tanqeeb.com/jobs-in-bahrain/all/jobs/021302284.html"
 },
-"fit": "borderline",
-"fit_note": "Not one of the target role types — check the details",
-"target": false,
 "families": [
 "Accounting & finance",
 "Marketing & media",
@@ -14300,9 +14072,6 @@
 "links": {
 "Tanqeeb": "https://bahrain.tanqeeb.com/jobs-in-middle-east/all/jobs/021303739.html"
 },
-"fit": "borderline",
-"fit_note": "Not one of the target role types — check the details",
-"target": false,
 "families": [
 "HR & admin",
 "Healthcare"
@@ -14324,9 +14093,6 @@
 "links": {
 "Tanqeeb": "https://bahrain.tanqeeb.com/jobs-in-middle-east/all/jobs/021303742.html"
 },
-"fit": "borderline",
-"fit_note": "Not one of the target role types — check the details",
-"target": false,
 "families": [
 "Healthcare"
 ]
@@ -14392,9 +14158,6 @@
 "links": {
 "Tanqeeb": "https://bahrain.tanqeeb.com/jobs-in-middle-east/all/jobs/021300663.html"
 },
-"fit": "borderline",
-"fit_note": "Partial match — check the duties and pay",
-"target": false,
 "families": [
 "Relationship & client mgmt",
 "Marketing & media",
@@ -14417,9 +14180,6 @@
 "links": {
 "Tanqeeb": "https://bahrain.tanqeeb.com/jobs-in-bahrain/all/jobs/021301500.html"
 },
-"fit": "borderline",
-"fit_note": "Not one of the target role types — check the details",
-"target": false,
 "families": [
 "Healthcare"
 ]
@@ -14441,9 +14201,6 @@
 "links": {
 "Tanqeeb": "https://bahrain.tanqeeb.com/jobs-in-bahrain/all/jobs/021301070.html"
 },
-"fit": "borderline",
-"fit_note": "Partial match — check the duties and pay",
-"target": false,
 "families": [
 "Logistics & supply chain"
 ]
@@ -14815,9 +14572,6 @@
 "links": {
 "Tanqeeb": "https://bahrain.tanqeeb.com/jobs-in-middle-east/all/jobs/021300197.html"
 },
-"fit": "borderline",
-"fit_note": "Not one of the target role types — check the details",
-"target": false,
 "families": [
 "Banking & finance ops",
 "Relationship & client mgmt",
@@ -14847,9 +14601,6 @@
 "links": {
 "Tanqeeb": "https://bahrain.tanqeeb.com/jobs-in-middle-east/all/jobs/021297759.html"
 },
-"fit": "borderline",
-"fit_note": "Partial match — check the duties and pay",
-"target": false,
 "families": [
 "Banking & finance ops",
 "Compliance, risk & audit",
@@ -14876,9 +14627,6 @@
 "links": {
 "Tanqeeb": "https://bahrain.tanqeeb.com/jobs-in-middle-east/all/jobs/021297754.html"
 },
-"fit": "borderline",
-"fit_note": "Not one of the target role types — check the details",
-"target": false,
 "families": [
 "Banking & finance ops",
 "Accounting & finance",
@@ -14907,9 +14655,6 @@
 "links": {
 "Tanqeeb": "https://bahrain.tanqeeb.com/jobs-in-middle-east/all/jobs/021297752.html"
 },
-"fit": "borderline",
-"fit_note": "Partial match — check the duties and pay",
-"target": false,
 "families": [
 "Banking & finance ops",
 "Compliance, risk & audit",
@@ -14939,9 +14684,6 @@
 "links": {
 "Tanqeeb": "https://bahrain.tanqeeb.com/jobs-in-middle-east/all/jobs/021300201.html"
 },
-"fit": "none",
-"fit_note": "Not a fit (score 0): Head of / AVP level or above",
-"target": false,
 "families": [
 "Banking & finance ops",
 "Compliance, risk & audit",
@@ -14969,9 +14711,6 @@
 "links": {
 "Tanqeeb": "https://bahrain.tanqeeb.com/jobs-in-middle-east/all/jobs/021297751.html"
 },
-"fit": "strong",
-"fit_note": "Payroll",
-"target": true,
 "families": [
 "Banking & finance ops",
 "Compliance, risk & audit",
@@ -14997,9 +14736,6 @@
 "links": {
 "Tanqeeb": "https://bahrain.tanqeeb.com/jobs-in-middle-east/all/jobs/021299753.html"
 },
-"fit": "none",
-"fit_note": "Not a fit (score 0): Head of / AVP level or above",
-"target": false,
 "families": [
 "Compliance, risk & audit",
 "Accounting & finance",
@@ -15024,9 +14760,6 @@
 "links": {
 "Tanqeeb": "https://bahrain.tanqeeb.com/jobs-in-middle-east/all/jobs/021297750.html"
 },
-"fit": "borderline",
-"fit_note": "Partial match — check the duties and pay",
-"target": true,
 "families": [
 "Compliance, risk & audit",
 "Accounting & finance"
@@ -15050,9 +14783,6 @@
 "links": {
 "Tanqeeb": "https://bahrain.tanqeeb.com/jobs-in-middle-east/all/jobs/021300199.html"
 },
-"fit": "none",
-"fit_note": "Not a fit (score 0): Head of / AVP level or above",
-"target": false,
 "families": [
 "Accounting & finance",
 "Marketing & media",
@@ -15075,9 +14805,6 @@
 "links": {
 "Tanqeeb": "https://bahrain.tanqeeb.com/jobs-in-middle-east/all/jobs/021300202.html"
 },
-"fit": "borderline",
-"fit_note": "Not one of the target role types — check the details",
-"target": false,
 "families": [
 "HR & admin"
 ]
@@ -15099,9 +14826,6 @@
 "links": {
 "Tanqeeb": "https://bahrain.tanqeeb.com/jobs-in-bahrain/all/jobs/021298831.html"
 },
-"fit": "none",
-"fit_note": "Not a fit (score 0): Hospitality / trades",
-"target": false,
 "families": [
 "HR & admin",
 "Hospitality & F&B"
@@ -15124,9 +14848,6 @@
 "links": {
 "Tanqeeb": "https://bahrain.tanqeeb.com/jobs-in-middle-east/all/jobs/021297747.html"
 },
-"fit": "borderline",
-"fit_note": "Not one of the target role types — check the details",
-"target": false,
 "families": [
 "Engineering & technical",
 "Logistics & supply chain"
@@ -15148,9 +14869,6 @@
 "links": {
 "Tanqeeb": "https://bahrain.tanqeeb.com/jobs-in-middle-east/all/jobs/021300196.html"
 },
-"fit": "none",
-"fit_note": "Not a fit (score 0): Hospitality / trades",
-"target": false,
 "families": [
 "Engineering & technical"
 ]
@@ -15171,9 +14889,6 @@
 "links": {
 "Tanqeeb": "https://bahrain.tanqeeb.com/jobs-in-middle-east/all/jobs/021298833.html"
 },
-"fit": "none",
-"fit_note": "Not a fit (score 0): Hospitality / trades",
-"target": true,
 "families": [
 "Engineering & technical"
 ]
@@ -15195,9 +14910,6 @@
 "links": {
 "Tanqeeb": "https://bahrain.tanqeeb.com/jobs-in-middle-east/all/jobs/021297749.html"
 },
-"fit": "none",
-"fit_note": "Not a fit (score 0): Hospitality / trades",
-"target": false,
 "families": [
 "Engineering & technical",
 "Healthcare"
@@ -15220,9 +14932,6 @@
 "links": {
 "Tanqeeb": "https://bahrain.tanqeeb.com/jobs-in-middle-east/all/jobs/021300195.html"
 },
-"fit": "none",
-"fit_note": "Not a fit (score 0): Sales / business development (not RM)",
-"target": false,
 "families": [
 "Marketing & media",
 "Logistics & supply chain"
@@ -15245,9 +14954,6 @@
 "links": {
 "Tanqeeb": "https://bahrain.tanqeeb.com/jobs-in-middle-east/all/jobs/021297760.html"
 },
-"fit": "none",
-"fit_note": "Not a fit (score 0): Hospitality / trades",
-"target": false,
 "families": [
 "Healthcare",
 "Logistics & supply chain"
@@ -15269,9 +14975,6 @@
 "links": {
 "Tanqeeb": "https://bahrain.tanqeeb.com/jobs-in-middle-east/all/jobs/021297756.html"
 },
-"fit": "borderline",
-"fit_note": "Not one of the target role types — check the details",
-"target": false,
 "families": [
 "Healthcare"
 ]
@@ -15292,9 +14995,6 @@
 "links": {
 "Tanqeeb": "https://bahrain.tanqeeb.com/jobs-in-middle-east/all/jobs/021300198.html"
 },
-"fit": "none",
-"fit_note": "Not a fit (score 0): Hospitality / trades",
-"target": false,
 "families": [
 "Hospitality & F&B"
 ]
@@ -15317,9 +15017,6 @@
 "links": {
 "Tanqeeb": "https://bahrain.tanqeeb.com/jobs-in-bahrain/all/jobs/021298832.html"
 },
-"fit": "none",
-"fit_note": "Not a fit (score 0): Hospitality / trades",
-"target": false,
 "families": [
 "Hospitality & F&B",
 "Education"
@@ -15341,9 +15038,6 @@
 "links": {
 "Tanqeeb": "https://bahrain.tanqeeb.com/jobs-in-middle-east/all/jobs/021297761.html"
 },
-"fit": "none",
-"fit_note": "Not a fit (score 0): Hospitality / trades",
-"target": false,
 "families": [
 "Hospitality & F&B"
 ]
@@ -15364,9 +15058,6 @@
 "links": {
 "Tanqeeb": "https://bahrain.tanqeeb.com/jobs-in-middle-east/all/jobs/021297753.html"
 },
-"fit": "none",
-"fit_note": "Not a fit (score 0): Hospitality / trades",
-"target": false,
 "families": [
 "Hospitality & F&B"
 ]
@@ -15387,9 +15078,6 @@
 "links": {
 "Tanqeeb": "https://bahrain.tanqeeb.com/jobs-in-middle-east/all/jobs/021299755.html"
 },
-"fit": "borderline",
-"fit_note": "Not one of the target role types — check the details",
-"target": false,
 "families": [
 "Hospitality & F&B"
 ]
@@ -15410,9 +15098,6 @@
 "links": {
 "Tanqeeb": "https://bahrain.tanqeeb.com/jobs-in-middle-east/all/jobs/021299754.html"
 },
-"fit": "none",
-"fit_note": "Not a fit (score 0): Hospitality / trades",
-"target": false,
 "families": [
 "Hospitality & F&B"
 ]
@@ -15498,6 +15183,7 @@
 ],
 "roles": [
 "operations officer",
+"reconciliation",
 "administration officer",
 "office manager",
 "receptionist",
@@ -15561,7 +15247,9 @@
 ],
 "roles": [
 "compliance",
+"mechanical engineer",
 "electrical engineer",
+"project engineer",
 "technician"
 ],
 "links": {
@@ -15611,27 +15299,6 @@
 ],
 "links": {
 "LinkedIn": "https://bh.linkedin.com/jobs/view/mechanical-supervisor-at-nass-group-corporation-4477113173"
-},
-"families": [
-"Engineering & technical"
-]
-},
-{
-"title": "Electrician",
-"company": "NASS Group & Corporation",
-"location": "Askar, Southern Governorate, Bahrain",
-"posted": "2026-10-08",
-"url": "https://bh.linkedin.com/jobs/view/electrician-at-nass-group-corporation-4477118067",
-"id": "electrician|nass group corporation",
-"sources": [
-"LinkedIn"
-],
-"roles": [
-"electrical engineer",
-"technician"
-],
-"links": {
-"LinkedIn": "https://bh.linkedin.com/jobs/view/electrician-at-nass-group-corporation-4477118067"
 },
 "families": [
 "Engineering & technical"
@@ -15771,9 +15438,6 @@
 "links": {
 "Tanqeeb": "https://bahrain.tanqeeb.com/jobs-in-middle-east/all/jobs/021295747.html"
 },
-"fit": "strong",
-"fit_note": "Back-office / operations, Payroll",
-"target": false,
 "families": [
 "Banking & finance ops",
 "Compliance, risk & audit",
@@ -15802,9 +15466,6 @@
 "links": {
 "Tanqeeb": "https://bahrain.tanqeeb.com/jobs-in-bahrain/all/jobs/021297030.html"
 },
-"fit": "strong",
-"fit_note": "Back-office / operations",
-"target": false,
 "families": [
 "Banking & finance ops",
 "HR & admin"
@@ -15832,9 +15493,6 @@
 "links": {
 "Tanqeeb": "https://bahrain.tanqeeb.com/jobs-in-middle-east/all/jobs/021297113.html"
 },
-"fit": "none",
-"fit_note": "Not a fit (score 0): Head of / AVP level or above",
-"target": false,
 "families": [
 "Banking & finance ops",
 "Compliance, risk & audit",
@@ -15861,9 +15519,6 @@
 "links": {
 "Tanqeeb": "https://bahrain.tanqeeb.com/jobs-in-bahrain/all/jobs/021296283.html"
 },
-"fit": "borderline",
-"fit_note": "Partial match — check the duties and pay",
-"target": false,
 "families": [
 "Banking & finance ops",
 "Compliance, risk & audit",
@@ -15891,9 +15546,6 @@
 "links": {
 "Tanqeeb": "https://bahrain.tanqeeb.com/jobs-in-bahrain/all/jobs/021294619.html"
 },
-"fit": "borderline",
-"fit_note": "Partial match — check the duties and pay",
-"target": false,
 "families": [
 "Banking & finance ops",
 "Relationship & client mgmt",
@@ -15919,9 +15571,6 @@
 "links": {
 "Tanqeeb": "https://bahrain.tanqeeb.com/jobs-in-middle-east/all/jobs/021295755.html"
 },
-"fit": "none",
-"fit_note": "Not a fit (score 0): Hospitality / trades",
-"target": false,
 "families": [
 "Relationship & client mgmt",
 "Hospitality & F&B"
@@ -15943,9 +15592,6 @@
 "links": {
 "Tanqeeb": "https://bahrain.tanqeeb.com/jobs-in-middle-east/all/jobs/021295745.html"
 },
-"fit": "borderline",
-"fit_note": "Not one of the target role types — check the details",
-"target": false,
 "families": [
 "HR & admin"
 ]
@@ -15966,9 +15612,6 @@
 "links": {
 "Tanqeeb": "https://bahrain.tanqeeb.com/jobs-in-bahrain/all/jobs/021296284.html"
 },
-"fit": "none",
-"fit_note": "Not a fit (score 0): Sales / business development (not RM)",
-"target": false,
 "families": [
 "Sales & business dev"
 ]
@@ -15989,9 +15632,6 @@
 "links": {
 "Tanqeeb": "https://bahrain.tanqeeb.com/jobs-in-bahrain/all/jobs/021297029.html"
 },
-"fit": "none",
-"fit_note": "Not a fit (score 0): Customer service / call centre",
-"target": false,
 "families": [
 "Customer service"
 ]
@@ -16012,9 +15652,6 @@
 "links": {
 "Tanqeeb": "https://bahrain.tanqeeb.com/jobs-in-middle-east/all/jobs/021295742.html"
 },
-"fit": "none",
-"fit_note": "Not a fit (score 0): Hospitality / trades",
-"target": false,
 "families": [
 "Customer service"
 ]
@@ -16035,9 +15672,6 @@
 "links": {
 "Tanqeeb": "https://bahrain.tanqeeb.com/jobs-in-bahrain/all/jobs/021296282.html"
 },
-"fit": "none",
-"fit_note": "Not a fit (score 0): Hospitality / trades",
-"target": false,
 "families": [
 "Healthcare"
 ]
@@ -16059,9 +15693,6 @@
 "links": {
 "Tanqeeb": "https://bahrain.tanqeeb.com/jobs-in-middle-east/all/jobs/021295754.html"
 },
-"fit": "none",
-"fit_note": "Not a fit (score 0): Hospitality / trades",
-"target": false,
 "families": [
 "Hospitality & F&B"
 ]
@@ -16082,9 +15713,6 @@
 "links": {
 "Tanqeeb": "https://bahrain.tanqeeb.com/jobs-in-middle-east/all/jobs/021297112.html"
 },
-"fit": "borderline",
-"fit_note": "Not one of the target role types — check the details",
-"target": false,
 "families": [
 "Hospitality & F&B"
 ]
@@ -16105,9 +15733,6 @@
 "links": {
 "Tanqeeb": "https://bahrain.tanqeeb.com/jobs-in-middle-east/all/jobs/021297110.html"
 },
-"fit": "none",
-"fit_note": "Not a fit (score 0): Hospitality / trades",
-"target": false,
 "families": [
 "Hospitality & F&B"
 ]
@@ -16128,9 +15753,6 @@
 "links": {
 "Tanqeeb": "https://bahrain.tanqeeb.com/jobs-in-middle-east/all/jobs/021295743.html"
 },
-"fit": "none",
-"fit_note": "Not a fit (score 0): Hospitality / trades",
-"target": false,
 "families": [
 "Hospitality & F&B"
 ]
@@ -16152,9 +15774,6 @@
 "links": {
 "Tanqeeb": "https://bahrain.tanqeeb.com/jobs-in-bahrain/all/jobs/021297028.html"
 },
-"fit": "borderline",
-"fit_note": "Partial match — check the duties and pay",
-"target": false,
 "families": [
 "Logistics & supply chain"
 ]
@@ -16199,6 +15818,7 @@
 ],
 "roles": [
 "bank",
+"AML",
 "software engineer",
 "data analyst"
 ],
@@ -16207,6 +15827,7 @@
 },
 "families": [
 "Banking & finance ops",
+"Compliance, risk & audit",
 "IT & software"
 ]
 },
@@ -16244,6 +15865,7 @@
 ],
 "roles": [
 "mechanical engineer",
+"civil engineer",
 "warehouse",
 "operations manager"
 ],
@@ -16329,26 +15951,6 @@
 ]
 },
 {
-"title": "Beauty Consultant - NARS",
-"company": "Chalhoub Group",
-"location": "Seef, Capital Governorate, Bahrain",
-"posted": "2026-10-07",
-"url": "https://bh.linkedin.com/jobs/view/beauty-consultant-nars-at-chalhoub-group-4437218276",
-"id": "beauty consultant nars|chalhoub group",
-"sources": [
-"LinkedIn"
-],
-"roles": [
-"cashier"
-],
-"links": {
-"LinkedIn": "https://bh.linkedin.com/jobs/view/beauty-consultant-nars-at-chalhoub-group-4437218276"
-},
-"families": [
-"Retail"
-]
-},
-{
 "title": "Executive Assistant to Management / Business Support Executive",
 "company": "Confidential",
 "location": "Bahrain - Manama",
@@ -16369,9 +15971,6 @@
 "links": {
 "Tanqeeb": "https://bahrain.tanqeeb.com/jobs-in-bahrain/all/jobs/021292740.html"
 },
-"fit": "borderline",
-"fit_note": "Partial match — check the duties and pay",
-"target": false,
 "families": [
 "Banking & finance ops",
 "HR & admin",
@@ -16399,9 +15998,6 @@
 "links": {
 "Tanqeeb": "https://bahrain.tanqeeb.com/jobs-in-middle-east/all/jobs/021293748.html"
 },
-"fit": "borderline",
-"fit_note": "Not one of the target role types — check the details",
-"target": false,
 "families": [
 "Banking & finance ops",
 "HR & admin",
@@ -16427,9 +16023,6 @@
 "links": {
 "Tanqeeb": "https://bahrain.tanqeeb.com/jobs-in-middle-east/all/jobs/021293741.html"
 },
-"fit": "borderline",
-"fit_note": "Not one of the target role types — check the details",
-"target": false,
 "families": [
 "Banking & finance ops",
 "Compliance, risk & audit",
@@ -16453,9 +16046,6 @@
 "links": {
 "Tanqeeb": "https://bahrain.tanqeeb.com/jobs-in-middle-east/all/jobs/021293743.html"
 },
-"fit": "borderline",
-"fit_note": "Not one of the target role types — check the details",
-"target": false,
 "families": [
 "Compliance, risk & audit",
 "Healthcare"
@@ -16483,9 +16073,6 @@
 "links": {
 "Tanqeeb": "https://bahrain.tanqeeb.com/jobs-in-middle-east/all/jobs/021293745.html"
 },
-"fit": "strong",
-"fit_note": "Compliance ops / control",
-"target": true,
 "families": [
 "Compliance, risk & audit",
 "Accounting & finance",
@@ -16511,9 +16098,6 @@
 "links": {
 "Tanqeeb": "https://bahrain.tanqeeb.com/jobs-in-bahrain/all/jobs/021292014.html"
 },
-"fit": "borderline",
-"fit_note": "Not one of the target role types — check the details",
-"target": false,
 "families": [
 "IT & software"
 ]
@@ -16534,9 +16118,6 @@
 "links": {
 "Tanqeeb": "https://bahrain.tanqeeb.com/jobs-in-bahrain/all/jobs/021292016.html"
 },
-"fit": "none",
-"fit_note": "Not a fit (score 0): Hospitality / trades",
-"target": false,
 "families": [
 "Engineering & technical"
 ]
@@ -16558,9 +16139,6 @@
 "links": {
 "Tanqeeb": "https://bahrain.tanqeeb.com/jobs-in-bahrain/all/jobs/021292011.html"
 },
-"fit": "borderline",
-"fit_note": "Not one of the target role types — check the details",
-"target": false,
 "families": [
 "Marketing & media",
 "Retail"
@@ -16583,9 +16161,6 @@
 "links": {
 "Tanqeeb": "https://bahrain.tanqeeb.com/jobs-in-middle-east/all/jobs/021293749.html"
 },
-"fit": "none",
-"fit_note": "Not a fit (score 0): Hospitality / trades",
-"target": false,
 "families": [
 "Hospitality & F&B"
 ]
@@ -16606,9 +16181,6 @@
 "links": {
 "Tanqeeb": "https://bahrain.tanqeeb.com/jobs-in-middle-east/all/jobs/021293746.html"
 },
-"fit": "none",
-"fit_note": "Not a fit (score 0): Hospitality / trades",
-"target": false,
 "families": [
 "Hospitality & F&B"
 ]
@@ -16629,9 +16201,6 @@
 "links": {
 "Tanqeeb": "https://bahrain.tanqeeb.com/jobs-in-middle-east/all/jobs/021293744.html"
 },
-"fit": "borderline",
-"fit_note": "Not one of the target role types — check the details",
-"target": false,
 "families": [
 "Hospitality & F&B"
 ]
@@ -16652,9 +16221,6 @@
 "links": {
 "Tanqeeb": "https://bahrain.tanqeeb.com/jobs-in-middle-east/all/jobs/021293742.html"
 },
-"fit": "borderline",
-"fit_note": "Not one of the target role types — check the details",
-"target": false,
 "families": [
 "Hospitality & F&B"
 ]
@@ -16676,9 +16242,6 @@
 "links": {
 "Tanqeeb": "https://bahrain.tanqeeb.com/jobs-in-bahrain/all/jobs/021292015.html"
 },
-"fit": "borderline",
-"fit_note": "Partial match — check the duties and pay",
-"target": false,
 "families": [
 "Logistics & supply chain"
 ]
@@ -16700,9 +16263,6 @@
 "links": {
 "Tanqeeb": "https://bahrain.tanqeeb.com/jobs-in-bahrain/all/jobs/021292013.html"
 },
-"fit": "strong",
-"fit_note": "Back-office / operations",
-"target": false,
 "families": [
 "Logistics & supply chain"
 ]
@@ -16725,9 +16285,6 @@
 "links": {
 "Tanqeeb": "https://bahrain.tanqeeb.com/jobs-in-bahrain/all/jobs/021292010.html"
 },
-"fit": "borderline",
-"fit_note": "Partial match — check the duties and pay",
-"target": false,
 "families": [
 "Logistics & supply chain"
 ]
@@ -16951,7 +16508,6 @@
 "compliance",
 "internal control",
 "audit",
-"corporate banking",
 "accountant",
 "accounts payable",
 "payroll",
@@ -16963,13 +16519,9 @@
 "links": {
 "Tanqeeb": "https://bahrain.tanqeeb.com/jobs-in-bahrain/all/jobs/021344469.html"
 },
-"fit": "borderline",
-"fit_note": "Partial match — check the duties and pay",
-"target": false,
 "families": [
 "Banking & finance ops",
 "Compliance, risk & audit",
-"Relationship & client mgmt",
 "Accounting & finance",
 "HR & admin",
 "Logistics & supply chain",
@@ -16997,9 +16549,6 @@
 "links": {
 "Tanqeeb": "https://bahrain.tanqeeb.com/jobs-in-middle-east/all/jobs/021291313.html"
 },
-"fit": "borderline",
-"fit_note": "Not one of the target role types — check the details",
-"target": false,
 "families": [
 "Banking & finance ops",
 "Compliance, risk & audit",
@@ -17030,9 +16579,6 @@
 "links": {
 "Tanqeeb": "https://bahrain.tanqeeb.com/jobs-in-bahrain/all/jobs/021290601.html"
 },
-"fit": "borderline",
-"fit_note": "Not one of the target role types — check the details",
-"target": false,
 "families": [
 "Banking & finance ops",
 "Compliance, risk & audit",
@@ -17058,9 +16604,6 @@
 "links": {
 "Tanqeeb": "https://bahrain.tanqeeb.com/jobs-in-middle-east/all/jobs/021291318.html"
 },
-"fit": "borderline",
-"fit_note": "Partial match — check the duties and pay",
-"target": false,
 "families": [
 "Compliance, risk & audit",
 "Accounting & finance"
@@ -17084,9 +16627,6 @@
 "links": {
 "Tanqeeb": "https://bahrain.tanqeeb.com/jobs-in-bahrain/all/jobs/021290600.html"
 },
-"fit": "borderline",
-"fit_note": "Not one of the target role types — check the details",
-"target": false,
 "families": [
 "Compliance, risk & audit",
 "Retail",
@@ -17111,9 +16651,6 @@
 "links": {
 "Tanqeeb": "https://bahrain.tanqeeb.com/jobs-in-middle-east/all/jobs/021291307.html"
 },
-"fit": "borderline",
-"fit_note": "Partial match — check the duties and pay",
-"target": false,
 "families": [
 "Relationship & client mgmt",
 "HR & admin"
@@ -17135,9 +16672,6 @@
 "links": {
 "Tanqeeb": "https://bahrain.tanqeeb.com/jobs-in-middle-east/all/jobs/021291309.html"
 },
-"fit": "borderline",
-"fit_note": "Not one of the target role types — check the details",
-"target": false,
 "families": [
 "Healthcare"
 ]
@@ -17158,9 +16692,6 @@
 "links": {
 "Tanqeeb": "https://bahrain.tanqeeb.com/jobs-in-middle-east/all/jobs/021291312.html"
 },
-"fit": "none",
-"fit_note": "Not a fit (score 0): Hospitality / trades",
-"target": false,
 "families": [
 "Hospitality & F&B"
 ]
@@ -17181,9 +16712,6 @@
 "links": {
 "Tanqeeb": "https://bahrain.tanqeeb.com/jobs-in-middle-east/all/jobs/021291311.html"
 },
-"fit": "none",
-"fit_note": "Not a fit (score 0): Hospitality / trades",
-"target": false,
 "families": [
 "Hospitality & F&B"
 ]
@@ -17204,9 +16732,6 @@
 "links": {
 "Tanqeeb": "https://bahrain.tanqeeb.com/jobs-in-bahrain/all/jobs/021289321.html"
 },
-"fit": "borderline",
-"fit_note": "Not one of the target role types — check the details",
-"target": false,
 "families": [
 "Hospitality & F&B"
 ]
@@ -17228,9 +16753,6 @@
 "links": {
 "Tanqeeb": "https://bahrain.tanqeeb.com/jobs-in-middle-east/all/jobs/021291315.html"
 },
-"fit": "borderline",
-"fit_note": "Not one of the target role types — check the details",
-"target": false,
 "families": [
 "Logistics & supply chain",
 "Project & management"
@@ -17252,9 +16774,6 @@
 "links": {
 "Tanqeeb": "https://bahrain.tanqeeb.com/jobs-in-bahrain/all/jobs/021289320.html"
 },
-"fit": "borderline",
-"fit_note": "Not one of the target role types — check the details",
-"target": false,
 "families": [
 "Project & management"
 ]
@@ -17298,6 +16817,30 @@
 ]
 },
 {
+"title": "Project Manager - Marine",
+"company": "NASS Group & Corporation",
+"location": "Bahrain",
+"posted": "2026-10-05",
+"url": "https://bh.linkedin.com/jobs/view/project-manager-marine-at-nass-group-corporation-4475808672",
+"id": "project manager marine|nass group corporation",
+"sources": [
+"LinkedIn"
+],
+"roles": [
+"settlement",
+"civil engineer",
+"project manager"
+],
+"links": {
+"LinkedIn": "https://bh.linkedin.com/jobs/view/project-manager-marine-at-nass-group-corporation-4475808672"
+},
+"families": [
+"Banking & finance ops",
+"Engineering & technical",
+"Project & management"
+]
+},
+{
 "title": "Certified Senior Outsystems Developer",
 "company": "ARRAY INNOVATION",
 "location": "Manama, Capital Governorate, Bahrain",
@@ -17311,6 +16854,7 @@
 "bank",
 "KYC",
 "AML",
+"client onboarding",
 "financial crime",
 "software engineer",
 "cyber security"
@@ -17350,28 +16894,6 @@
 ]
 },
 {
-"title": "Project Manager - Marine",
-"company": "NASS Group & Corporation",
-"location": "Bahrain",
-"posted": "2026-10-05",
-"url": "https://bh.linkedin.com/jobs/view/project-manager-marine-at-nass-group-corporation-4475808672",
-"id": "project manager marine|nass group corporation",
-"sources": [
-"LinkedIn"
-],
-"roles": [
-"civil engineer",
-"project manager"
-],
-"links": {
-"LinkedIn": "https://bh.linkedin.com/jobs/view/project-manager-marine-at-nass-group-corporation-4475808672"
-},
-"families": [
-"Engineering & technical",
-"Project & management"
-]
-},
-{
 "title": "Denter",
 "company": "Euro Motors",
 "location": "Bahrain",
@@ -17402,6 +16924,7 @@
 "LinkedIn"
 ],
 "roles": [
+"sales executive",
 "business development",
 "marketing",
 "digital marketing",
@@ -17562,9 +17085,6 @@
 "links": {
 "Tanqeeb": "https://bahrain.tanqeeb.com/jobs-in-middle-east/all/jobs/021288391.html"
 },
-"fit": "borderline",
-"fit_note": "Partial match — check the duties and pay",
-"target": false,
 "families": [
 "Banking & finance ops",
 "Compliance, risk & audit",
@@ -17588,9 +17108,6 @@
 "links": {
 "Tanqeeb": "https://bahrain.tanqeeb.com/jobs-in-middle-east/all/jobs/021287647.html"
 },
-"fit": "strong",
-"fit_note": "Back-office / operations",
-"target": false,
 "families": [
 "Banking & finance ops"
 ]
@@ -17615,9 +17132,6 @@
 "links": {
 "Tanqeeb": "https://bahrain.tanqeeb.com/jobs-in-middle-east/all/jobs/021288338.html"
 },
-"fit": "none",
-"fit_note": "Not a fit (score 0): Head of / AVP level or above",
-"target": false,
 "families": [
 "Banking & finance ops",
 "HR & admin",
@@ -17641,9 +17155,6 @@
 "links": {
 "Tanqeeb": "https://bahrain.tanqeeb.com/jobs-in-middle-east/all/jobs/021288193.html"
 },
-"fit": "borderline",
-"fit_note": "Partial match — check the duties and pay",
-"target": false,
 "families": [
 "Banking & finance ops"
 ]
@@ -17665,9 +17176,6 @@
 "links": {
 "Tanqeeb": "https://bahrain.tanqeeb.com/jobs-in-middle-east/all/jobs/021288345.html"
 },
-"fit": "borderline",
-"fit_note": "Not one of the target role types — check the details",
-"target": false,
 "families": [
 "Compliance, risk & audit",
 "Healthcare"
@@ -17696,9 +17204,6 @@
 "links": {
 "Tanqeeb": "https://bahrain.tanqeeb.com/jobs-in-middle-east/all/jobs/021288390.html"
 },
-"fit": "borderline",
-"fit_note": "Not one of the target role types — check the details",
-"target": true,
 "families": [
 "Compliance, risk & audit",
 "HR & admin",
@@ -17725,9 +17230,6 @@
 "links": {
 "Tanqeeb": "https://bahrain.tanqeeb.com/jobs-in-middle-east/all/jobs/021287648.html"
 },
-"fit": "borderline",
-"fit_note": "Not one of the target role types — check the details",
-"target": false,
 "families": [
 "HR & admin",
 "Marketing & media"
@@ -17749,9 +17251,6 @@
 "links": {
 "Tanqeeb": "https://bahrain.tanqeeb.com/jobs-in-middle-east/all/jobs/021287759.html"
 },
-"fit": "borderline",
-"fit_note": "Partial match — check the duties and pay",
-"target": false,
 "families": [
 "Marketing & media"
 ]
@@ -17772,9 +17271,6 @@
 "links": {
 "Tanqeeb": "https://bahrain.tanqeeb.com/jobs-in-middle-east/all/jobs/021288288.html"
 },
-"fit": "none",
-"fit_note": "Not a fit (score 0): Hospitality / trades",
-"target": false,
 "families": [
 "Hospitality & F&B"
 ]
@@ -17795,9 +17291,6 @@
 "links": {
 "Tanqeeb": "https://bahrain.tanqeeb.com/jobs-in-middle-east/all/jobs/021288312.html"
 },
-"fit": "none",
-"fit_note": "Not a fit (score 0): Hospitality / trades",
-"target": false,
 "families": [
 "Hospitality & F&B"
 ]
@@ -17818,9 +17311,6 @@
 "links": {
 "Tanqeeb": "https://bahrain.tanqeeb.com/jobs-in-middle-east/all/jobs/021288285.html"
 },
-"fit": "none",
-"fit_note": "Not a fit (score 0): Hospitality / trades",
-"target": false,
 "families": [
 "Hospitality & F&B"
 ]
@@ -17841,9 +17331,6 @@
 "links": {
 "Tanqeeb": "https://bahrain.tanqeeb.com/jobs-in-middle-east/all/jobs/021287649.html"
 },
-"fit": "borderline",
-"fit_note": "Not one of the target role types — check the details",
-"target": false,
 "families": [
 "Hospitality & F&B"
 ]
@@ -17865,9 +17352,6 @@
 "links": {
 "Tanqeeb": "https://bahrain.tanqeeb.com/jobs-in-bahrain/all/jobs/021193699.html"
 },
-"fit": "none",
-"fit_note": "Not a fit (score 0): Hospitality / trades",
-"target": false,
 "families": [
 "Education",
 "Legal"
@@ -17978,9 +17462,6 @@
 "links": {
 "Tanqeeb": "https://bahrain.tanqeeb.com/jobs-in-bahrain/all/jobs/021286117.html"
 },
-"fit": "borderline",
-"fit_note": "Partial match — check the duties and pay",
-"target": true,
 "families": [
 "Compliance, risk & audit",
 "HR & admin"
@@ -18002,9 +17483,6 @@
 "links": {
 "Tanqeeb": "https://bahrain.tanqeeb.com/jobs-in-bahrain/all/jobs/021286116.html"
 },
-"fit": "borderline",
-"fit_note": "Not one of the target role types — check the details",
-"target": false,
 "families": [
 "HR & admin"
 ]
@@ -18025,9 +17503,6 @@
 "links": {
 "Tanqeeb": "https://bahrain.tanqeeb.com/jobs-in-bahrain/all/jobs/021285605.html"
 },
-"fit": "none",
-"fit_note": "Not a fit (score 0): Sales / business development (not RM)",
-"target": false,
 "families": [
 "IT & software"
 ]
@@ -18051,9 +17526,6 @@
 "links": {
 "Tanqeeb": "https://bahrain.tanqeeb.com/jobs-in-bahrain/all/jobs/021286721.html"
 },
-"fit": "borderline",
-"fit_note": "Partial match — check the duties and pay",
-"target": false,
 "families": [
 "Retail",
 "Logistics & supply chain",
@@ -18101,9 +17573,6 @@
 "links": {
 "Tanqeeb": "https://bahrain.tanqeeb.com/jobs-in-bahrain/all/jobs/021285127.html"
 },
-"fit": "borderline",
-"fit_note": "Partial match — check the duties and pay",
-"target": false,
 "families": [
 "Banking & finance ops",
 "Accounting & finance"
@@ -18125,9 +17594,6 @@
 "links": {
 "Tanqeeb": "https://bahrain.tanqeeb.com/jobs-in-bahrain/all/jobs/021285145.html"
 },
-"fit": "none",
-"fit_note": "Not a fit (score 0): Hospitality / trades",
-"target": false,
 "families": [
 "Engineering & technical"
 ]
@@ -18149,38 +17615,9 @@
 "links": {
 "Tanqeeb": "https://bahrain.tanqeeb.com/jobs-in-bahrain/all/jobs/021285126.html"
 },
-"fit": "none",
-"fit_note": "Not a fit (score 0): Sales / business development (not RM)",
-"target": false,
 "families": [
 "Sales & business dev",
 "Hospitality & F&B"
-]
-},
-{
-"title": "Business Development Partner - Talent Intelligence & Recruitment Tech (Bahrain)",
-"company": "Routed AI",
-"location": "Manama, Capital Governorate, Bahrain",
-"posted": "2026-10-02",
-"url": "https://bh.linkedin.com/jobs/view/business-development-partner-talent-intelligence-recruitment-tech-bahrain-at-routed-ai-4473167540",
-"id": "business development partner talent intelligence recruitment tech bahrain|routed ai",
-"sources": [
-"LinkedIn"
-],
-"roles": [
-"client onboarding",
-"relationship manager",
-"account manager",
-"sales executive",
-"business development"
-],
-"links": {
-"LinkedIn": "https://bh.linkedin.com/jobs/view/business-development-partner-talent-intelligence-recruitment-tech-bahrain-at-routed-ai-4473167540"
-},
-"families": [
-"Compliance, risk & audit",
-"Relationship & client mgmt",
-"Sales & business dev"
 ]
 },
 {
@@ -18200,9 +17637,6 @@
 "links": {
 "Tanqeeb": "https://bahrain.tanqeeb.com/jobs-in-middle-east/all/jobs/021281837.html"
 },
-"fit": "none",
-"fit_note": "Not a fit (score 0): Hospitality / trades",
-"target": false,
 "families": [
 "IT & software",
 "Engineering & technical"
@@ -18476,9 +17910,6 @@
 "links": {
 "Tanqeeb": "https://bahrain.tanqeeb.com/jobs-in-bahrain/all/jobs/021280667.html"
 },
-"fit": "borderline",
-"fit_note": "Not one of the target role types — check the details",
-"target": true,
 "families": [
 "Compliance, risk & audit",
 "Relationship & client mgmt",
@@ -18505,9 +17936,6 @@
 "links": {
 "Tanqeeb": "https://bahrain.tanqeeb.com/jobs-in-middle-east/all/jobs/021281658.html"
 },
-"fit": "borderline",
-"fit_note": "Not one of the target role types — check the details",
-"target": false,
 "families": [
 "Relationship & client mgmt",
 "Marketing & media"
@@ -18531,9 +17959,6 @@
 "links": {
 "Tanqeeb": "https://bahrain.tanqeeb.com/jobs-in-middle-east/all/jobs/021281654.html"
 },
-"fit": "borderline",
-"fit_note": "Partial match — check the duties and pay",
-"target": false,
 "families": [
 "HR & admin",
 "IT & software"
@@ -18556,9 +17981,6 @@
 "links": {
 "Tanqeeb": "https://bahrain.tanqeeb.com/jobs-in-middle-east/all/jobs/021281656.html"
 },
-"fit": "none",
-"fit_note": "Not a fit (score 0): Hospitality / trades",
-"target": false,
 "families": [
 "Engineering & technical",
 "Customer service"
@@ -18582,9 +18004,6 @@
 "links": {
 "Tanqeeb": "https://bahrain.tanqeeb.com/jobs-in-bahrain/all/jobs/021279429.html"
 },
-"fit": "borderline",
-"fit_note": "Partial match — check the duties and pay",
-"target": false,
 "families": [
 "Marketing & media",
 "Customer service",
@@ -18609,9 +18028,6 @@
 "links": {
 "Tanqeeb": "https://bahrain.tanqeeb.com/jobs-in-bahrain/all/jobs/021279943.html"
 },
-"fit": "borderline",
-"fit_note": "Partial match — check the duties and pay",
-"target": false,
 "families": [
 "Customer service",
 "Hospitality & F&B",
@@ -18635,9 +18051,6 @@
 "links": {
 "Tanqeeb": "https://bahrain.tanqeeb.com/jobs-in-middle-east/all/jobs/021281657.html"
 },
-"fit": "borderline",
-"fit_note": "Not one of the target role types — check the details",
-"target": false,
 "families": [
 "Retail",
 "Logistics & supply chain"
@@ -18659,9 +18072,6 @@
 "links": {
 "Tanqeeb": "https://bahrain.tanqeeb.com/jobs-in-bahrain/all/jobs/021280296.html"
 },
-"fit": "borderline",
-"fit_note": "Not one of the target role types — check the details",
-"target": false,
 "families": [
 "Logistics & supply chain"
 ]
@@ -18679,6 +18089,7 @@
 "roles": [
 "settlement",
 "reconciliation",
+"client onboarding",
 "mechanical engineer",
 "electrical engineer",
 "project engineer",
@@ -18689,6 +18100,7 @@
 },
 "families": [
 "Banking & finance ops",
+"Compliance, risk & audit",
 "Engineering & technical"
 ]
 },
@@ -18753,9 +18165,6 @@
 "links": {
 "Tanqeeb": "https://bahrain.tanqeeb.com/jobs-in-middle-east/all/jobs/021278989.html"
 },
-"fit": "borderline",
-"fit_note": "Not one of the target role types — check the details",
-"target": false,
 "families": [
 "Banking & finance ops",
 "Compliance, risk & audit"
@@ -18779,9 +18188,6 @@
 "links": {
 "Tanqeeb": "https://bahrain.tanqeeb.com/jobs-in-middle-east/all/jobs/021278996.html"
 },
-"fit": "none",
-"fit_note": "Not a fit (score 0): Hospitality / trades",
-"target": false,
 "families": [
 "Banking & finance ops",
 "Hospitality & F&B",
@@ -18805,9 +18211,6 @@
 "links": {
 "Tanqeeb": "https://bahrain.tanqeeb.com/jobs-in-middle-east/all/jobs/021278992.html"
 },
-"fit": "none",
-"fit_note": "Not a fit (score 0): Sales / business development (not RM)",
-"target": false,
 "families": [
 "HR & admin",
 "Sales & business dev"
@@ -18829,9 +18232,6 @@
 "links": {
 "Tanqeeb": "https://bahrain.tanqeeb.com/jobs-in-middle-east/all/jobs/021278990.html"
 },
-"fit": "borderline",
-"fit_note": "Not one of the target role types — check the details",
-"target": false,
 "families": [
 "IT & software"
 ]
@@ -18853,9 +18253,6 @@
 "links": {
 "Tanqeeb": "https://bahrain.tanqeeb.com/jobs-in-middle-east/all/jobs/021277111.html"
 },
-"fit": "none",
-"fit_note": "Not a fit (score 0): Sales / business development (not RM)",
-"target": false,
 "families": [
 "IT & software",
 "Sales & business dev"
@@ -18878,9 +18275,6 @@
 "links": {
 "Tanqeeb": "https://bahrain.tanqeeb.com/jobs-in-bahrain/all/jobs/021277794.html"
 },
-"fit": "borderline",
-"fit_note": "Not one of the target role types — check the details",
-"target": false,
 "families": [
 "Marketing & media",
 "Retail"
@@ -18902,9 +18296,6 @@
 "links": {
 "Tanqeeb": "https://bahrain.tanqeeb.com/jobs-in-middle-east/all/jobs/021278997.html"
 },
-"fit": "borderline",
-"fit_note": "Not one of the target role types — check the details",
-"target": false,
 "families": [
 "Hospitality & F&B"
 ]
@@ -18925,9 +18316,6 @@
 "links": {
 "Tanqeeb": "https://bahrain.tanqeeb.com/jobs-in-middle-east/all/jobs/021278993.html"
 },
-"fit": "borderline",
-"fit_note": "Not one of the target role types — check the details",
-"target": false,
 "families": [
 "Hospitality & F&B"
 ]
@@ -18948,9 +18336,6 @@
 "links": {
 "Tanqeeb": "https://bahrain.tanqeeb.com/jobs-in-middle-east/all/jobs/021278991.html"
 },
-"fit": "borderline",
-"fit_note": "Not one of the target role types — check the details",
-"target": false,
 "families": [
 "Hospitality & F&B"
 ]
@@ -18971,9 +18356,6 @@
 "links": {
 "Tanqeeb": "https://bahrain.tanqeeb.com/jobs-in-middle-east/all/jobs/021277114.html"
 },
-"fit": "borderline",
-"fit_note": "Not one of the target role types — check the details",
-"target": false,
 "families": [
 "Hospitality & F&B"
 ]
@@ -18994,89 +18376,8 @@
 "links": {
 "Tanqeeb": "https://bahrain.tanqeeb.com/jobs-in-middle-east/all/jobs/021279003.html"
 },
-"fit": "borderline",
-"fit_note": "Not one of the target role types — check the details",
-"target": false,
 "families": [
 "Hospitality & F&B"
-]
-},
-{
-"title": "Personal Assistant",
-"company": "Azadea Group",
-"location": "Manama, Capital Governorate, Bahrain",
-"posted": "2026-09-29",
-"url": "https://bh.linkedin.com/jobs/view/personal-assistant-at-azadea-group-4471282216",
-"id": "personal assistant|azadea group",
-"sources": [
-"LinkedIn"
-],
-"roles": [
-"back office",
-"administration officer",
-"office manager",
-"secretary",
-"receptionist"
-],
-"links": {
-"LinkedIn": "https://bh.linkedin.com/jobs/view/personal-assistant-at-azadea-group-4471282216"
-},
-"families": [
-"Banking & finance ops",
-"HR & admin"
-]
-},
-{
-"title": "Cloud Account Manager",
-"company": "Logicom Distribution",
-"location": "Capital Governorate, Bahrain",
-"posted": "2026-09-29",
-"url": "https://bh.linkedin.com/jobs/view/cloud-account-manager-at-logicom-distribution-4473216717",
-"id": "cloud account manager|logicom distribution",
-"sources": [
-"LinkedIn"
-],
-"roles": [
-"client onboarding",
-"relationship manager",
-"account manager",
-"sales executive",
-"business development"
-],
-"links": {
-"LinkedIn": "https://bh.linkedin.com/jobs/view/cloud-account-manager-at-logicom-distribution-4473216717"
-},
-"families": [
-"Compliance, risk & audit",
-"Relationship & client mgmt",
-"Sales & business dev"
-]
-},
-{
-"title": "Senior Executive, Marketing I Motor City Head Office I Ma'ameer",
-"company": "Ebrahim Khalil Kanoo B.S.C (c)",
-"location": "Manama, Capital Governorate, Bahrain",
-"posted": "2026-09-29",
-"url": "https://bh.linkedin.com/jobs/view/senior-executive-marketing-i-motor-city-head-office-i-ma-ameer-at-ebrahim-khalil-kanoo-b-s-c-c-4471712823",
-"id": "senior executive marketing i motor city head office i ma ameer|ebrahim khalil kanoo b s c c",
-"sources": [
-"LinkedIn"
-],
-"roles": [
-"data analyst",
-"marketing",
-"digital marketing",
-"graphic designer",
-"social media",
-"retail"
-],
-"links": {
-"LinkedIn": "https://bh.linkedin.com/jobs/view/senior-executive-marketing-i-motor-city-head-office-i-ma-ameer-at-ebrahim-khalil-kanoo-b-s-c-c-4471712823"
-},
-"families": [
-"IT & software",
-"Marketing & media",
-"Retail"
 ]
 },
 {
@@ -19135,9 +18436,6 @@
 "links": {
 "Tanqeeb": "https://bahrain.tanqeeb.com/jobs-in-bahrain/all/jobs/021275339.html"
 },
-"fit": "borderline",
-"fit_note": "Not one of the target role types — check the details",
-"target": false,
 "families": [
 "Banking & finance ops"
 ]
@@ -19162,9 +18460,6 @@
 "links": {
 "Tanqeeb": "https://bahrain.tanqeeb.com/jobs-in-bahrain/all/jobs/021275335.html"
 },
-"fit": "strong",
-"fit_note": "Back-office / operations",
-"target": false,
 "families": [
 "Banking & finance ops",
 "Relationship & client mgmt",
@@ -19189,9 +18484,6 @@
 "links": {
 "Tanqeeb": "https://bahrain.tanqeeb.com/jobs-in-bahrain/all/jobs/021275341.html"
 },
-"fit": "none",
-"fit_note": "Not a fit (score 0): Pure tech role",
-"target": false,
 "families": [
 "Compliance, risk & audit"
 ]
@@ -19212,9 +18504,6 @@
 "links": {
 "Tanqeeb": "https://bahrain.tanqeeb.com/jobs-in-middle-east/all/jobs/021274830.html"
 },
-"fit": "borderline",
-"fit_note": "Partial match — check the duties and pay",
-"target": false,
 "families": [
 "HR & admin"
 ]
@@ -19235,9 +18524,6 @@
 "links": {
 "Tanqeeb": "https://bahrain.tanqeeb.com/jobs-in-bahrain/all/jobs/021274463.html"
 },
-"fit": "borderline",
-"fit_note": "Not one of the target role types — check the details",
-"target": false,
 "families": [
 "HR & admin"
 ]
@@ -19258,9 +18544,6 @@
 "links": {
 "Tanqeeb": "https://bahrain.tanqeeb.com/jobs-in-middle-east/all/jobs/021274642.html"
 },
-"fit": "borderline",
-"fit_note": "Not one of the target role types — check the details",
-"target": false,
 "families": [
 "Hospitality & F&B"
 ]
@@ -19284,9 +18567,6 @@
 "links": {
 "Tanqeeb": "https://bahrain.tanqeeb.com/jobs-in-middle-east/all/jobs/021342943.html"
 },
-"fit": "borderline",
-"fit_note": "Not one of the target role types — check the details",
-"target": true,
 "families": [
 "Banking & finance ops",
 "Compliance, risk & audit",
@@ -19319,9 +18599,6 @@
 "links": {
 "Tanqeeb": "https://bahrain.tanqeeb.com/jobs-in-middle-east/all/jobs/021341924.html"
 },
-"fit": "borderline",
-"fit_note": "Partial match — check the duties and pay",
-"target": false,
 "families": [
 "Banking & finance ops",
 "Compliance, risk & audit",
@@ -19350,14 +18627,58 @@
 "links": {
 "Tanqeeb": "https://bahrain.tanqeeb.com/jobs-in-middle-east/all/jobs/021341921.html"
 },
-"fit": "borderline",
-"fit_note": "Not one of the target role types — check the details",
-"target": false,
 "families": [
 "Banking & finance ops",
 "Compliance, risk & audit",
 "Relationship & client mgmt",
 "IT & software"
+]
+},
+{
+"title": "Chief Accountant",
+"company": "Confidential",
+"location": "Bahrain - Manama",
+"posted": "",
+"url": "https://bahrain.tanqeeb.com/jobs-in-bahrain/all/jobs/021340590.html",
+"id": "chief accountant|confidential",
+"sources": [
+"Tanqeeb"
+],
+"roles": [
+"banking operations",
+"payments operations",
+"reconciliation",
+"credit operations",
+"treasury operations",
+"bank",
+"compliance",
+"internal control",
+"audit",
+"corporate banking",
+"accountant",
+"payroll",
+"government relations",
+"secretary",
+"doctor",
+"hotel",
+"procurement",
+"warehouse",
+"legal",
+"lawyer"
+],
+"links": {
+"Tanqeeb": "https://bahrain.tanqeeb.com/jobs-in-bahrain/all/jobs/021340590.html"
+},
+"families": [
+"Banking & finance ops",
+"Compliance, risk & audit",
+"Relationship & client mgmt",
+"Accounting & finance",
+"HR & admin",
+"Healthcare",
+"Hospitality & F&B",
+"Logistics & supply chain",
+"Legal"
 ]
 },
 {
@@ -19388,9 +18709,6 @@
 "links": {
 "Tanqeeb": "https://bahrain.tanqeeb.com/jobs-in-bahrain/all/jobs/021340252.html"
 },
-"fit": "borderline",
-"fit_note": "Partial match — check the duties and pay",
-"target": false,
 "families": [
 "Banking & finance ops",
 "Compliance, risk & audit",
@@ -19418,9 +18736,6 @@
 "links": {
 "Tanqeeb": "https://bahrain.tanqeeb.com/jobs-in-middle-east/all/jobs/021335952.html"
 },
-"fit": "none",
-"fit_note": "Not a fit (score 0): Pure tech role",
-"target": false,
 "families": [
 "Banking & finance ops",
 "Compliance, risk & audit",
@@ -19450,9 +18765,6 @@
 "links": {
 "Tanqeeb": "https://bahrain.tanqeeb.com/jobs-in-middle-east/all/jobs/021342937.html"
 },
-"fit": "borderline",
-"fit_note": "Partial match — check the duties and pay",
-"target": false,
 "families": [
 "Banking & finance ops",
 "Compliance, risk & audit",
@@ -19482,9 +18794,6 @@
 "links": {
 "Tanqeeb": "https://bahrain.tanqeeb.com/jobs-in-bahrain/all/jobs/021339879.html"
 },
-"fit": "borderline",
-"fit_note": "Not one of the target role types — check the details",
-"target": false,
 "families": [
 "Banking & finance ops",
 "Compliance, risk & audit",
@@ -19516,9 +18825,6 @@
 "links": {
 "Tanqeeb": "https://bahrain.tanqeeb.com/jobs-in-middle-east/all/jobs/021349833.html"
 },
-"fit": "borderline",
-"fit_note": "Not one of the target role types — check the details",
-"target": false,
 "families": [
 "Banking & finance ops",
 "Compliance, risk & audit",
@@ -19559,9 +18865,6 @@
 "links": {
 "Tanqeeb": "https://bahrain.tanqeeb.com/jobs-in-middle-east/all/jobs/021337061.html"
 },
-"fit": "borderline",
-"fit_note": "Not one of the target role types — check the details",
-"target": true,
 "families": [
 "Banking & finance ops",
 "Compliance, risk & audit",
@@ -19602,9 +18905,6 @@
 "links": {
 "Tanqeeb": "https://bahrain.tanqeeb.com/jobs-in-bahrain/all/jobs/021335770.html"
 },
-"fit": "borderline",
-"fit_note": "Not one of the target role types — check the details",
-"target": true,
 "families": [
 "Banking & finance ops",
 "Compliance, risk & audit",
@@ -19635,9 +18935,6 @@
 "links": {
 "Tanqeeb": "https://bahrain.tanqeeb.com/jobs-in-middle-east/all/jobs/021344869.html"
 },
-"fit": "borderline",
-"fit_note": "Partial match — check the duties and pay",
-"target": false,
 "families": [
 "Banking & finance ops",
 "Compliance, risk & audit",
@@ -19663,9 +18960,6 @@
 "links": {
 "Tanqeeb": "https://bahrain.tanqeeb.com/jobs-in-bahrain/all/jobs/021339919.html"
 },
-"fit": "borderline",
-"fit_note": "Partial match — check the duties and pay",
-"target": false,
 "families": [
 "Banking & finance ops",
 "Accounting & finance"
@@ -19691,9 +18985,6 @@
 "links": {
 "Tanqeeb": "https://bahrain.tanqeeb.com/jobs-in-middle-east/all/jobs/021348311.html"
 },
-"fit": "borderline",
-"fit_note": "Not one of the target role types — check the details",
-"target": false,
 "families": [
 "Compliance, risk & audit",
 "Sales & business dev",
@@ -19719,9 +19010,6 @@
 "links": {
 "Tanqeeb": "https://bahrain.tanqeeb.com/jobs-in-middle-east/all/jobs/021346732.html"
 },
-"fit": "borderline",
-"fit_note": "Not one of the target role types — check the details",
-"target": true,
 "families": [
 "Compliance, risk & audit",
 "Customer service",
@@ -19748,9 +19036,6 @@
 "links": {
 "Tanqeeb": "https://bahrain.tanqeeb.com/jobs-in-middle-east/all/jobs/021346728.html"
 },
-"fit": "borderline",
-"fit_note": "Not one of the target role types — check the details",
-"target": false,
 "families": [
 "Compliance, risk & audit",
 "HR & admin",
@@ -19778,9 +19063,6 @@
 "links": {
 "Tanqeeb": "https://bahrain.tanqeeb.com/jobs-in-middle-east/all/jobs/021344870.html"
 },
-"fit": "none",
-"fit_note": "Not a fit (score 0): Head of / AVP level or above",
-"target": false,
 "families": [
 "Compliance, risk & audit",
 "Marketing & media",
@@ -19815,9 +19097,6 @@
 "links": {
 "Tanqeeb": "https://bahrain.tanqeeb.com/jobs-in-middle-east/all/jobs/021344867.html"
 },
-"fit": "borderline",
-"fit_note": "Partial match — check the duties and pay",
-"target": false,
 "families": [
 "Compliance, risk & audit",
 "HR & admin",
@@ -19847,9 +19126,6 @@
 "links": {
 "Tanqeeb": "https://bahrain.tanqeeb.com/jobs-in-middle-east/all/jobs/021344866.html"
 },
-"fit": "borderline",
-"fit_note": "Not one of the target role types — check the details",
-"target": false,
 "families": [
 "Compliance, risk & audit",
 "HR & admin",
@@ -19878,9 +19154,6 @@
 "links": {
 "Tanqeeb": "https://bahrain.tanqeeb.com/jobs-in-middle-east/all/jobs/021343998.html"
 },
-"fit": "borderline",
-"fit_note": "Not one of the target role types — check the details",
-"target": false,
 "families": [
 "Compliance, risk & audit",
 "HR & admin",
@@ -19904,9 +19177,6 @@
 "links": {
 "Tanqeeb": "https://bahrain.tanqeeb.com/jobs-in-middle-east/all/jobs/021342941.html"
 },
-"fit": "borderline",
-"fit_note": "Not one of the target role types — check the details",
-"target": false,
 "families": [
 "Compliance, risk & audit"
 ]
@@ -19927,9 +19197,6 @@
 "links": {
 "Tanqeeb": "https://bahrain.tanqeeb.com/jobs-in-middle-east/all/jobs/021342938.html"
 },
-"fit": "none",
-"fit_note": "Not a fit (score 0): Hospitality / trades",
-"target": false,
 "families": [
 "Compliance, risk & audit"
 ]
@@ -19950,9 +19217,6 @@
 "links": {
 "Tanqeeb": "https://bahrain.tanqeeb.com/jobs-in-middle-east/all/jobs/021342936.html"
 },
-"fit": "borderline",
-"fit_note": "Not one of the target role types — check the details",
-"target": false,
 "families": [
 "Compliance, risk & audit"
 ]
@@ -19974,9 +19238,6 @@
 "links": {
 "Tanqeeb": "https://bahrain.tanqeeb.com/jobs-in-middle-east/all/jobs/021342935.html"
 },
-"fit": "none",
-"fit_note": "Not a fit (score 0): Hospitality / trades",
-"target": false,
 "families": [
 "Compliance, risk & audit",
 "Customer service"
@@ -19998,9 +19259,6 @@
 "links": {
 "Tanqeeb": "https://bahrain.tanqeeb.com/jobs-in-middle-east/all/jobs/021342934.html"
 },
-"fit": "borderline",
-"fit_note": "Not one of the target role types — check the details",
-"target": false,
 "families": [
 "Compliance, risk & audit"
 ]
@@ -20027,9 +19285,6 @@
 "links": {
 "Tanqeeb": "https://bahrain.tanqeeb.com/jobs-in-middle-east/all/jobs/021342932.html"
 },
-"fit": "none",
-"fit_note": "Not a fit (score 0): Head of / AVP level or above",
-"target": false,
 "families": [
 "Compliance, risk & audit",
 "HR & admin",
@@ -20059,9 +19314,6 @@
 "links": {
 "Tanqeeb": "https://bahrain.tanqeeb.com/jobs-in-middle-east/all/jobs/021341925.html"
 },
-"fit": "none",
-"fit_note": "Not a fit (score 0): Head of / AVP level or above",
-"target": false,
 "families": [
 "Compliance, risk & audit",
 "HR & admin",
@@ -20091,9 +19343,6 @@
 "links": {
 "Tanqeeb": "https://bahrain.tanqeeb.com/jobs-in-middle-east/all/jobs/021341922.html"
 },
-"fit": "borderline",
-"fit_note": "Not one of the target role types — check the details",
-"target": false,
 "families": [
 "Compliance, risk & audit",
 "HR & admin",
@@ -20119,9 +19368,6 @@
 "links": {
 "Tanqeeb": "https://bahrain.tanqeeb.com/jobs-in-middle-east/all/jobs/021341920.html"
 },
-"fit": "borderline",
-"fit_note": "Not one of the target role types — check the details",
-"target": false,
 "families": [
 "Compliance, risk & audit",
 "Hospitality & F&B"
@@ -20149,9 +19395,6 @@
 "links": {
 "Tanqeeb": "https://bahrain.tanqeeb.com/jobs-in-middle-east/all/jobs/021341530.html"
 },
-"fit": "none",
-"fit_note": "Not a fit (score 0): Head of / AVP level or above",
-"target": false,
 "families": [
 "Compliance, risk & audit",
 "HR & admin",
@@ -20181,9 +19424,6 @@
 "links": {
 "Tanqeeb": "https://bahrain.tanqeeb.com/jobs-in-middle-east/all/jobs/021338237.html"
 },
-"fit": "borderline",
-"fit_note": "Not one of the target role types — check the details",
-"target": false,
 "families": [
 "Compliance, risk & audit",
 "HR & admin",
@@ -20211,9 +19451,6 @@
 "links": {
 "Tanqeeb": "https://bahrain.tanqeeb.com/jobs-in-middle-east/all/jobs/021336967.html"
 },
-"fit": "borderline",
-"fit_note": "Not one of the target role types — check the details",
-"target": false,
 "families": [
 "Compliance, risk & audit",
 "Marketing & media",
@@ -20244,9 +19481,6 @@
 "links": {
 "Tanqeeb": "https://bahrain.tanqeeb.com/jobs-in-middle-east/all/jobs/021336966.html"
 },
-"fit": "borderline",
-"fit_note": "Not one of the target role types — check the details",
-"target": false,
 "families": [
 "Compliance, risk & audit",
 "HR & admin",
@@ -20273,9 +19507,6 @@
 "links": {
 "Tanqeeb": "https://bahrain.tanqeeb.com/jobs-in-middle-east/all/jobs/021335958.html"
 },
-"fit": "borderline",
-"fit_note": "Not one of the target role types — check the details",
-"target": false,
 "families": [
 "Compliance, risk & audit",
 "Healthcare"
@@ -20298,9 +19529,6 @@
 "links": {
 "Tanqeeb": "https://bahrain.tanqeeb.com/jobs-in-middle-east/all/jobs/021335957.html"
 },
-"fit": "none",
-"fit_note": "Not a fit (score 0): Hospitality / trades",
-"target": false,
 "families": [
 "Compliance, risk & audit",
 "Hospitality & F&B"
@@ -20324,9 +19552,6 @@
 "links": {
 "Tanqeeb": "https://bahrain.tanqeeb.com/jobs-in-middle-east/all/jobs/021335955.html"
 },
-"fit": "borderline",
-"fit_note": "Not one of the target role types — check the details",
-"target": false,
 "families": [
 "Compliance, risk & audit",
 "Healthcare",
@@ -20355,9 +19580,6 @@
 "links": {
 "Tanqeeb": "https://bahrain.tanqeeb.com/jobs-in-bahrain/all/jobs/021347042.html"
 },
-"fit": "borderline",
-"fit_note": "Not one of the target role types — check the details",
-"target": false,
 "families": [
 "Compliance, risk & audit",
 "IT & software",
@@ -20384,9 +19606,6 @@
 "links": {
 "Tanqeeb": "https://bahrain.tanqeeb.com/jobs-in-bahrain/all/jobs/021345852.html"
 },
-"fit": "borderline",
-"fit_note": "Not one of the target role types — check the details",
-"target": true,
 "families": [
 "Compliance, risk & audit"
 ]
@@ -20410,9 +19629,6 @@
 "links": {
 "Tanqeeb": "https://bahrain.tanqeeb.com/jobs-in-middle-east/all/jobs/021344863.html"
 },
-"fit": "borderline",
-"fit_note": "Not one of the target role types — check the details",
-"target": true,
 "families": [
 "Compliance, risk & audit",
 "Accounting & finance",
@@ -20435,9 +19651,6 @@
 "links": {
 "Tanqeeb": "https://bahrain.tanqeeb.com/jobs-in-middle-east/all/jobs/021342939.html"
 },
-"fit": "none",
-"fit_note": "Not a fit (score 0): Hospitality / trades",
-"target": false,
 "families": [
 "Compliance, risk & audit"
 ]
@@ -20466,9 +19679,6 @@
 "links": {
 "Tanqeeb": "https://bahrain.tanqeeb.com/jobs-in-bahrain/all/jobs/021340588.html"
 },
-"fit": "borderline",
-"fit_note": "Not one of the target role types — check the details",
-"target": false,
 "families": [
 "Compliance, risk & audit",
 "HR & admin",
@@ -20476,6 +19686,32 @@
 "Logistics & supply chain",
 "Legal",
 "Project & management"
+]
+},
+{
+"title": "Assistant Director of Sales",
+"company": "Marriott International",
+"location": "Bahrain - Manama",
+"posted": "",
+"url": "https://bahrain.tanqeeb.com/jobs-in-middle-east/all/jobs/021337330.html",
+"id": "assistant director of sales|marriott international",
+"sources": [
+"Tanqeeb"
+],
+"roles": [
+"compliance",
+"government relations",
+"business development",
+"hotel"
+],
+"links": {
+"Tanqeeb": "https://bahrain.tanqeeb.com/jobs-in-middle-east/all/jobs/021337330.html"
+},
+"families": [
+"Compliance, risk & audit",
+"HR & admin",
+"Sales & business dev",
+"Hospitality & F&B"
 ]
 },
 {
@@ -20497,9 +19733,6 @@
 "links": {
 "Tanqeeb": "https://bahrain.tanqeeb.com/jobs-in-middle-east/all/jobs/021337060.html"
 },
-"fit": "none",
-"fit_note": "Not a fit (score 0): Head of / AVP level or above",
-"target": false,
 "families": [
 "Compliance, risk & audit",
 "HR & admin",
@@ -20526,9 +19759,6 @@
 "links": {
 "Tanqeeb": "https://bahrain.tanqeeb.com/jobs-in-middle-east/all/jobs/021334521.html"
 },
-"fit": "none",
-"fit_note": "Not a fit (score 0): Head of / AVP level or above",
-"target": false,
 "families": [
 "Compliance, risk & audit",
 "HR & admin",
@@ -20552,67 +19782,8 @@
 "links": {
 "Tanqeeb": "https://bahrain.tanqeeb.com/jobs-in-middle-east/all/jobs/021334510.html"
 },
-"fit": "borderline",
-"fit_note": "Not one of the target role types — check the details",
-"target": false,
 "families": [
 "Compliance, risk & audit"
-]
-},
-{
-"title": "Senior Power Platform, BI & Azure Integration Consultant",
-"company": "Client of Exceed IT Services",
-"location": "Bahrain - Manama",
-"posted": "",
-"url": "https://bahrain.tanqeeb.com/jobs-in-middle-east/all/jobs/021332861.html",
-"id": "senior power platform bi azure integration consultant|client of exceed it services",
-"sources": [
-"Tanqeeb"
-],
-"roles": [
-"compliance",
-"internal control",
-"risk",
-"warehouse"
-],
-"links": {
-"Tanqeeb": "https://bahrain.tanqeeb.com/jobs-in-middle-east/all/jobs/021332861.html"
-},
-"fit": "borderline",
-"fit_note": "Not one of the target role types — check the details",
-"target": false,
-"families": [
-"Compliance, risk & audit",
-"Logistics & supply chain"
-]
-},
-{
-"title": "Head of Advisory",
-"company": "Qureos",
-"location": "Bahrain - Manama",
-"posted": "",
-"url": "https://bahrain.tanqeeb.com/jobs-in-middle-east/all/jobs/021332554.html",
-"id": "head of advisory|qureos",
-"sources": [
-"Tanqeeb"
-],
-"roles": [
-"compliance",
-"risk",
-"recruiter",
-"receptionist",
-"business development"
-],
-"links": {
-"Tanqeeb": "https://bahrain.tanqeeb.com/jobs-in-middle-east/all/jobs/021332554.html"
-},
-"fit": "none",
-"fit_note": "Not a fit (score 0): Head of / AVP level or above",
-"target": false,
-"families": [
-"Compliance, risk & audit",
-"HR & admin",
-"Sales & business dev"
 ]
 },
 {
@@ -20633,9 +19804,6 @@
 "links": {
 "Tanqeeb": "https://bahrain.tanqeeb.com/jobs-in-middle-east/all/jobs/021334522.html"
 },
-"fit": "borderline",
-"fit_note": "Partial match — check the duties and pay",
-"target": false,
 "families": [
 "Compliance, risk & audit",
 "HR & admin"
@@ -20659,62 +19827,6 @@
 "links": {
 "Tanqeeb": "https://bahrain.tanqeeb.com/jobs-in-middle-east/all/jobs/021334514.html"
 },
-"fit": "none",
-"fit_note": "Not a fit (score 0): Sales / business development (not RM)",
-"target": false,
-"families": [
-"Compliance, risk & audit",
-"Marketing & media",
-"Customer service"
-]
-},
-{
-"title": "Lecturer in Safety Engineering",
-"company": "Gulf University",
-"location": "Bahrain - Manama",
-"posted": "",
-"url": "https://bahrain.tanqeeb.com/jobs-in-middle-east/all/jobs/021332856.html",
-"id": "lecturer in safety engineering|gulf university",
-"sources": [
-"Tanqeeb"
-],
-"roles": [
-"internal control",
-"risk",
-"recruiter"
-],
-"links": {
-"Tanqeeb": "https://bahrain.tanqeeb.com/jobs-in-middle-east/all/jobs/021332856.html"
-},
-"fit": "borderline",
-"fit_note": "Not one of the target role types — check the details",
-"target": false,
-"families": [
-"Compliance, risk & audit",
-"HR & admin"
-]
-},
-{
-"title": "Outdoor Sales Representatives B2B",
-"company": "Confidential",
-"location": "Bahrain - capital government",
-"posted": "",
-"url": "https://bahrain.tanqeeb.com/jobs-in-middle-east/all/jobs/021332850.html",
-"id": "outdoor sales representatives b2b|confidential",
-"sources": [
-"Tanqeeb"
-],
-"roles": [
-"internal control",
-"social media",
-"customer service"
-],
-"links": {
-"Tanqeeb": "https://bahrain.tanqeeb.com/jobs-in-middle-east/all/jobs/021332850.html"
-},
-"fit": "none",
-"fit_note": "Not a fit (score 0): Sales / business development (not RM)",
-"target": false,
 "families": [
 "Compliance, risk & audit",
 "Marketing & media",
@@ -20738,64 +19850,9 @@
 "links": {
 "Tanqeeb": "https://bahrain.tanqeeb.com/jobs-in-middle-east/all/jobs/021341647.html"
 },
-"fit": "borderline",
-"fit_note": "Not one of the target role types — check the details",
-"target": false,
 "families": [
 "Compliance, risk & audit",
 "HR & admin"
-]
-},
-{
-"title": "Senior Consultant - Management Consulting",
-"company": "Keypoint Business Services W.L.L",
-"location": "Bahrain - Manama",
-"posted": "",
-"url": "https://bahrain.tanqeeb.com/jobs-in-middle-east/all/jobs/021332852.html",
-"id": "senior consultant management consulting|keypoint business services w l l",
-"sources": [
-"Tanqeeb"
-],
-"roles": [
-"risk",
-"accountant",
-"business development"
-],
-"links": {
-"Tanqeeb": "https://bahrain.tanqeeb.com/jobs-in-middle-east/all/jobs/021332852.html"
-},
-"fit": "borderline",
-"fit_note": "Not one of the target role types — check the details",
-"target": false,
-"families": [
-"Compliance, risk & audit",
-"Accounting & finance",
-"Sales & business dev"
-]
-},
-{
-"title": "Manager - Management consulting",
-"company": "Keypoint Business Services W.L.L",
-"location": "Bahrain - Manama",
-"posted": "",
-"url": "https://bahrain.tanqeeb.com/jobs-in-middle-east/all/jobs/021332854.html",
-"id": "manager management consulting|keypoint business services w l l",
-"sources": [
-"Tanqeeb"
-],
-"roles": [
-"accountant",
-"business development"
-],
-"links": {
-"Tanqeeb": "https://bahrain.tanqeeb.com/jobs-in-middle-east/all/jobs/021332854.html"
-},
-"fit": "borderline",
-"fit_note": "Not one of the target role types — check the details",
-"target": false,
-"families": [
-"Accounting & finance",
-"Sales & business dev"
 ]
 },
 {
@@ -20817,9 +19874,6 @@
 "links": {
 "Tanqeeb": "https://bahrain.tanqeeb.com/jobs-in-middle-east/all/jobs/021341531.html"
 },
-"fit": "borderline",
-"fit_note": "Not one of the target role types — check the details",
-"target": false,
 "families": [
 "HR & admin",
 "IT & software",
@@ -20847,9 +19901,6 @@
 "links": {
 "Tanqeeb": "https://bahrain.tanqeeb.com/jobs-in-bahrain/all/jobs/021345853.html"
 },
-"fit": "borderline",
-"fit_note": "Partial match — check the duties and pay",
-"target": false,
 "families": [
 "HR & admin",
 "Sales & business dev",
@@ -20876,9 +19927,6 @@
 "links": {
 "Tanqeeb": "https://bahrain.tanqeeb.com/jobs-in-middle-east/all/jobs/021341926.html"
 },
-"fit": "borderline",
-"fit_note": "Not one of the target role types — check the details",
-"target": false,
 "families": [
 "HR & admin",
 "Customer service",
@@ -20902,9 +19950,6 @@
 "links": {
 "Tanqeeb": "https://bahrain.tanqeeb.com/jobs-in-middle-east/all/jobs/021334523.html"
 },
-"fit": "borderline",
-"fit_note": "Not one of the target role types — check the details",
-"target": false,
 "families": [
 "HR & admin",
 "Hospitality & F&B"
@@ -20926,62 +19971,8 @@
 "links": {
 "Tanqeeb": "https://bahrain.tanqeeb.com/jobs-in-middle-east/all/jobs/021334515.html"
 },
-"fit": "borderline",
-"fit_note": "Not one of the target role types — check the details",
-"target": false,
 "families": [
 "HR & admin"
-]
-},
-{
-"title": "Spa Therapist",
-"company": "AccorHotel",
-"location": "Bahrain - Manama",
-"posted": "",
-"url": "https://bahrain.tanqeeb.com/jobs-in-middle-east/all/jobs/021332863.html",
-"id": "spa therapist|accorhotel",
-"sources": [
-"Tanqeeb"
-],
-"roles": [
-"receptionist",
-"hotel"
-],
-"links": {
-"Tanqeeb": "https://bahrain.tanqeeb.com/jobs-in-middle-east/all/jobs/021332863.html"
-},
-"fit": "borderline",
-"fit_note": "Not one of the target role types — check the details",
-"target": false,
-"families": [
-"HR & admin",
-"Hospitality & F&B"
-]
-},
-{
-"title": "Hotel Receptionist",
-"company": "Confidential",
-"location": "Bahrain - Manama",
-"posted": "",
-"url": "https://bahrain.tanqeeb.com/jobs-in-middle-east/all/jobs/021332853.html",
-"id": "hotel receptionist|confidential",
-"sources": [
-"Tanqeeb"
-],
-"roles": [
-"receptionist",
-"hotel",
-"front office"
-],
-"links": {
-"Tanqeeb": "https://bahrain.tanqeeb.com/jobs-in-middle-east/all/jobs/021332853.html"
-},
-"fit": "borderline",
-"fit_note": "Not one of the target role types — check the details",
-"target": false,
-"families": [
-"HR & admin",
-"Hospitality & F&B"
 ]
 },
 {
@@ -21002,9 +19993,6 @@
 "links": {
 "Tanqeeb": "https://bahrain.tanqeeb.com/jobs-in-bahrain/all/jobs/021339715.html"
 },
-"fit": "none",
-"fit_note": "Not a fit (score 0): Hospitality / trades",
-"target": false,
 "families": [
 "IT & software",
 "Engineering & technical",
@@ -21027,9 +20015,6 @@
 "links": {
 "Tanqeeb": "https://bahrain.tanqeeb.com/jobs-in-middle-east/all/jobs/021334512.html"
 },
-"fit": "borderline",
-"fit_note": "Not one of the target role types — check the details",
-"target": false,
 "families": [
 "IT & software"
 ]
@@ -21053,39 +20038,11 @@
 "links": {
 "Tanqeeb": "https://bahrain.tanqeeb.com/jobs-in-bahrain/all/jobs/021340589.html"
 },
-"fit": "none",
-"fit_note": "Not a fit (score 0): Sales / business development (not RM)",
-"target": true,
 "families": [
 "Engineering & technical",
 "Sales & business dev",
 "Customer service",
 "Logistics & supply chain"
-]
-},
-{
-"title": "Shutter Door Technician",
-"company": "Client of Dolphin Manpower",
-"location": "Bahrain - Manama",
-"posted": "",
-"url": "https://bahrain.tanqeeb.com/jobs-in-middle-east/all/jobs/021332862.html",
-"id": "shutter door technician|client of dolphin manpower",
-"sources": [
-"Tanqeeb"
-],
-"roles": [
-"technician",
-"doctor"
-],
-"links": {
-"Tanqeeb": "https://bahrain.tanqeeb.com/jobs-in-middle-east/all/jobs/021332862.html"
-},
-"fit": "none",
-"fit_note": "Not a fit (score 0): Hospitality / trades",
-"target": false,
-"families": [
-"Engineering & technical",
-"Healthcare"
 ]
 },
 {
@@ -21106,9 +20063,6 @@
 "links": {
 "Tanqeeb": "https://bahrain.tanqeeb.com/jobs-in-middle-east/all/jobs/021346731.html"
 },
-"fit": "borderline",
-"fit_note": "Not one of the target role types — check the details",
-"target": false,
 "families": [
 "Sales & business dev",
 "Customer service",
@@ -21133,9 +20087,6 @@
 "links": {
 "Tanqeeb": "https://bahrain.tanqeeb.com/jobs-in-middle-east/all/jobs/021346730.html"
 },
-"fit": "borderline",
-"fit_note": "Partial match — check the duties and pay",
-"target": false,
 "families": [
 "Sales & business dev",
 "Customer service",
@@ -21160,35 +20111,6 @@
 "links": {
 "Tanqeeb": "https://bahrain.tanqeeb.com/jobs-in-middle-east/all/jobs/021334524.html"
 },
-"fit": "borderline",
-"fit_note": "Not one of the target role types — check the details",
-"target": false,
-"families": [
-"Sales & business dev",
-"Hospitality & F&B"
-]
-},
-{
-"title": "Head Baker",
-"company": "AccorHotel",
-"location": "Bahrain - Manama",
-"posted": "",
-"url": "https://bahrain.tanqeeb.com/jobs-in-middle-east/all/jobs/021332857.html",
-"id": "head baker|accorhotel",
-"sources": [
-"Tanqeeb"
-],
-"roles": [
-"business development",
-"hotel",
-"chef"
-],
-"links": {
-"Tanqeeb": "https://bahrain.tanqeeb.com/jobs-in-middle-east/all/jobs/021332857.html"
-},
-"fit": "borderline",
-"fit_note": "Not one of the target role types — check the details",
-"target": false,
 "families": [
 "Sales & business dev",
 "Hospitality & F&B"
@@ -21211,9 +20133,6 @@
 "links": {
 "Tanqeeb": "https://bahrain.tanqeeb.com/jobs-in-middle-east/all/jobs/021343555.html"
 },
-"fit": "borderline",
-"fit_note": "Not one of the target role types — check the details",
-"target": false,
 "families": [
 "Marketing & media"
 ]
@@ -21234,9 +20153,6 @@
 "links": {
 "Tanqeeb": "https://bahrain.tanqeeb.com/jobs-in-middle-east/all/jobs/021342933.html"
 },
-"fit": "none",
-"fit_note": "Not a fit (score 0): Head of / AVP level or above",
-"target": false,
 "families": [
 "Marketing & media"
 ]
@@ -21258,9 +20174,6 @@
 "links": {
 "Tanqeeb": "https://bahrain.tanqeeb.com/jobs-in-middle-east/all/jobs/021341919.html"
 },
-"fit": "borderline",
-"fit_note": "Partial match — check the duties and pay",
-"target": false,
 "families": [
 "Marketing & media"
 ]
@@ -21281,9 +20194,6 @@
 "links": {
 "Tanqeeb": "https://bahrain.tanqeeb.com/jobs-in-middle-east/all/jobs/021335951.html"
 },
-"fit": "none",
-"fit_note": "Not a fit (score 0): Sales / business development (not RM)",
-"target": false,
 "families": [
 "Marketing & media"
 ]
@@ -21306,9 +20216,6 @@
 "links": {
 "Tanqeeb": "https://bahrain.tanqeeb.com/jobs-in-middle-east/all/jobs/021334516.html"
 },
-"fit": "none",
-"fit_note": "Not a fit (score 0): Customer service / call centre",
-"target": true,
 "families": [
 "Marketing & media",
 "Customer service"
@@ -21332,36 +20239,6 @@
 "links": {
 "Tanqeeb": "https://bahrain.tanqeeb.com/jobs-in-middle-east/all/jobs/021334513.html"
 },
-"fit": "none",
-"fit_note": "Not a fit (score 0): Sales / business development (not RM)",
-"target": false,
-"families": [
-"Marketing & media",
-"Customer service",
-"Healthcare"
-]
-},
-{
-"title": "Outdoor Sales Executive B2C- Bahrain",
-"company": "Confidential",
-"location": "Bahrain - capital government",
-"posted": "",
-"url": "https://bahrain.tanqeeb.com/jobs-in-middle-east/all/jobs/021332849.html",
-"id": "outdoor sales executive b2c bahrain|confidential",
-"sources": [
-"Tanqeeb"
-],
-"roles": [
-"social media",
-"customer service",
-"doctor"
-],
-"links": {
-"Tanqeeb": "https://bahrain.tanqeeb.com/jobs-in-middle-east/all/jobs/021332849.html"
-},
-"fit": "none",
-"fit_note": "Not a fit (score 0): Sales / business development (not RM)",
-"target": false,
 "families": [
 "Marketing & media",
 "Customer service",
@@ -21384,9 +20261,6 @@
 "links": {
 "Tanqeeb": "https://bahrain.tanqeeb.com/jobs-in-middle-east/all/jobs/021342929.html"
 },
-"fit": "none",
-"fit_note": "Not a fit (score 0): Hospitality / trades",
-"target": false,
 "families": [
 "Customer service"
 ]
@@ -21408,9 +20282,6 @@
 "links": {
 "Tanqeeb": "https://bahrain.tanqeeb.com/jobs-in-middle-east/all/jobs/021341646.html"
 },
-"fit": "borderline",
-"fit_note": "Not one of the target role types — check the details",
-"target": false,
 "families": [
 "Customer service",
 "Retail"
@@ -21433,9 +20304,6 @@
 "links": {
 "Tanqeeb": "https://bahrain.tanqeeb.com/jobs-in-bahrain/all/jobs/021346370.html"
 },
-"fit": "borderline",
-"fit_note": "Not one of the target role types — check the details",
-"target": false,
 "families": [
 "Healthcare",
 "Hospitality & F&B"
@@ -21458,9 +20326,6 @@
 "links": {
 "Tanqeeb": "https://bahrain.tanqeeb.com/jobs-in-middle-east/all/jobs/021334518.html"
 },
-"fit": "none",
-"fit_note": "Not a fit (score 0): Head of / AVP level or above",
-"target": false,
 "families": [
 "Healthcare",
 "Hospitality & F&B"
@@ -21482,9 +20347,6 @@
 "links": {
 "Tanqeeb": "https://bahrain.tanqeeb.com/jobs-in-middle-east/all/jobs/021337332.html"
 },
-"fit": "borderline",
-"fit_note": "Not one of the target role types — check the details",
-"target": false,
 "families": [
 "Healthcare"
 ]
@@ -21506,9 +20368,6 @@
 "links": {
 "Tanqeeb": "https://bahrain.tanqeeb.com/jobs-in-middle-east/all/jobs/021335954.html"
 },
-"fit": "borderline",
-"fit_note": "Not one of the target role types — check the details",
-"target": false,
 "families": [
 "Healthcare",
 "Logistics & supply chain"
@@ -21530,9 +20389,6 @@
 "links": {
 "Tanqeeb": "https://bahrain.tanqeeb.com/jobs-in-middle-east/all/jobs/021335953.html"
 },
-"fit": "borderline",
-"fit_note": "Not one of the target role types — check the details",
-"target": false,
 "families": [
 "Healthcare"
 ]
@@ -21553,55 +20409,6 @@
 "links": {
 "Tanqeeb": "https://bahrain.tanqeeb.com/jobs-in-middle-east/all/jobs/021334525.html"
 },
-"fit": "borderline",
-"fit_note": "Not one of the target role types — check the details",
-"target": false,
-"families": [
-"Healthcare"
-]
-},
-{
-"title": "Asst. Fitters (Tanks/Vessels)",
-"company": "Client of Talentrio",
-"location": "Bahrain - Manama",
-"posted": "",
-"url": "https://bahrain.tanqeeb.com/jobs-in-middle-east/all/jobs/021332859.html",
-"id": "asst fitters tanks vessels|client of talentrio",
-"sources": [
-"Tanqeeb"
-],
-"roles": [
-"medical"
-],
-"links": {
-"Tanqeeb": "https://bahrain.tanqeeb.com/jobs-in-middle-east/all/jobs/021332859.html"
-},
-"fit": "borderline",
-"fit_note": "Not one of the target role types — check the details",
-"target": false,
-"families": [
-"Healthcare"
-]
-},
-{
-"title": "Tank / Vessel Fabricators",
-"company": "Client of Talentrio",
-"location": "Bahrain - Manama",
-"posted": "",
-"url": "https://bahrain.tanqeeb.com/jobs-in-middle-east/all/jobs/021332858.html",
-"id": "tank vessel fabricators|client of talentrio",
-"sources": [
-"Tanqeeb"
-],
-"roles": [
-"medical"
-],
-"links": {
-"Tanqeeb": "https://bahrain.tanqeeb.com/jobs-in-middle-east/all/jobs/021332858.html"
-},
-"fit": "borderline",
-"fit_note": "Not one of the target role types — check the details",
-"target": false,
 "families": [
 "Healthcare"
 ]
@@ -21622,9 +20429,6 @@
 "links": {
 "Tanqeeb": "https://bahrain.tanqeeb.com/jobs-in-middle-east/all/jobs/021344865.html"
 },
-"fit": "none",
-"fit_note": "Not a fit (score 0): Hospitality / trades",
-"target": false,
 "families": [
 "Hospitality & F&B"
 ]
@@ -21646,9 +20450,6 @@
 "links": {
 "Tanqeeb": "https://bahrain.tanqeeb.com/jobs-in-middle-east/all/jobs/021344864.html"
 },
-"fit": "none",
-"fit_note": "Not a fit (score 0): Hospitality / trades",
-"target": false,
 "families": [
 "Hospitality & F&B",
 "Legal"
@@ -21670,9 +20471,6 @@
 "links": {
 "Tanqeeb": "https://bahrain.tanqeeb.com/jobs-in-middle-east/all/jobs/021335527.html"
 },
-"fit": "none",
-"fit_note": "Not a fit (score 0): Hospitality / trades",
-"target": false,
 "families": [
 "Hospitality & F&B"
 ]
@@ -21696,9 +20494,6 @@
 "links": {
 "Tanqeeb": "https://bahrain.tanqeeb.com/jobs-in-middle-east/all/jobs/021334519.html"
 },
-"fit": "none",
-"fit_note": "Not a fit (score 0): Hospitality / trades",
-"target": false,
 "families": [
 "Hospitality & F&B",
 "Legal"
@@ -21721,36 +20516,8 @@
 "links": {
 "Tanqeeb": "https://bahrain.tanqeeb.com/jobs-in-bahrain/all/jobs/021339716.html"
 },
-"fit": "borderline",
-"fit_note": "Not one of the target role types — check the details",
-"target": false,
 "families": [
 "Logistics & supply chain"
-]
-},
-{
-"title": "Setter Out",
-"company": "Havelock Ahi Wll",
-"location": "Bahrain - Manama",
-"posted": "",
-"url": "https://bahrain.tanqeeb.com/jobs-in-middle-east/all/jobs/021332855.html",
-"id": "setter out|havelock ahi wll",
-"sources": [
-"Tanqeeb"
-],
-"roles": [
-"procurement",
-"project manager"
-],
-"links": {
-"Tanqeeb": "https://bahrain.tanqeeb.com/jobs-in-middle-east/all/jobs/021332855.html"
-},
-"fit": "borderline",
-"fit_note": "Not one of the target role types — check the details",
-"target": false,
-"families": [
-"Logistics & supply chain",
-"Project & management"
 ]
 },
 {
@@ -21769,9 +20536,6 @@
 "links": {
 "Tanqeeb": "https://bahrain.tanqeeb.com/jobs-in-middle-east/all/jobs/021333815.html"
 },
-"fit": "borderline",
-"fit_note": "Not one of the target role types — check the details",
-"target": false,
 "families": [
 "Legal"
 ]
