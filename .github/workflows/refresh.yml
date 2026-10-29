@@ -1,0 +1,41 @@
+name: Refresh live jobs
+on:
+  schedule:
+    - cron: "17 */6 * * *"   # every 6 hours (03:17, 09:17, 15:17, 21:17 Bahrain time)
+  workflow_dispatch: {}
+  push:                     # also run when the scraper or this workflow is changed
+    branches: [main]
+    paths:
+      - scripts/scrape.py
+      - .github/workflows/refresh.yml
+permissions:
+  contents: write
+concurrency:
+  group: refresh
+  cancel-in-progress: false
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    timeout-minutes: 40
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install requests beautifulsoup4
+      - run: python scripts/scrape.py
+      - name: Commit data/live.json
+        run: |
+          git config user.name "jobhub-bot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          cp data/live.json "$RUNNER_TEMP/live.json"
+          for i in 1 2 3; do
+            git fetch origin main && git reset --hard origin/main
+            cp "$RUNNER_TEMP/live.json" data/live.json
+            git add data/live.json
+            git diff --cached --quiet && echo "No changes" && exit 0
+            git commit -m "Refresh live jobs $(date -u +%Y-%m-%dT%H:%MZ)"
+            git push origin HEAD:main && exit 0
+            sleep 10
+          done
+          exit 1

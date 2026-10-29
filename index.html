@@ -1,0 +1,257 @@
+<!DOCTYPE html>
+<html lang="en"><head>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>🔎 Bahrain Job Finder 🇧🇭</title>
+<meta name="description" content="Free Bahrain job finder: real openings from LinkedIn, Tanqeeb, Workable and employer careers pages, filtered by your own preferences.">
+<style>
+:root{--bg:#0a1a33;--bg2:#10264a;--card:#d9dde3;--card2:#c9cfd8;--ink:#14213d;--mut:#4a5568;--accent:#2f6fde;--ok:#1f8a4c;--gold:#e0a800}
+*{box-sizing:border-box}body{margin:0;background:var(--bg);color:#eef2f7;font:15px/1.45 system-ui,-apple-system,Segoe UI,Roboto,sans-serif}
+.wrap{max-width:1000px;margin:0 auto;padding:16px}
+h1{font-size:22px;margin:6px 0 2px}h2{font-size:16px;margin:0 0 8px}.sub{color:#a9b8d0;font-size:13px;margin-bottom:12px}
+.panel{background:var(--bg2);border:1px solid #1d3a66;border-radius:14px;padding:14px;margin-bottom:14px}
+.field{background:var(--card);color:var(--ink);border:1px solid #b8c0cc;border-radius:10px;padding:10px 12px;font-size:15px;width:100%}
+.tagbox{background:var(--card);border-radius:10px;padding:6px;display:flex;flex-wrap:wrap;gap:6px;align-items:center;position:relative}
+.tagbox input{flex:1;min-width:150px;border:0;background:transparent;color:var(--ink);font-size:15px;padding:6px;outline:none}
+.tag{background:var(--accent);color:#fff;border-radius:16px;padding:4px 10px;font-size:13px}.tag b{cursor:pointer;margin-left:6px}
+.ac{position:absolute;left:0;right:0;top:100%;background:var(--card);color:var(--ink);border-radius:10px;box-shadow:0 8px 20px #0008;z-index:5;overflow:hidden}
+.ac div{padding:8px 12px;cursor:pointer}.ac div:hover{background:var(--card2)}
+.hidden{display:none!important}
+.chips{display:flex;flex-wrap:wrap;gap:6px;margin-top:8px;align-items:center}.lbl{font-size:12px;color:#a9b8d0;margin-right:2px}
+.chip{background:var(--card);color:var(--ink);border:1px solid transparent;border-radius:16px;padding:5px 10px;font-size:13px;cursor:pointer}
+.chip:hover{background:#fff}.chip.on{background:var(--accent);color:#fff}
+.row{display:flex;gap:10px;flex-wrap:wrap;margin-top:10px}.row>*{flex:1;min-width:140px}
+label.small{font-size:12px;color:#a9b8d0;display:block;margin:10px 0 3px}
+.btn{background:var(--accent);color:#fff;border:0;border-radius:10px;padding:12px 18px;font-size:16px;font-weight:600;cursor:pointer;width:100%;margin-top:14px}
+.btn.sec{background:var(--card);color:var(--ink);font-size:14px;padding:9px;margin-top:8px}
+.checks{display:flex;flex-wrap:wrap;gap:6px}.checks label{background:var(--card);color:var(--ink);border-radius:10px;padding:7px 10px;font-size:13px;display:flex;gap:6px;align-items:center;cursor:pointer}
+.chk{display:flex;align-items:center;gap:8px;font-size:14px;margin-top:8px;cursor:pointer}.chk input{width:18px;height:18px}
+.status{display:flex;flex-wrap:wrap;gap:6px}.st{background:var(--card);color:var(--ink);border-radius:8px;padding:4px 9px;font-size:12px}.st.off{background:#5a6475;color:#e5e8ee}
+.fchips{display:flex;gap:6px;overflow-x:auto;padding-bottom:4px}.fchips .chip{white-space:nowrap;font-weight:600}
+.job{background:var(--card);color:var(--ink);border-radius:12px;padding:12px 14px;margin-bottom:10px;display:flex;gap:12px;align-items:flex-start}
+.job.s-Saved{border-left:6px solid var(--gold)}.job.s-Applied{border-left:6px solid var(--ok)}
+.job .main{flex:1;min-width:0}.job .t{font-weight:700;font-size:16px}.job .c{color:#253858;font-weight:600}
+.job .m{color:var(--mut);font-size:13px;margin-top:2px}.badge{display:inline-block;background:#fff;border-radius:6px;padding:1px 7px;font-size:11px;margin:4px 4px 0 0;color:#253858}
+.badge.r{background:#cfe0ff}.badge.i{background:#ffe9a8}.badge.p{background:#d6f5e0}
+.fit{display:inline-block;border-radius:8px;padding:2px 8px;font-size:12px;font-weight:700;margin:6px 6px 0 0;background:#1f8a4c;color:#fff}
+.act{display:flex;flex-direction:column;gap:6px;min-width:130px}
+.apply{background:var(--ok);color:#fff;text-decoration:none;border-radius:10px;padding:10px 14px;font-weight:700;text-align:center}
+.sb{background:#fff;color:var(--ink);border:2px solid #b8c0cc;border-radius:10px;padding:7px 8px;font-weight:600;cursor:pointer;font-size:13px}.sb.on{border-color:var(--accent);background:#cfe0ff}
+.alts{font-size:12px;margin-top:6px}.alts a{color:var(--accent)}
+.count{color:#a9b8d0;font-size:13px;margin:8px 0}
+.empty{background:var(--bg2);border-radius:12px;padding:20px;text-align:center;color:#a9b8d0}
+.links{display:flex;flex-wrap:wrap;gap:6px;margin-top:6px}.links a{background:var(--card);color:var(--ink);text-decoration:none;border-radius:8px;padding:6px 10px;font-size:13px;font-weight:600}
+.sumline{font-size:13px;color:#cfd8e6;margin-top:6px}
+.foot{margin:24px 0 10px;color:#a9b8d0;font-size:13px;text-align:center}
+@media(max-width:600px){.job{flex-wrap:wrap}.act{width:100%}}
+</style></head><body><div class="wrap">
+<h1>🔎 Bahrain Job Finder 🇧🇭</h1>
+<div class="sub">Real job openings in Bahrain from LinkedIn, Tanqeeb, Workable and employer careers pages, refreshed every 6 hours. Set your preferences once and they're saved in this browser.</div>
+
+<div class="panel" id="prefPanel">
+ <div style="display:flex;justify-content:space-between;align-items:center;gap:8px"><h2 style="margin:0">⚙️ My preferences</h2><button class="chip" id="prefToggle">✏️ Edit</button></div>
+ <div class="sumline" id="prefSum"></div>
+ <div id="prefBody">
+  <label class="small">💼 Roles or keywords I'm looking for (leave empty to see everything)</label>
+  <div class="tagbox" id="roleBox"><span id="roleTags" style="display:contents"></span><input id="roleIn" autocomplete="off" placeholder="e.g. accountant, nurse, marketing"><div class="ac hidden" id="roleAc"></div></div>
+  <div class="chips" id="quick"></div>
+  <div id="related"></div>
+  <label class="small">🚫 Words to exclude (comma separated)</label>
+  <input id="excl" class="field" placeholder="e.g. call centre, night shift">
+  <label class="small">🎚️ Seniority levels to hide</label>
+  <div class="checks" id="senBox"></div>
+  <label class="small">🏢 Sectors or employers I'm interested in (shown first, with a 🎯 badge)</label>
+  <div class="tagbox" id="empBox"><span id="empTags" style="display:contents"></span><input id="empIn" autocomplete="off" placeholder="e.g. bank, telecom, hotel, a company name"></div>
+  <div class="chips" id="secQuick"></div>
+  <div class="row">
+   <div><label class="small">📍 Location</label><select id="loc" class="field"></select></div>
+   <div><label class="small">📅 Max job age</label><select id="maxAge" class="field"><option value="1">24 hours</option><option value="3">3 days</option><option value="7">7 days</option><option value="14">14 days</option><option value="30">30 days</option></select></div>
+  </div>
+  <label class="chk"><input type="checkbox" id="locLoose"> Include listings that only say "Bahrain" (no specific area)</label>
+  <div class="row">
+   <div><label class="small">💰 Salary min (monthly)</label><input id="salMin" class="field" type="number" min="0" inputmode="numeric" placeholder="any"></div>
+   <div><label class="small">💰 Salary max (monthly)</label><input id="salMax" class="field" type="number" min="0" inputmode="numeric" placeholder="any"></div>
+   <div><label class="small">💱 Currency</label><select id="cur" class="field"><option>BHD</option><option>USD</option><option>SAR</option><option>AED</option><option>EUR</option><option>GBP</option><option>INR</option></select></div>
+  </div>
+  <div class="sub" style="margin:4px 0 0">Most ads don't show pay. Those stay in your results, marked "salary not listed". Ads that show pay outside your range are hidden.</div>
+  <label class="small">📝 Salary note for myself (optional)</label>
+  <input id="salNote" class="field" placeholder="e.g. currently on 900 BHD, want 1,100+ with housing">
+  <button class="btn" id="savePrefs">💾 Save preferences &amp; show jobs</button>
+  <button class="btn sec" id="resetPrefs">↩️ Reset to defaults</button>
+ </div>
+</div>
+
+<div class="panel">
+ <div class="fchips" id="viewChips"></div>
+ <input id="kw" class="field" placeholder="🔤 Filter by word in title or company…" style="margin-top:8px">
+ <div class="chips" id="famChips"></div>
+ <label class="chk"><input type="checkbox" id="showHidden"> 🙈 Show jobs hidden by my preferences (<span id="nHidden">0</span>)</label>
+</div>
+<div class="count" id="count"></div>
+<div id="list"><div class="empty">⏳ Loading jobs…</div></div>
+
+<div class="panel" id="sitesPanel"><h2>🌐 Search job sites directly</h2><div class="sub" style="margin:0">One click searches each site for your roles in Bahrain (opens a new tab).</div><div id="sites"></div></div>
+<div class="panel" id="statusPanel"><h2>📡 Sources</h2><div class="status" id="status"></div><div class="sub" id="fetched" style="margin:8px 0 0"></div></div>
+<div class="foot">🔒 Your preferences and ⭐ saved jobs stay in this browser only, nothing is sent anywhere.</div>
+</div>
+<script>
+const $=id=>document.getElementById(id);
+const K="bjf_";   // this app's own storage keys
+const store={get:(k,d)=>{try{return JSON.parse(localStorage.getItem(K+k))??d}catch{return d}},set:(k,v)=>localStorage.setItem(K+k,JSON.stringify(v))};
+const esc=s=>String(s??"").replace(/[&<>"]/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]));
+const enc=encodeURIComponent, slug=s=>s.toLowerCase().replace(/[^a-z0-9]+/g,"-").replace(/^-|-$/g,"");
+const RELATED=[
+ {k:["account","finance","financial","audit","tax"],t:["Accountant","Financial analyst","Accounts payable","Accounts receivable","Auditor","Tax consultant","Finance manager"]},
+ {k:["bank","operation","settlement","payment","credit","treasury","trade"],t:["Banking operations","Payments operations","Credit analyst","Trade finance","Treasury","Relationship manager"]},
+ {k:["complian","kyc","aml","risk"],t:["Compliance officer","KYC analyst","AML analyst","Risk analyst","Internal control"]},
+ {k:["hr","human","recruit","payroll","talent"],t:["HR officer","HR generalist","Recruiter","Talent acquisition","Payroll specialist"]},
+ {k:["admin","office","secretar","reception","assistant"],t:["Administration officer","Office manager","Executive assistant","Secretary","Receptionist"]},
+ {k:["software","developer","it","data","cyber","network","web"],t:["Software engineer","Web developer","Data analyst","IT support","Network engineer","Cyber security analyst"]},
+ {k:["engineer","mechanical","electrical","civil","project","maintenance"],t:["Mechanical engineer","Electrical engineer","Civil engineer","Project engineer","Maintenance engineer","Site engineer"]},
+ {k:["sales","business","account manager"],t:["Sales executive","Business development","Account manager","Sales manager","Key account manager"]},
+ {k:["marketing","media","design","social","content","brand"],t:["Marketing executive","Digital marketing","Social media","Graphic designer","Content writer","Brand manager"]},
+ {k:["customer","service","call","support"],t:["Customer service","Call centre agent","Customer experience","Client support"]},
+ {k:["nurse","doctor","medical","health","pharma","clinic"],t:["Nurse","Pharmacist","Doctor","Medical representative","Lab technician"]},
+ {k:["hotel","restaurant","chef","hospitality","front office","f&b"],t:["Front office","Chef","Restaurant manager","Housekeeping","Guest relations"]},
+ {k:["retail","store","cashier","shop"],t:["Store manager","Sales associate","Cashier","Merchandiser"]},
+ {k:["logistic","supply","procure","warehouse","driver","purchas"],t:["Logistics coordinator","Procurement officer","Supply chain","Warehouse supervisor","Driver"]},
+ {k:["teach","lectur","education","tutor"],t:["Teacher","Lecturer","Teaching assistant"]},
+ {k:["legal","lawyer","paralegal"],t:["Legal counsel","Lawyer","Paralegal"]}
+];
+const ALL_TITLES=[...new Set(RELATED.flatMap(f=>f.t))].sort();
+const QUICK=["accountant","banking","compliance","HR","admin","IT","engineer","sales","marketing","customer service","nurse","hotel","logistics","teacher"];
+const SECTORS=["bank","insurance","telecom","oil & gas","aviation","hotel","hospital","government","consulting","fintech","retail","construction","logistics","education"];
+const SEN=[["entry","🌱 Entry / intern / trainee",/\bintern(ship)?\b|\btrainee\b|graduate|\bentry\b|\bjunior\b|\bjr\b|fresh/],
+ ["senior","🧗 Senior",/\bsenior\b|\bsr\b|\blead\b|principal/],
+ ["manager","👔 Manager",/\bmanager\b|\bsupervisor\b/],
+ ["exec","🏛️ Head of / AVP / Director and above",/\bhead of\b|\bchief\b|\bdirector\b|vice president|\bavp\b|\bsvp\b|\bevp\b|\bvp\b|\bcfo\b|\bcoo\b|\bceo\b|\bcto\b|general manager/]];
+const AREAS=["Any","Manama","Seef","Sanabis","Juffair","Diplomatic Area","Muharraq","Hidd","Riffa","Isa Town","Hamad Town","Sitra","Budaiya","Amwaj","Remote / hybrid"];
+const SRC_EMOJI={"LinkedIn":"💼","Tanqeeb":"🟠","Workable":"🧰","Employer careers (ATS)":"🏢"};
+const DEF={roles:[],excl:"",hideSen:[],emps:[],loc:"Any",locLoose:true,maxAge:30,salMin:"",salMax:"",cur:"BHD",salNote:""};
+let P={...DEF,...store.get("prefs",{})};
+const firstRun=!store.get("prefs",null);
+
+// ---------- tag inputs ----------
+function tagInput(box,tagsEl,input,key,acEl){
+ const has=t=>P[key].some(x=>x.toLowerCase()===t.toLowerCase());
+ const add=t=>{t=t.trim().replace(/\s+/g," ");if(t&&!has(t))P[key].push(t);draw()};
+ const fromInput=()=>{if(input.value.trim()){input.value.split(/,|;/).forEach(add);input.value=""}if(acEl)acEl.classList.add("hidden")};
+ function draw(){tagsEl.innerHTML=P[key].map((t,i)=>`<span class="tag">${esc(t)}<b data-i="${i}">×</b></span>`).join("");
+  tagsEl.querySelectorAll("[data-i]").forEach(b=>b.onclick=()=>{P[key].splice(+b.dataset.i,1);draw()});if(key==="roles")drawRelated()}
+ input.oninput=()=>{if(input.value.includes(",")){fromInput();return}
+  if(acEl){const v=input.value.trim().toLowerCase();const m=v.length<2?[]:ALL_TITLES.filter(t=>t.toLowerCase().includes(v)&&!has(t)).slice(0,8);
+   acEl.innerHTML=m.map(t=>`<div data-ac="${esc(t)}">${esc(t)}</div>`).join("");acEl.classList.toggle("hidden",!m.length);
+   acEl.querySelectorAll("[data-ac]").forEach(d=>d.onmousedown=e=>{e.preventDefault();add(d.dataset.ac);input.value="";acEl.classList.add("hidden")})}
+  if(key==="roles")drawRelated()};
+ input.onkeydown=e=>{if(e.key==="Enter"){e.preventDefault();fromInput()}else if(e.key==="Backspace"&&!input.value&&P[key].length){P[key].pop();draw()}};
+ input.onblur=()=>{setTimeout(()=>{if(acEl)acEl.classList.add("hidden")},150);fromInput()};
+ box.onclick=e=>{if(e.target===box)input.focus()};
+ return {add,draw,fromInput}}
+const roleT=tagInput($("roleBox"),$("roleTags"),$("roleIn"),"roles",$("roleAc"));
+const empT=tagInput($("empBox"),$("empTags"),$("empIn"),"emps",null);
+function drawRelated(){const words=[...P.roles,$("roleIn").value.trim()].filter(Boolean).map(w=>w.toLowerCase());const out=[];
+ RELATED.forEach(f=>{if(words.some(w=>f.k.some(k=>new RegExp("(^|[^a-z])"+k.replace(/[.*+?^${}()|[\]\\&]/g,"\\$&")).test(w))))f.t.forEach(t=>{if(!out.includes(t)&&!P.roles.some(x=>x.toLowerCase()===t.toLowerCase()))out.push(t)})});
+ const r=out.slice(0,12);
+ $("related").innerHTML=r.length?`<div class="chips"><span class="lbl">💡 Related roles:</span>${r.map(t=>`<button class="chip" data-rel="${esc(t)}">+ ${esc(t)}</button>`).join("")}</div>`:"";
+ document.querySelectorAll("[data-rel]").forEach(b=>b.onclick=()=>roleT.add(b.dataset.rel))}
+$("quick").innerHTML=`<span class="lbl">⚡ Quick picks:</span>`+QUICK.map(t=>`<button class="chip" data-q="${esc(t)}">${esc(t)}</button>`).join("");
+document.querySelectorAll("[data-q]").forEach(b=>b.onclick=()=>roleT.add(b.dataset.q));
+$("secQuick").innerHTML=`<span class="lbl">🏭 Sectors:</span>`+SECTORS.map(t=>`<button class="chip" data-s="${esc(t)}">${esc(t)}</button>`).join("");
+document.querySelectorAll("[data-s]").forEach(b=>b.onclick=()=>empT.add(b.dataset.s));
+$("senBox").innerHTML=SEN.map(([k,l])=>`<label><input type="checkbox" value="${k}"> ${l}</label>`).join("");
+$("loc").innerHTML=AREAS.map(a=>`<option>${a}</option>`).join("");
+
+function fillForm(){roleT.draw();empT.draw();$("excl").value=P.excl;$("loc").value=P.loc;$("locLoose").checked=P.locLoose;$("maxAge").value=String(P.maxAge);
+ $("salMin").value=P.salMin;$("salMax").value=P.salMax;$("cur").value=P.cur;$("salNote").value=P.salNote;
+ document.querySelectorAll("#senBox input").forEach(c=>c.checked=P.hideSen.includes(c.value));drawSum()}
+function readForm(){roleT.fromInput();empT.fromInput();P.excl=$("excl").value;P.loc=$("loc").value;P.locLoose=$("locLoose").checked;P.maxAge=+$("maxAge").value;
+ P.salMin=$("salMin").value;P.salMax=$("salMax").value;P.cur=$("cur").value;P.salNote=$("salNote").value.trim();
+ P.hideSen=[...document.querySelectorAll("#senBox input:checked")].map(c=>c.value)}
+function drawSum(){const parts=[P.roles.length?"💼 "+P.roles.join(", "):"💼 All roles","📍 "+P.loc,"📅 ≤ "+P.maxAge+" days"];
+ if(P.hideSen.length)parts.push("🎚️ hiding "+P.hideSen.length+" level(s)");if(P.emps.length)parts.push("🎯 "+P.emps.join(", "));
+ if(P.salMin||P.salMax)parts.push("💰 "+(P.salMin||"0")+"–"+(P.salMax||"∞")+" "+P.cur);if(P.salNote)parts.push("📝 "+P.salNote);
+ $("prefSum").textContent=parts.join(" · ")}
+let editing=firstRun;
+function setEditing(v){editing=v;$("prefBody").classList.toggle("hidden",!v);$("prefToggle").textContent=v?"✖️ Close":"✏️ Edit";$("prefSum").classList.toggle("hidden",v)}
+$("prefToggle").onclick=()=>setEditing(!editing);
+$("savePrefs").onclick=()=>{readForm();store.set("prefs",P);drawSum();setEditing(false);drawSites();render();window.scrollTo({top:0,behavior:"smooth"})};
+$("resetPrefs").onclick=()=>{if(!confirm("Reset all preferences?"))return;P={...DEF,roles:[],emps:[],hideSen:[]};store.set("prefs",P);fillForm();drawSites();render()};
+
+// ---------- matching / scoring from preferences ----------
+const STOP=new Set(["and","or","of","the","in","jobs","job","a","for","officer","specialist","executive","manager","analyst","assistant","associate","senior","junior","staff","bahrain"]);
+const words=t=>(t.toLowerCase().match(/[a-z0-9&]+/g)||[]);
+const stem=w=>w.length>5?w.slice(0,Math.max(4,w.length-3)):w;
+function hits(phrase,text){let ws=words(phrase);const core=ws.filter(w=>!STOP.has(w));if(core.length)ws=core;if(!ws.length)return false;
+ const hay=" "+text.toLowerCase().replace(/[^a-z0-9&]+/g," ")+" ";
+ const n=ws.filter(w=>w.length<=3?hay.includes(" "+w+" "):hay.includes(stem(w))).length;return n>=(ws.length<=2?ws.length:Math.ceil(ws.length*.6))}
+function salaryOf(j){const t=(j.salary||"")+" "+j.title;const m=t.match(/(?:bhd|bd)\s?([\d,]{3,6})(?:\s?[-–to]+\s?(?:bhd|bd)?\s?([\d,]{3,6}))?|([\d,]{3,6})\s?(?:[-–]\s?([\d,]{3,6}))?\s?(?:bhd|bd)\b/i);
+ if(!m)return null;const a=+(m[1]||m[3]).replace(/,/g,""),b=+((m[2]||m[4]||"").replace(/,/g,""))||a;return{min:a,max:b,cur:"BHD"}}
+function locOk(j){if(P.loc==="Any")return true;const l=(j.location||"").toLowerCase();
+ if(P.loc.startsWith("Remote"))return/remote|hybrid/.test(l);
+ if(l.includes(P.loc.toLowerCase()))return true;
+ return P.locLoose&&!AREAS.slice(1).some(a=>l.includes(a.toLowerCase().split(" ")[0]))}
+function evaluate(j){const t=j.title.toLowerCase(),full=j.title+" "+(j.company||"");const why=[];
+ const ex=P.excl.split(",").map(s=>s.trim().toLowerCase()).filter(Boolean).find(w=>full.toLowerCase().includes(w));if(ex)why.push(`has "${ex}"`);
+ const sen=SEN.find(([k,,rx])=>P.hideSen.includes(k)&&rx.test(t));if(sen)why.push(sen[1].replace(/^\S+ /,"")+" level");
+ const cut=new Date(Date.now()-P.maxAge*864e5).toISOString().slice(0,10);if(j.posted&&j.posted<cut)why.push("older than "+P.maxAge+" days");
+ if(!locOk(j))why.push("not in "+P.loc);
+ const sal=salaryOf(j);if(sal&&P.cur==="BHD"&&((P.salMin&&sal.max<+P.salMin)||(P.salMax&&sal.min>+P.salMax)))why.push("salary outside range");
+ const matched=P.roles.filter(r=>hits(r,j.title));if(P.roles.length&&!matched.length)why.push("not one of my roles");
+ const interest=P.emps.filter(e=>hits(e,full));
+ return{hidden:why.length>0,why,matched,interest,sal}}
+
+// ---------- data ----------
+let DATA=null,JOBS=[];
+async function load(){const bust="?t="+Math.floor(Date.now()/60000);
+ try{const r=await fetch("data/live.json"+bust,{cache:"no-store"});if(!r.ok)throw 0;DATA=await r.json()}
+ catch{const r=await fetch("https://raw.githubusercontent.com/akprojects91/jobhub/main/data/live.json"+bust,{cache:"no-store"});DATA=await r.json()}
+ JOBS=DATA.jobs.map(j=>({id:j.id,title:j.title,company:j.company,location:j.location,posted:j.posted,url:j.url,links:j.links,sources:j.sources,families:j.families||[],salary:j.salary||""}));
+ $("status").innerHTML=DATA.status.map(s=>`<span class="st ${s.ok?"":"off"}">${SRC_EMOJI[s.source]||"🌐"} ${esc(s.source)}: ${s.ok?`<b>${s.count}</b> jobs`:"unavailable"}</span>`).join("");
+ $("fetched").textContent="🕒 Listings refreshed "+new Date(DATA.fetched_at).toLocaleString("en-GB",{timeZone:"Asia/Bahrain",day:"numeric",month:"short",hour:"2-digit",minute:"2-digit"})+" (Bahrain time) · "+JOBS.length+" jobs · updates every 6 hours";
+ render()}
+
+// ---------- views ----------
+let view=store.get("view","All"),fam=null;
+const ST=()=>store.get("status",{});
+function setSt(id,v){const s=ST();if(s[id]&&s[id].status===v)delete s[id];else s[id]={status:v,updated:new Date().toISOString()};store.set("status",s);render()}
+function ago(d){if(!d)return"date not shown";const days=Math.floor((Date.now()-new Date(d+"T12:00:00Z"))/864e5);return days<=0?"today":days===1?"1 day ago":days+" days ago"}
+function render(){if(!DATA)return;const s=ST(),kw=$("kw").value.trim().toLowerCase(),showH=$("showHidden").checked;
+ const ev=JOBS.map(j=>({j,e:evaluate(j),st:(s[j.id]||{}).status||""}));
+ const vis=x=>!x.e.hidden||showH||x.st;
+ const base=ev.filter(x=>(!kw||(x.j.title+" "+x.j.company).toLowerCase().includes(kw)));
+ const cnt={All:base.filter(vis).length,Saved:base.filter(x=>x.st==="Saved").length,Applied:base.filter(x=>x.st==="Applied").length};
+ $("viewChips").innerHTML=[["All","📋 Matches"],["Saved","⭐ Saved"],["Applied","📨 Applied"]].map(([k,l])=>`<button class="chip ${view===k?"on":""}" data-v="${k}">${l} (${cnt[k]})</button>`).join("");
+ document.querySelectorAll("[data-v]").forEach(b=>b.onclick=()=>{view=b.dataset.v;store.set("view",view);render()});
+ let list=base.filter(x=>view==="All"?vis(x):x.st===view);
+ const fc={};list.forEach(x=>x.j.families.forEach(f=>fc[f]=(fc[f]||0)+1));
+ $("famChips").innerHTML=Object.keys(fc).length?`<span class="lbl">🗂️ Job family:</span><button class="chip ${!fam?"on":""}" data-fam="">All</button>`+Object.entries(fc).sort((a,b)=>b[1]-a[1]).map(([f,n])=>`<button class="chip ${fam===f?"on":""}" data-fam="${esc(f)}">${esc(f)} (${n})</button>`).join(""):"";
+ document.querySelectorAll("[data-fam]").forEach(b=>b.onclick=()=>{fam=b.dataset.fam||null;render()});
+ if(fam)list=list.filter(x=>x.j.families.includes(fam));
+ $("nHidden").textContent=base.filter(x=>x.e.hidden&&!x.st).length;
+ list.sort((a,b)=>(b.e.interest.length>0)-(a.e.interest.length>0)||(b.e.matched.length>0)-(a.e.matched.length>0)||(b.j.posted||"").localeCompare(a.j.posted||""));
+ $("count").textContent=`📋 Showing ${list.length} of ${JOBS.length} jobs`+(P.roles.length?" · matching your roles":"")+" · newest first";
+ if(!list.length){$("list").innerHTML=`<div class="empty">${view==="All"?"🙈 No listings match your preferences right now. Try related roles, widen the location or job age, or use the 🌐 site links below.":"Nothing here yet. Tap ⭐ Save on a job to keep it."}</div>`;return}
+ $("list").innerHTML=list.slice(0,300).map(({j,e,st})=>{const main=j.links[j.sources[0]]||j.url;
+  const alts=j.sources.slice(1).map(x=>`<a href="${esc(j.links[x])}" target="_blank" rel="noopener">also on ${esc(x)}</a>`).join(" · ");
+  return `<div class="job s-${st}"><div class="main"><div class="t">${esc(j.title)}</div><div class="c">🏢 ${esc(j.company||"Company not shown")}</div>
+  <div class="m">📍 ${esc(j.location||"Bahrain")} · 🕒 ${esc(ago(j.posted))} · ${e.sal?"💰 "+esc(e.sal.min===e.sal.max?e.sal.min:e.sal.min+"–"+e.sal.max)+" BHD":"💰 salary not listed"}</div>
+  <div>${e.matched.length?`<span class="fit">✅ Matches: ${esc(e.matched.join(", "))}</span>`:""}${e.interest.length?`<span class="badge i">🎯 ${esc(e.interest.join(", "))}</span>`:""}${e.hidden?`<span class="badge">🙈 Hidden: ${esc(e.why.join(", "))}</span>`:""}</div>
+  <div>${j.sources.map(x=>`<span class="badge">${SRC_EMOJI[x]||"🌐"} ${esc(x)}</span>`).join("")}${j.families.map(f=>`<span class="badge r">${esc(f)}</span>`).join("")}</div>
+  ${alts?`<div class="alts">🔗 ${alts}</div>`:""}</div>
+  <div class="act"><a class="apply" href="${esc(main)}" target="_blank" rel="noopener">✅ Apply</a>
+  <button class="sb ${st==="Saved"?"on":""}" data-id="${esc(j.id)}" data-sv="Saved">⭐ Save</button><button class="sb ${st==="Applied"?"on":""}" data-id="${esc(j.id)}" data-sv="Applied">📨 Applied</button></div></div>`}).join("");
+ document.querySelectorAll("[data-sv]").forEach(b=>b.onclick=()=>setSt(b.dataset.id,b.dataset.sv))}
+$("kw").oninput=render;$("showHidden").onchange=render;
+
+function drawSites(){const rs=P.roles.length?P.roles:["jobs"];
+ $("sites").innerHTML=rs.map(r=>{const q=r==="jobs"?"":r;return `<div class="links"><b style="font-size:13px;align-self:center">${esc(r==="jobs"?"All jobs":r)}:</b>
+  <a target="_blank" rel="noopener" href="https://www.linkedin.com/jobs/search/?keywords=${enc(q)}&location=Bahrain">💼 LinkedIn</a>
+  <a target="_blank" rel="noopener" href="https://www.bayt.com/en/bahrain/jobs/${q?slug(q)+"-jobs/":""}">🅱️ Bayt</a>
+  <a target="_blank" rel="noopener" href="https://www.gulftalent.com/bahrain/jobs${q?"/title/"+slug(q):""}">🌴 GulfTalent</a>
+  <a target="_blank" rel="noopener" href="https://bh.indeed.com/jobs?q=${enc(q)}&l=Bahrain">🔵 Indeed</a>
+  <a target="_blank" rel="noopener" href="https://www.tanqeeb.com/en/s/jobs/${q?slug(q)+"-jobs-in-bahrain":"jobs-in-bahrain"}">🟠 Tanqeeb</a>
+  <a target="_blank" rel="noopener" href="https://www.naukrigulf.com/${q?slug(q)+"-jobs-in-bahrain":"jobs-in-bahrain"}">🟣 Naukrigulf</a>
+  <a target="_blank" rel="noopener" href="https://www.akhtaboot.com/en/bahrain/jobs/search?keywords=${enc(q)}">🟢 Akhtaboot</a>
+  <a target="_blank" rel="noopener" href="https://www.google.com/search?q=${enc((q||"")+" jobs Bahrain")}&ibp=htl;jobs">🔍 Google Jobs</a></div>`}).join("")}
+
+fillForm();setEditing(firstRun);drawSites();load().catch(e=>$("list").innerHTML=`<div class="empty">⚠️ Couldn't load jobs: ${esc(e.message)}. Please refresh.</div>`);
+</script></body></html>
