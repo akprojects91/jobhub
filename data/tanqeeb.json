@@ -1,5 +1,5 @@
 {
-"fetched_at": "2026-10-30T00:43:43+00:00",
+"fetched_at": "2026-10-30T09:10:37+00:00",
 "roles": [
 "banking operations",
 "operations officer",
@@ -108,6 +108,196 @@
 ],
 "jobs": [
 {
+"title": "Dot NET Developer",
+"company": "Virtu Thinko",
+"location": "Bahrain - Manama",
+"posted": "2026-10-23",
+"url": "https://bahrain.tanqeeb.com/jobs-in-middle-east/all/jobs/021335952.html",
+"id": "dot net developer|virtu thinko",
+"sources": [
+"Tanqeeb"
+],
+"roles": [
+"banking operations",
+"bank",
+"compliance",
+"business development"
+],
+"links": {
+"Tanqeeb": "https://bahrain.tanqeeb.com/jobs-in-middle-east/all/jobs/021335952.html"
+},
+"families": [
+"Banking & finance ops",
+"Compliance, risk & audit",
+"Sales & business dev"
+]
+},
+{
+"title": "Warehouse & Manual Handling Manager",
+"company": "DHL",
+"location": "Bahrain - Manama",
+"posted": "2026-10-23",
+"url": "https://bahrain.tanqeeb.com/jobs-in-bahrain/all/jobs/021335770.html",
+"id": "warehouse manual handling manager|dhl",
+"sources": [
+"Tanqeeb"
+],
+"roles": [
+"reconciliation",
+"client onboarding",
+"compliance",
+"internal control",
+"audit",
+"risk",
+"HR operations",
+"recruiter",
+"receptionist",
+"business development",
+"customer service",
+"logistics",
+"procurement",
+"supply chain",
+"warehouse",
+"legal"
+],
+"links": {
+"Tanqeeb": "https://bahrain.tanqeeb.com/jobs-in-bahrain/all/jobs/021335770.html"
+},
+"families": [
+"Banking & finance ops",
+"Compliance, risk & audit",
+"HR & admin",
+"Sales & business dev",
+"Customer service",
+"Logistics & supply chain",
+"Legal"
+]
+},
+{
+"title": "Business Development Executive",
+"company": "Confidential",
+"location": "Bahrain - Manama",
+"posted": "2026-10-23",
+"url": "https://bahrain.tanqeeb.com/jobs-in-middle-east/all/jobs/021335951.html",
+"id": "business development executive|confidential",
+"sources": [
+"Tanqeeb"
+],
+"roles": [
+"marketing"
+],
+"links": {
+"Tanqeeb": "https://bahrain.tanqeeb.com/jobs-in-middle-east/all/jobs/021335951.html"
+},
+"families": [
+"Marketing & media"
+]
+},
+{
+"title": "Team Member",
+"company": "Asiapower Recruitment Consultants",
+"location": "Bahrain - Manama",
+"posted": "2026-10-23",
+"url": "https://bahrain.tanqeeb.com/jobs-in-middle-east/all/jobs/021335958.html",
+"id": "team member|asiapower recruitment consultants",
+"sources": [
+"Tanqeeb"
+],
+"roles": [
+"doctor"
+],
+"links": {
+"Tanqeeb": "https://bahrain.tanqeeb.com/jobs-in-middle-east/all/jobs/021335958.html"
+},
+"families": [
+"Healthcare"
+]
+},
+{
+"title": "Backhoe Loader Operators",
+"company": "Client of Talentrio",
+"location": "Bahrain - Manama",
+"posted": "2026-10-23",
+"url": "https://bahrain.tanqeeb.com/jobs-in-middle-east/all/jobs/021335955.html",
+"id": "backhoe loader operators|client of talentrio",
+"sources": [
+"Tanqeeb"
+],
+"roles": [
+"medical",
+"warehouse"
+],
+"links": {
+"Tanqeeb": "https://bahrain.tanqeeb.com/jobs-in-middle-east/all/jobs/021335955.html"
+},
+"families": [
+"Healthcare",
+"Logistics & supply chain"
+]
+},
+{
+"title": "HIAB Operators",
+"company": "Client of Talentrio",
+"location": "Bahrain - Manama",
+"posted": "2026-10-23",
+"url": "https://bahrain.tanqeeb.com/jobs-in-middle-east/all/jobs/021335954.html",
+"id": "hiab operators|client of talentrio",
+"sources": [
+"Tanqeeb"
+],
+"roles": [
+"medical",
+"warehouse"
+],
+"links": {
+"Tanqeeb": "https://bahrain.tanqeeb.com/jobs-in-middle-east/all/jobs/021335954.html"
+},
+"families": [
+"Healthcare",
+"Logistics & supply chain"
+]
+},
+{
+"title": "Dump Truck Drivers",
+"company": "Client of Talentrio",
+"location": "Bahrain - Manama",
+"posted": "2026-10-23",
+"url": "https://bahrain.tanqeeb.com/jobs-in-middle-east/all/jobs/021335953.html",
+"id": "dump truck drivers|client of talentrio",
+"sources": [
+"Tanqeeb"
+],
+"roles": [
+"medical"
+],
+"links": {
+"Tanqeeb": "https://bahrain.tanqeeb.com/jobs-in-middle-east/all/jobs/021335953.html"
+},
+"families": [
+"Healthcare"
+]
+},
+{
+"title": "Housekeeping Supervisor",
+"company": "AccorHotel",
+"location": "Bahrain - Manama",
+"posted": "2026-10-23",
+"url": "https://bahrain.tanqeeb.com/jobs-in-middle-east/all/jobs/021335957.html",
+"id": "housekeeping supervisor|accorhotel",
+"sources": [
+"Tanqeeb"
+],
+"roles": [
+"hotel"
+],
+"links": {
+"Tanqeeb": "https://bahrain.tanqeeb.com/jobs-in-middle-east/all/jobs/021335957.html"
+},
+"families": [
+"Hospitality & F&B"
+]
+},
+{
 "title": "Housekeeping Supervisor",
 "company": "AccorHotels Middle East",
 "location": "Bahrain - Manama",
@@ -125,6 +315,26 @@
 },
 "families": [
 "Hospitality & F&B"
+]
+},
+{
+"title": "Beauty Consultant - CLARINS",
+"company": "Chalhoub Group",
+"location": "Bahrain - Manama",
+"posted": "2026-10-23",
+"url": "https://bahrain.tanqeeb.com/jobs-in-middle-east/all/jobs/021335956.html",
+"id": "beauty consultant clarins|chalhoub group",
+"sources": [
+"Tanqeeb"
+],
+"roles": [
+"retail"
+],
+"links": {
+"Tanqeeb": "https://bahrain.tanqeeb.com/jobs-in-middle-east/all/jobs/021335956.html"
+},
+"families": [
+"Retail"
 ]
 },
 {
@@ -7150,31 +7360,6 @@
 ]
 },
 {
-"title": "Dot NET Developer",
-"company": "Virtu Thinko",
-"location": "Bahrain - Manama",
-"posted": "",
-"url": "https://bahrain.tanqeeb.com/jobs-in-middle-east/all/jobs/021335952.html",
-"id": "dot net developer|virtu thinko",
-"sources": [
-"Tanqeeb"
-],
-"roles": [
-"banking operations",
-"bank",
-"compliance",
-"business development"
-],
-"links": {
-"Tanqeeb": "https://bahrain.tanqeeb.com/jobs-in-middle-east/all/jobs/021335952.html"
-},
-"families": [
-"Banking & finance ops",
-"Compliance, risk & audit",
-"Sales & business dev"
-]
-},
-{
 "title": "Influencer & Partnerships Specialist",
 "company": "calo Inc",
 "location": "Bahrain - Manama",
@@ -7366,47 +7551,6 @@
 "Sales & business dev",
 "Customer service",
 "Logistics & supply chain"
-]
-},
-{
-"title": "Warehouse & Manual Handling Manager",
-"company": "DHL",
-"location": "Bahrain - Manama",
-"posted": "",
-"url": "https://bahrain.tanqeeb.com/jobs-in-bahrain/all/jobs/021335770.html",
-"id": "warehouse manual handling manager|dhl",
-"sources": [
-"Tanqeeb"
-],
-"roles": [
-"reconciliation",
-"client onboarding",
-"compliance",
-"internal control",
-"audit",
-"risk",
-"HR operations",
-"recruiter",
-"receptionist",
-"business development",
-"customer service",
-"logistics",
-"procurement",
-"supply chain",
-"warehouse",
-"legal"
-],
-"links": {
-"Tanqeeb": "https://bahrain.tanqeeb.com/jobs-in-bahrain/all/jobs/021335770.html"
-},
-"families": [
-"Banking & finance ops",
-"Compliance, risk & audit",
-"HR & admin",
-"Sales & business dev",
-"Customer service",
-"Logistics & supply chain",
-"Legal"
 ]
 },
 {
@@ -8670,26 +8814,6 @@
 ]
 },
 {
-"title": "Business Development Executive",
-"company": "Confidential",
-"location": "Bahrain - Manama",
-"posted": "",
-"url": "https://bahrain.tanqeeb.com/jobs-in-middle-east/all/jobs/021335951.html",
-"id": "business development executive|confidential",
-"sources": [
-"Tanqeeb"
-],
-"roles": [
-"marketing"
-],
-"links": {
-"Tanqeeb": "https://bahrain.tanqeeb.com/jobs-in-middle-east/all/jobs/021335951.html"
-},
-"families": [
-"Marketing & media"
-]
-},
-{
 "title": "Sales Agent Properties",
 "company": "Confidential",
 "location": "Bahrain - Manama",
@@ -8774,26 +8898,6 @@
 ]
 },
 {
-"title": "Team Member",
-"company": "Asiapower Recruitment Consultants",
-"location": "Bahrain - Manama",
-"posted": "",
-"url": "https://bahrain.tanqeeb.com/jobs-in-middle-east/all/jobs/021335958.html",
-"id": "team member|asiapower recruitment consultants",
-"sources": [
-"Tanqeeb"
-],
-"roles": [
-"doctor"
-],
-"links": {
-"Tanqeeb": "https://bahrain.tanqeeb.com/jobs-in-middle-east/all/jobs/021335958.html"
-},
-"families": [
-"Healthcare"
-]
-},
-{
 "title": "Excavator Operators",
 "company": "Client of Talentrio",
 "location": "Bahrain - Manama",
@@ -8808,70 +8912,6 @@
 ],
 "links": {
 "Tanqeeb": "https://bahrain.tanqeeb.com/jobs-in-middle-east/all/jobs/021337332.html"
-},
-"families": [
-"Healthcare"
-]
-},
-{
-"title": "Backhoe Loader Operators",
-"company": "Client of Talentrio",
-"location": "Bahrain - Manama",
-"posted": "",
-"url": "https://bahrain.tanqeeb.com/jobs-in-middle-east/all/jobs/021335955.html",
-"id": "backhoe loader operators|client of talentrio",
-"sources": [
-"Tanqeeb"
-],
-"roles": [
-"medical",
-"warehouse"
-],
-"links": {
-"Tanqeeb": "https://bahrain.tanqeeb.com/jobs-in-middle-east/all/jobs/021335955.html"
-},
-"families": [
-"Healthcare",
-"Logistics & supply chain"
-]
-},
-{
-"title": "HIAB Operators",
-"company": "Client of Talentrio",
-"location": "Bahrain - Manama",
-"posted": "",
-"url": "https://bahrain.tanqeeb.com/jobs-in-middle-east/all/jobs/021335954.html",
-"id": "hiab operators|client of talentrio",
-"sources": [
-"Tanqeeb"
-],
-"roles": [
-"medical",
-"warehouse"
-],
-"links": {
-"Tanqeeb": "https://bahrain.tanqeeb.com/jobs-in-middle-east/all/jobs/021335954.html"
-},
-"families": [
-"Healthcare",
-"Logistics & supply chain"
-]
-},
-{
-"title": "Dump Truck Drivers",
-"company": "Client of Talentrio",
-"location": "Bahrain - Manama",
-"posted": "",
-"url": "https://bahrain.tanqeeb.com/jobs-in-middle-east/all/jobs/021335953.html",
-"id": "dump truck drivers|client of talentrio",
-"sources": [
-"Tanqeeb"
-],
-"roles": [
-"medical"
-],
-"links": {
-"Tanqeeb": "https://bahrain.tanqeeb.com/jobs-in-middle-east/all/jobs/021335953.html"
 },
 "families": [
 "Healthcare"
@@ -8979,46 +9019,6 @@
 },
 "families": [
 "Hospitality & F&B"
-]
-},
-{
-"title": "Housekeeping Supervisor",
-"company": "AccorHotel",
-"location": "Bahrain - Manama",
-"posted": "",
-"url": "https://bahrain.tanqeeb.com/jobs-in-middle-east/all/jobs/021335957.html",
-"id": "housekeeping supervisor|accorhotel",
-"sources": [
-"Tanqeeb"
-],
-"roles": [
-"hotel"
-],
-"links": {
-"Tanqeeb": "https://bahrain.tanqeeb.com/jobs-in-middle-east/all/jobs/021335957.html"
-},
-"families": [
-"Hospitality & F&B"
-]
-},
-{
-"title": "Beauty Consultant - CLARINS",
-"company": "Chalhoub Group",
-"location": "Bahrain - Manama",
-"posted": "",
-"url": "https://bahrain.tanqeeb.com/jobs-in-middle-east/all/jobs/021335956.html",
-"id": "beauty consultant clarins|chalhoub group",
-"sources": [
-"Tanqeeb"
-],
-"roles": [
-"retail"
-],
-"links": {
-"Tanqeeb": "https://bahrain.tanqeeb.com/jobs-in-middle-east/all/jobs/021335956.html"
-},
-"families": [
-"Retail"
 ]
 },
 {
