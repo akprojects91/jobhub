@@ -1,5 +1,5 @@
 {
-"fetched_at": "2026-10-31T01:10:14+00:00",
+"fetched_at": "2026-10-31T07:02:33+00:00",
 "roles": [
 "banking operations",
 "operations officer",
@@ -102,14 +102,14 @@
 {
 "source": "LinkedIn",
 "ok": true,
-"count": 459,
-"note": "1 of 77 searches failed: procurement: rate limited (429)"
+"count": 464,
+"note": ""
 },
 {
 "source": "Tanqeeb",
 "ok": true,
-"count": 372,
-"note": "blocked from GitHub; using box copy from 2026-10-30T09:10 UTC"
+"count": 377,
+"note": "blocked from GitHub; using box copy from 2026-10-31T05:13 UTC"
 },
 {
 "source": "Workable",
@@ -126,25 +126,419 @@
 ],
 "jobs": [
 {
-"title": "Luxury Watch Sales Associate / Advisor",
-"company": "IB bank Togo",
+"title": "International Trade Compliance Specialist/Trade Operationss Analyst",
+"company": "Saudi Women on Boards",
 "location": "Bahrain",
-"posted": "2026-10-30",
-"url": "https://bh.linkedin.com/jobs/view/luxury-watch-sales-associate-advisor-at-ib-bank-togo-4483472421",
-"id": "luxury watch sales associate advisor|ib bank togo",
+"posted": "2026-10-31",
+"url": "https://bh.linkedin.com/jobs/view/international-trade-compliance-specialist-trade-operationss-analyst-at-saudi-women-on-boards-4485149287",
+"id": "international trade compliance specialist trade operationss analyst|saudi women on boards",
 "sources": [
 "LinkedIn"
 ],
 "roles": [
 "banking operations",
-"sales manager"
+"operations officer",
+"operations analyst",
+"back office",
+"settlement",
+"reconciliation",
+"trade finance",
+"compliance",
+"internal control",
+"audit",
+"risk",
+"government relations",
+"data analyst",
+"logistics",
+"procurement",
+"supply chain",
+"warehouse",
+"legal"
 ],
 "links": {
-"LinkedIn": "https://bh.linkedin.com/jobs/view/luxury-watch-sales-associate-advisor-at-ib-bank-togo-4483472421"
+"LinkedIn": "https://bh.linkedin.com/jobs/view/international-trade-compliance-specialist-trade-operationss-analyst-at-saudi-women-on-boards-4485149287"
 },
 "families": [
 "Banking & finance ops",
-"Sales & business dev"
+"Compliance, risk & audit",
+"HR & admin",
+"IT & software",
+"Logistics & supply chain",
+"Legal"
+]
+},
+{
+"title": "Fresh Food Delivery Operationss Lead/Store Liaison Trainee",
+"company": "Saudi Pharma and Biotech Network",
+"location": "Bahrain",
+"posted": "2026-10-31",
+"url": "https://bh.linkedin.com/jobs/view/fresh-food-delivery-operationss-lead-store-liaison-trainee-at-saudi-pharma-and-biotech-network-4485126539",
+"id": "fresh food delivery operationss lead store liaison trainee|saudi pharma and biotech network",
+"sources": [
+"LinkedIn"
+],
+"roles": [
+"operations officer",
+"operations analyst",
+"settlement",
+"administration officer",
+"pharmacist",
+"medical",
+"retail",
+"logistics",
+"supply chain",
+"warehouse",
+"driver"
+],
+"links": {
+"LinkedIn": "https://bh.linkedin.com/jobs/view/fresh-food-delivery-operationss-lead-store-liaison-trainee-at-saudi-pharma-and-biotech-network-4485126539"
+},
+"families": [
+"Banking & finance ops",
+"HR & admin",
+"Healthcare",
+"Retail",
+"Logistics & supply chain"
+]
+},
+{
+"title": "Farm manager",
+"company": "Talent Hunter",
+"location": "Capital Governorate, Bahrain",
+"posted": "2026-10-31",
+"url": "https://bh.linkedin.com/jobs/view/farm-manager-at-talent-hunter-4485142669",
+"id": "farm manager|talent hunter",
+"sources": [
+"LinkedIn"
+],
+"roles": [
+"operations officer",
+"supply chain",
+"operations manager"
+],
+"links": {
+"LinkedIn": "https://bh.linkedin.com/jobs/view/farm-manager-at-talent-hunter-4485142669"
+},
+"families": [
+"Banking & finance ops",
+"Logistics & supply chain",
+"Project & management"
+]
+},
+{
+"title": "Grid Operations Engineer/Powerr Distribution Specialist",
+"company": "Galadari Saudi Industrial Co.",
+"location": "Bahrain",
+"posted": "2026-10-31",
+"url": "https://bh.linkedin.com/jobs/view/grid-operations-engineer-powerr-distribution-specialist-at-galadari-saudi-industrial-co-4485670641",
+"id": "grid operations engineer powerr distribution specialist|galadari saudi industrial co",
+"sources": [
+"LinkedIn"
+],
+"roles": [
+"operations officer",
+"operations analyst",
+"electrical engineer",
+"project engineer",
+"technician"
+],
+"links": {
+"LinkedIn": "https://bh.linkedin.com/jobs/view/grid-operations-engineer-powerr-distribution-specialist-at-galadari-saudi-industrial-co-4485670641"
+},
+"families": [
+"Banking & finance ops",
+"Engineering & technical"
+]
+},
+{
+"title": "Associate Factory Manager",
+"company": "Havelock One Interiors",
+"location": "Askar, Southern Governorate, Bahrain",
+"posted": "2026-10-31",
+"url": "https://bh.linkedin.com/jobs/view/associate-factory-manager-at-havelock-one-interiors-4485656974",
+"id": "associate factory manager|havelock one interiors",
+"sources": [
+"LinkedIn"
+],
+"roles": [
+"operations officer",
+"mechanical engineer",
+"project engineer",
+"store manager",
+"logistics",
+"supply chain",
+"warehouse",
+"project manager",
+"operations manager"
+],
+"links": {
+"LinkedIn": "https://bh.linkedin.com/jobs/view/associate-factory-manager-at-havelock-one-interiors-4485656974"
+},
+"families": [
+"Banking & finance ops",
+"Engineering & technical",
+"Retail",
+"Logistics & supply chain",
+"Project & management"
+]
+},
+{
+"title": "Property Officer",
+"company": "Casa Hunter - Associação Brasileira de Doenças Raras",
+"location": "Capital Governorate, Bahrain",
+"posted": "2026-10-31",
+"url": "https://bh.linkedin.com/jobs/view/property-officer-at-casa-hunter-associa%C3%A7%C3%A3o-brasileira-de-doen%C3%A7as-raras-4485695046",
+"id": "property officer|casa hunter associa o brasileira de doen as raras",
+"sources": [
+"LinkedIn"
+],
+"roles": [
+"operations officer",
+"administration officer",
+"office manager",
+"medical"
+],
+"links": {
+"LinkedIn": "https://bh.linkedin.com/jobs/view/property-officer-at-casa-hunter-associa%C3%A7%C3%A3o-brasileira-de-doen%C3%A7as-raras-4485695046"
+},
+"families": [
+"Banking & finance ops",
+"HR & admin",
+"Healthcare"
+]
+},
+{
+"title": "Events Coordinator / Event Executive",
+"company": "Ethik-IA",
+"location": "Capital Governorate, Bahrain",
+"posted": "2026-10-31",
+"url": "https://bh.linkedin.com/jobs/view/events-coordinator-event-executive-at-ethik-ia-4485134344",
+"id": "events coordinator event executive|ethik ia",
+"sources": [
+"LinkedIn"
+],
+"roles": [
+"operations officer",
+"administration officer",
+"office manager",
+"secretary",
+"receptionist",
+"marketing",
+"project manager"
+],
+"links": {
+"LinkedIn": "https://bh.linkedin.com/jobs/view/events-coordinator-event-executive-at-ethik-ia-4485134344"
+},
+"families": [
+"Banking & finance ops",
+"HR & admin",
+"Marketing & media",
+"Project & management"
+]
+},
+{
+"title": "Heavy Machinery Service Managerr / Industrial Equipment After-Sales Lead",
+"company": "Exeed Saudi",
+"location": "Bahrain",
+"posted": "2026-10-31",
+"url": "https://bh.linkedin.com/jobs/view/heavy-machinery-service-managerr-industrial-equipment-after-sales-lead-at-exeed-saudi-4485139469",
+"id": "heavy machinery service managerr industrial equipment after sales lead|exeed saudi",
+"sources": [
+"LinkedIn"
+],
+"roles": [
+"operations officer",
+"mechanical engineer",
+"electrical engineer",
+"project engineer",
+"project manager",
+"operations manager"
+],
+"links": {
+"LinkedIn": "https://bh.linkedin.com/jobs/view/heavy-machinery-service-managerr-industrial-equipment-after-sales-lead-at-exeed-saudi-4485139469"
+},
+"families": [
+"Banking & finance ops",
+"Engineering & technical",
+"Project & management"
+]
+},
+{
+"title": "HR Assistant / HR Administrator / HR Support Officer",
+"company": "Star Union",
+"location": "Capital Governorate, Bahrain",
+"posted": "2026-10-31",
+"url": "https://bh.linkedin.com/jobs/view/hr-assistant-hr-administrator-hr-support-officer-at-star-union-4485678248",
+"id": "hr assistant hr administrator hr support officer|star union",
+"sources": [
+"LinkedIn"
+],
+"roles": [
+"back office",
+"payroll",
+"HR operations",
+"HR officer",
+"recruiter",
+"administration officer",
+"office manager",
+"secretary"
+],
+"links": {
+"LinkedIn": "https://bh.linkedin.com/jobs/view/hr-assistant-hr-administrator-hr-support-officer-at-star-union-4485678248"
+},
+"families": [
+"Banking & finance ops",
+"HR & admin"
+]
+},
+{
+"title": "HR Officer",
+"company": "PT. ROAD BUCK INDONESIA",
+"location": "Capital Governorate, Bahrain",
+"posted": "2026-10-31",
+"url": "https://bh.linkedin.com/jobs/view/hr-officer-at-pt-road-buck-indonesia-4485138543",
+"id": "hr officer|pt road buck indonesia",
+"sources": [
+"LinkedIn"
+],
+"roles": [
+"back office",
+"payroll",
+"HR operations",
+"HR officer",
+"recruiter",
+"administration officer",
+"office manager",
+"secretary"
+],
+"links": {
+"LinkedIn": "https://bh.linkedin.com/jobs/view/hr-officer-at-pt-road-buck-indonesia-4485138543"
+},
+"families": [
+"Banking & finance ops",
+"HR & admin"
+]
+},
+{
+"title": "Procurement Officer",
+"company": "Be the Standard",
+"location": "Capital Governorate, Bahrain",
+"posted": "2026-10-31",
+"url": "https://bh.linkedin.com/jobs/view/procurement-officer-at-be-the-standard-4483924632",
+"id": "procurement officer|be the standard",
+"sources": [
+"LinkedIn"
+],
+"roles": [
+"back office",
+"logistics",
+"procurement",
+"supply chain"
+],
+"links": {
+"LinkedIn": "https://bh.linkedin.com/jobs/view/procurement-officer-at-be-the-standard-4483924632"
+},
+"families": [
+"Banking & finance ops",
+"Logistics & supply chain"
+]
+},
+{
+"title": "Immigration Consultant",
+"company": "Head Hunter Solutions",
+"location": "Capital Governorate, Bahrain",
+"posted": "2026-10-31",
+"url": "https://bh.linkedin.com/jobs/view/immigration-consultant-at-head-hunter-solutions-4485685221",
+"id": "immigration consultant|head hunter solutions",
+"sources": [
+"LinkedIn"
+],
+"roles": [
+"KYC",
+"AML",
+"client onboarding",
+"compliance",
+"government relations",
+"secretary",
+"legal",
+"lawyer"
+],
+"links": {
+"LinkedIn": "https://bh.linkedin.com/jobs/view/immigration-consultant-at-head-hunter-solutions-4485685221"
+},
+"families": [
+"Compliance, risk & audit",
+"HR & admin",
+"Legal"
+]
+},
+{
+"title": "HR Manager",
+"company": "Star Lead Services",
+"location": "Capital Governorate, Bahrain",
+"posted": "2026-10-31",
+"url": "https://bh.linkedin.com/jobs/view/hr-manager-at-star-lead-services-4485666929",
+"id": "hr manager|star lead services",
+"sources": [
+"LinkedIn"
+],
+"roles": [
+"payroll",
+"HR operations",
+"HR officer",
+"recruiter",
+"office manager"
+],
+"links": {
+"LinkedIn": "https://bh.linkedin.com/jobs/view/hr-manager-at-star-lead-services-4485666929"
+},
+"families": [
+"HR & admin"
+]
+},
+{
+"title": "Events Coordinator / Event Executive",
+"company": "KITA.PRAXIS.INSTITUT",
+"location": "Bahrain",
+"posted": "2026-10-31",
+"url": "https://bh.linkedin.com/jobs/view/events-coordinator-event-executive-at-kita-praxis-institut-4483930273",
+"id": "events coordinator event executive|kita praxis institut",
+"sources": [
+"LinkedIn"
+],
+"roles": [
+"administration officer",
+"office manager",
+"secretary",
+"receptionist",
+"marketing"
+],
+"links": {
+"LinkedIn": "https://bh.linkedin.com/jobs/view/events-coordinator-event-executive-at-kita-praxis-institut-4483930273"
+},
+"families": [
+"HR & admin",
+"Marketing & media"
+]
+},
+{
+"title": "Architectural Designn / Building Design Consultant",
+"company": "Saudi Architecture | العِمَارة السعودية",
+"location": "Bahrain",
+"posted": "2026-10-31",
+"url": "https://bh.linkedin.com/jobs/view/architectural-designn-building-design-consultant-at-saudi-architecture-%D8%A7%D9%84%D8%B9%D9%90%D9%85%D9%8E%D8%A7%D8%B1%D8%A9-%D8%A7%D9%84%D8%B3%D8%B9%D9%88%D8%AF%D9%8A%D8%A9-4485675187",
+"id": "architectural designn building design consultant|saudi architecture",
+"sources": [
+"LinkedIn"
+],
+"roles": [
+"civil engineer"
+],
+"links": {
+"LinkedIn": "https://bh.linkedin.com/jobs/view/architectural-designn-building-design-consultant-at-saudi-architecture-%D8%A7%D9%84%D8%B9%D9%90%D9%85%D9%8E%D8%A7%D8%B1%D8%A9-%D8%A7%D9%84%D8%B3%D8%B9%D9%88%D8%AF%D9%8A%D8%A9-4485675187"
+},
+"families": [
+"Engineering & technical"
 ]
 },
 {
@@ -162,12 +556,14 @@
 "operations analyst",
 "reconciliation",
 "finance officer",
+"financial analyst",
 "HR operations",
 "office manager",
 "civil engineer",
 "project engineer",
 "store manager",
 "logistics",
+"procurement",
 "supply chain",
 "project manager",
 "operations manager"
@@ -183,61 +579,6 @@
 "Retail",
 "Logistics & supply chain",
 "Project & management"
-]
-},
-{
-"title": "Planner",
-"company": "Havelock One Interiors",
-"location": "Askar, Southern Governorate, Bahrain",
-"posted": "2026-10-30",
-"url": "https://bh.linkedin.com/jobs/view/planner-at-havelock-one-interiors-4485292494",
-"id": "planner|havelock one interiors",
-"sources": [
-"LinkedIn"
-],
-"roles": [
-"operations officer",
-"operations analyst",
-"administration officer",
-"logistics",
-"supply chain"
-],
-"links": {
-"LinkedIn": "https://bh.linkedin.com/jobs/view/planner-at-havelock-one-interiors-4485292494"
-},
-"families": [
-"Banking & finance ops",
-"HR & admin",
-"Logistics & supply chain"
-]
-},
-{
-"title": "Senior Quantity Surveyor",
-"company": "Havelock One Interiors",
-"location": "Askar, Southern Governorate, Bahrain",
-"posted": "2026-10-30",
-"url": "https://bh.linkedin.com/jobs/view/senior-quantity-surveyor-at-havelock-one-interiors-4485383082",
-"id": "senior quantity surveyor|havelock one interiors",
-"sources": [
-"LinkedIn"
-],
-"roles": [
-"operations analyst",
-"reconciliation",
-"accountant",
-"finance officer",
-"financial analyst",
-"data analyst",
-"supply chain"
-],
-"links": {
-"LinkedIn": "https://bh.linkedin.com/jobs/view/senior-quantity-surveyor-at-havelock-one-interiors-4485383082"
-},
-"families": [
-"Banking & finance ops",
-"Accounting & finance",
-"IT & software",
-"Logistics & supply chain"
 ]
 },
 {
@@ -332,30 +673,6 @@
 ]
 },
 {
-"title": "Quality Controller - Lab",
-"company": "Havelock One Interiors",
-"location": "Askar, Southern Governorate, Bahrain",
-"posted": "2026-10-30",
-"url": "https://bh.linkedin.com/jobs/view/quality-controller-lab-at-havelock-one-interiors-4485381140",
-"id": "quality controller lab|havelock one interiors",
-"sources": [
-"LinkedIn"
-],
-"roles": [
-"reconciliation",
-"compliance",
-"technician"
-],
-"links": {
-"LinkedIn": "https://bh.linkedin.com/jobs/view/quality-controller-lab-at-havelock-one-interiors-4485381140"
-},
-"families": [
-"Banking & finance ops",
-"Compliance, risk & audit",
-"Engineering & technical"
-]
-},
-{
 "title": "User Growth & Lifecycle Marketing Manager",
 "company": "Binance",
 "location": "Bahrain",
@@ -427,82 +744,6 @@
 ]
 },
 {
-"title": "Sales Specialist",
-"company": "Mihwar Systems W.L.L",
-"location": "Bahrain",
-"posted": "2026-10-30",
-"url": "https://bh.linkedin.com/jobs/view/sales-specialist-at-mihwar-systems-w-l-l-4483905285",
-"id": "sales specialist|mihwar systems w l l",
-"sources": [
-"LinkedIn"
-],
-"roles": [
-"client onboarding",
-"relationship manager",
-"account manager",
-"sales executive",
-"business development"
-],
-"links": {
-"LinkedIn": "https://bh.linkedin.com/jobs/view/sales-specialist-at-mihwar-systems-w-l-l-4483905285"
-},
-"families": [
-"Compliance, risk & audit",
-"Relationship & client mgmt",
-"Sales & business dev"
-]
-},
-{
-"title": "Retail Project Manager",
-"company": "Havelock One Interiors",
-"location": "Askar, Southern Governorate, Bahrain",
-"posted": "2026-10-30",
-"url": "https://bh.linkedin.com/jobs/view/retail-project-manager-at-havelock-one-interiors-4485303256",
-"id": "retail project manager|havelock one interiors",
-"sources": [
-"LinkedIn"
-],
-"roles": [
-"client onboarding",
-"retail",
-"project manager"
-],
-"links": {
-"LinkedIn": "https://bh.linkedin.com/jobs/view/retail-project-manager-at-havelock-one-interiors-4485303256"
-},
-"families": [
-"Compliance, risk & audit",
-"Retail",
-"Project & management"
-]
-},
-{
-"title": "Customer Representative Managr",
-"company": "Salesforce Admin Group, Jaipur",
-"location": "Capital Governorate, Bahrain",
-"posted": "2026-10-30",
-"url": "https://bh.linkedin.com/jobs/view/customer-representative-managr-at-salesforce-admin-group-jaipur-4485299943",
-"id": "customer representative managr|salesforce admin group jaipur",
-"sources": [
-"LinkedIn"
-],
-"roles": [
-"client onboarding",
-"office manager",
-"sales manager",
-"call centre"
-],
-"links": {
-"LinkedIn": "https://bh.linkedin.com/jobs/view/customer-representative-managr-at-salesforce-admin-group-jaipur-4485299943"
-},
-"families": [
-"Compliance, risk & audit",
-"HR & admin",
-"Sales & business dev",
-"Customer service"
-]
-},
-{
 "title": "Government Relations Officer (GRO/PRO)",
 "company": "Minor Hotels",
 "location": "Southern Governorate, Bahrain",
@@ -541,6 +782,7 @@
 "LinkedIn"
 ],
 "roles": [
+"relationship manager",
 "account manager",
 "business development",
 "sales manager",
@@ -574,6 +816,7 @@
 "retail",
 "store manager",
 "logistics",
+"procurement",
 "supply chain",
 "operations manager"
 ],
@@ -620,30 +863,6 @@
 ]
 },
 {
-"title": "HR Business Partner",
-"company": "Havelock One Interiors",
-"location": "Askar, Southern Governorate, Bahrain",
-"posted": "2026-10-30",
-"url": "https://bh.linkedin.com/jobs/view/hr-business-partner-at-havelock-one-interiors-4485380161",
-"id": "hr business partner|havelock one interiors",
-"sources": [
-"LinkedIn"
-],
-"roles": [
-"payroll",
-"HR operations",
-"HR officer",
-"recruiter",
-"office manager"
-],
-"links": {
-"LinkedIn": "https://bh.linkedin.com/jobs/view/hr-business-partner-at-havelock-one-interiors-4485380161"
-},
-"families": [
-"HR & admin"
-]
-},
-{
 "title": "Director of People & Culture",
 "company": "Minor Hotels",
 "location": "Southern Governorate, Bahrain",
@@ -680,6 +899,7 @@
 "electrical engineer",
 "civil engineer",
 "project engineer",
+"procurement",
 "project manager",
 "operations manager"
 ],
@@ -689,6 +909,7 @@
 "families": [
 "HR & admin",
 "Engineering & technical",
+"Logistics & supply chain",
 "Project & management"
 ]
 },
@@ -725,56 +946,16 @@
 "LinkedIn"
 ],
 "roles": [
-"mechanical engineer"
+"mechanical engineer",
+"project engineer",
+"project manager"
 ],
 "links": {
 "LinkedIn": "https://bh.linkedin.com/jobs/view/production-engineer-at-havelock-one-interiors-4485292495"
 },
 "families": [
-"Engineering & technical"
-]
-},
-{
-"title": "Estimator",
-"company": "Havelock One Interiors",
-"location": "Askar, Southern Governorate, Bahrain",
-"posted": "2026-10-30",
-"url": "https://bh.linkedin.com/jobs/view/estimator-at-havelock-one-interiors-4485379292",
-"id": "estimator|havelock one interiors",
-"sources": [
-"LinkedIn"
-],
-"roles": [
-"civil engineer"
-],
-"links": {
-"LinkedIn": "https://bh.linkedin.com/jobs/view/estimator-at-havelock-one-interiors-4485379292"
-},
-"families": [
-"Engineering & technical"
-]
-},
-{
-"title": "Videographer & Photographer",
-"company": "Havelock One Interiors",
-"location": "Askar, Southern Governorate, Bahrain",
-"posted": "2026-10-30",
-"url": "https://bh.linkedin.com/jobs/view/videographer-photographer-at-havelock-one-interiors-4485295517",
-"id": "videographer photographer|havelock one interiors",
-"sources": [
-"LinkedIn"
-],
-"roles": [
-"marketing",
-"digital marketing",
-"graphic designer",
-"social media"
-],
-"links": {
-"LinkedIn": "https://bh.linkedin.com/jobs/view/videographer-photographer-at-havelock-one-interiors-4485295517"
-},
-"families": [
-"Marketing & media"
+"Engineering & technical",
+"Project & management"
 ]
 },
 {
@@ -1094,7 +1275,6 @@
 "roles": [
 "banking operations",
 "bank",
-"AML",
 "client onboarding",
 "compliance",
 "internal control",
@@ -1162,7 +1342,7 @@
 "company": "Apparel Group",
 "location": "Bahrain",
 "posted": "2026-10-29",
-"url": "https://bh.linkedin.com/jobs/view/supervisor-at-apparel-group-4375688571",
+"url": "https://bh.linkedin.com/jobs/view/supervisor-at-apparel-group-4375689401",
 "id": "supervisor|apparel group",
 "sources": [
 "LinkedIn"
@@ -1173,41 +1353,12 @@
 "store manager"
 ],
 "links": {
-"LinkedIn": "https://bh.linkedin.com/jobs/view/supervisor-at-apparel-group-4375688571"
+"LinkedIn": "https://bh.linkedin.com/jobs/view/supervisor-at-apparel-group-4375689401"
 },
 "families": [
 "Banking & finance ops",
 "Customer service",
 "Retail"
-]
-},
-{
-"title": "Setting out Manager",
-"company": "Havelock One Interiors",
-"location": "Askar, Southern Governorate, Bahrain",
-"posted": "2026-10-29",
-"url": "https://bh.linkedin.com/jobs/view/setting-out-manager-at-havelock-one-interiors-4484984937",
-"id": "setting out manager|havelock one interiors",
-"sources": [
-"LinkedIn"
-],
-"roles": [
-"operations officer",
-"civil engineer",
-"project engineer",
-"logistics",
-"supply chain",
-"project manager",
-"operations manager"
-],
-"links": {
-"LinkedIn": "https://bh.linkedin.com/jobs/view/setting-out-manager-at-havelock-one-interiors-4484984937"
-},
-"families": [
-"Banking & finance ops",
-"Engineering & technical",
-"Logistics & supply chain",
-"Project & management"
 ]
 },
 {
@@ -1256,7 +1407,6 @@
 "IT support",
 "data analyst",
 "technician",
-"customer service",
 "medical"
 ],
 "links": {
@@ -1268,7 +1418,6 @@
 "Relationship & client mgmt",
 "IT & software",
 "Engineering & technical",
-"Customer service",
 "Healthcare"
 ]
 },
@@ -1294,6 +1443,7 @@
 "office manager",
 "secretary",
 "logistics",
+"procurement",
 "supply chain",
 "warehouse"
 ],
@@ -1347,6 +1497,7 @@
 "settlement",
 "reconciliation",
 "logistics",
+"procurement",
 "supply chain",
 "warehouse"
 ],
@@ -1397,7 +1548,8 @@
 "url": "https://bh.linkedin.com/jobs/view/multi-property-general-manager-marriott-executive-apartments-manama-bahrain-residence-inn-by-marriott-juffair-at-marriott-executive-apartments-4484534678",
 "id": "multi property general manager marriott executive apartments manama bahrain residence inn by marriott juffair|marriott executive apartments",
 "sources": [
-"LinkedIn"
+"LinkedIn",
+"Tanqeeb"
 ],
 "roles": [
 "reconciliation",
@@ -1408,10 +1560,18 @@
 "hotel",
 "restaurant",
 "store manager",
-"operations manager"
+"operations manager",
+"compliance",
+"risk",
+"relationship manager",
+"HR operations",
+"marketing",
+"doctor",
+"legal"
 ],
 "links": {
-"LinkedIn": "https://bh.linkedin.com/jobs/view/multi-property-general-manager-marriott-executive-apartments-manama-bahrain-residence-inn-by-marriott-juffair-at-marriott-executive-apartments-4484534678"
+"LinkedIn": "https://bh.linkedin.com/jobs/view/multi-property-general-manager-marriott-executive-apartments-manama-bahrain-residence-inn-by-marriott-juffair-at-marriott-executive-apartments-4484534678",
+"Tanqeeb": "https://bahrain.tanqeeb.com/jobs-in-middle-east/all/jobs/021359058.html"
 },
 "families": [
 "Banking & finance ops",
@@ -1420,29 +1580,12 @@
 "Sales & business dev",
 "Hospitality & F&B",
 "Retail",
-"Project & management"
-]
-},
-{
-"title": "Flutter Developer",
-"company": "Consult Pro.",
-"location": "Manama, Capital Governorate, Bahrain",
-"posted": "2026-10-29",
-"url": "https://bh.linkedin.com/jobs/view/flutter-developer-at-consult-pro-4484527698",
-"id": "flutter developer|consult pro",
-"sources": [
-"LinkedIn"
-],
-"roles": [
-"AML",
-"software engineer"
-],
-"links": {
-"LinkedIn": "https://bh.linkedin.com/jobs/view/flutter-developer-at-consult-pro-4484527698"
-},
-"families": [
+"Project & management",
 "Compliance, risk & audit",
-"IT & software"
+"Relationship & client mgmt",
+"Marketing & media",
+"Healthcare",
+"Legal"
 ]
 },
 {
@@ -1493,6 +1636,26 @@
 "Relationship & client mgmt",
 "Sales & business dev",
 "Healthcare"
+]
+},
+{
+"title": "Flutter Developer",
+"company": "Consult Pro.",
+"location": "Manama, Capital Governorate, Bahrain",
+"posted": "2026-10-29",
+"url": "https://bh.linkedin.com/jobs/view/flutter-developer-at-consult-pro-4484527698",
+"id": "flutter developer|consult pro",
+"sources": [
+"LinkedIn"
+],
+"roles": [
+"software engineer"
+],
+"links": {
+"LinkedIn": "https://bh.linkedin.com/jobs/view/flutter-developer-at-consult-pro-4484527698"
+},
+"families": [
+"IT & software"
 ]
 },
 {
@@ -1575,14 +1738,12 @@
 "LinkedIn"
 ],
 "roles": [
-"customer service",
 "cashier"
 ],
 "links": {
 "LinkedIn": "https://bh.linkedin.com/jobs/view/beauty-consultant-nars-at-chalhoub-group-4437218276"
 },
 "families": [
-"Customer service",
 "Retail"
 ]
 },
@@ -1687,10 +1848,10 @@
 "risk",
 "relationship manager",
 "account manager",
+"finance officer",
 "administration officer",
 "office manager",
-"secretary",
-"customer service"
+"secretary"
 ],
 "links": {
 "LinkedIn": "https://bh.linkedin.com/jobs/view/insurance-account-specialist-at-marsh-4484456371"
@@ -1699,8 +1860,8 @@
 "Banking & finance ops",
 "Compliance, risk & audit",
 "Relationship & client mgmt",
-"HR & admin",
-"Customer service"
+"Accounting & finance",
+"HR & admin"
 ]
 },
 {
@@ -1824,30 +1985,6 @@
 "Compliance, risk & audit",
 "Relationship & client mgmt",
 "Accounting & finance"
-]
-},
-{
-"title": "Project Management Team Leader",
-"company": "Confidential Careers",
-"location": "Manama, Capital Governorate, Bahrain",
-"posted": "2026-10-28",
-"url": "https://bh.linkedin.com/jobs/view/project-management-team-leader-at-confidential-careers-4484438948",
-"id": "project management team leader|confidential careers",
-"sources": [
-"LinkedIn"
-],
-"roles": [
-"AML",
-"project engineer",
-"project manager"
-],
-"links": {
-"LinkedIn": "https://bh.linkedin.com/jobs/view/project-management-team-leader-at-confidential-careers-4484438948"
-},
-"families": [
-"Compliance, risk & audit",
-"Engineering & technical",
-"Project & management"
 ]
 },
 {
@@ -1997,26 +2134,6 @@
 ]
 },
 {
-"title": "Machinist",
-"company": "Sulzer",
-"location": "Bahrain",
-"posted": "2026-10-28",
-"url": "https://bh.linkedin.com/jobs/view/machinist-at-sulzer-4474963725",
-"id": "machinist|sulzer",
-"sources": [
-"LinkedIn"
-],
-"roles": [
-"mechanical engineer"
-],
-"links": {
-"LinkedIn": "https://bh.linkedin.com/jobs/view/machinist-at-sulzer-4474963725"
-},
-"families": [
-"Engineering & technical"
-]
-},
-{
 "title": "Electrical Engineer",
 "company": "Hitachi Energy",
 "location": "Manama, Capital Governorate, Bahrain",
@@ -2044,6 +2161,28 @@
 "Compliance, risk & audit",
 "HR & admin",
 "Sales & business dev"
+]
+},
+{
+"title": "Project Management Team Leader",
+"company": "Confidential Careers",
+"location": "Manama, Capital Governorate, Bahrain",
+"posted": "2026-10-28",
+"url": "https://bh.linkedin.com/jobs/view/project-management-team-leader-at-confidential-careers-4484438948",
+"id": "project management team leader|confidential careers",
+"sources": [
+"LinkedIn"
+],
+"roles": [
+"project engineer",
+"project manager"
+],
+"links": {
+"LinkedIn": "https://bh.linkedin.com/jobs/view/project-management-team-leader-at-confidential-careers-4484438948"
+},
+"families": [
+"Engineering & technical",
+"Project & management"
 ]
 },
 {
@@ -2142,15 +2281,13 @@
 "LinkedIn"
 ],
 "roles": [
-"store manager",
-"operations manager"
+"store manager"
 ],
 "links": {
 "LinkedIn": "https://bh.linkedin.com/jobs/view/team-leader-food-beverage-jumeirah-gulf-of-bahrain-at-jumeirah-4476720240"
 },
 "families": [
-"Retail",
-"Project & management"
+"Retail"
 ]
 },
 {
@@ -2226,7 +2363,6 @@
 "corporate banking",
 "account manager",
 "accountant",
-"administration officer",
 "legal",
 "project manager"
 ],
@@ -2238,7 +2374,6 @@
 "Compliance, risk & audit",
 "Relationship & client mgmt",
 "Accounting & finance",
-"HR & admin",
 "Legal",
 "Project & management"
 ]
@@ -2344,35 +2479,6 @@
 ]
 },
 {
-"title": "Senior Forecourt Attendant",
-"company": "Bapco Energies",
-"location": "Awali, Southern Governorate, Bahrain",
-"posted": "2026-10-27",
-"url": "https://bh.linkedin.com/jobs/view/senior-forecourt-attendant-at-bapco-energies-4475825697",
-"id": "senior forecourt attendant|bapco energies",
-"sources": [
-"LinkedIn"
-],
-"roles": [
-"operations officer",
-"front office",
-"retail",
-"store manager",
-"cashier",
-"logistics",
-"warehouse"
-],
-"links": {
-"LinkedIn": "https://bh.linkedin.com/jobs/view/senior-forecourt-attendant-at-bapco-energies-4475825697"
-},
-"families": [
-"Banking & finance ops",
-"Hospitality & F&B",
-"Retail",
-"Logistics & supply chain"
-]
-},
-{
 "title": "Investment Analyst",
 "company": "Bapco Energies",
 "location": "Capital Governorate, Bahrain",
@@ -2413,11 +2519,13 @@
 ],
 "roles": [
 "operations analyst",
+"reconciliation",
 "mechanical engineer",
 "electrical engineer",
 "project engineer",
 "technician",
 "logistics",
+"procurement",
 "supply chain"
 ],
 "links": {
@@ -2781,27 +2889,6 @@
 ]
 },
 {
-"title": "Electrical Engineer",
-"company": "Havelock One Interiors",
-"location": "Askar, Southern Governorate, Bahrain",
-"posted": "2026-10-27",
-"url": "https://bh.linkedin.com/jobs/view/electrical-engineer-at-havelock-one-interiors-4484200534",
-"id": "electrical engineer|havelock one interiors",
-"sources": [
-"LinkedIn"
-],
-"roles": [
-"electrical engineer",
-"project engineer"
-],
-"links": {
-"LinkedIn": "https://bh.linkedin.com/jobs/view/electrical-engineer-at-havelock-one-interiors-4484200534"
-},
-"families": [
-"Engineering & technical"
-]
-},
-{
 "title": "CAD Engineer - AI Trainer",
 "company": "Mindrift",
 "location": "Bahrain",
@@ -2915,6 +3002,57 @@
 ]
 },
 {
+"title": "Senior Forecourt Attendant",
+"company": "Bapco Energies",
+"location": "Awali, Southern Governorate, Bahrain",
+"posted": "2026-10-27",
+"url": "https://bh.linkedin.com/jobs/view/senior-forecourt-attendant-at-bapco-energies-4475825697",
+"id": "senior forecourt attendant|bapco energies",
+"sources": [
+"LinkedIn"
+],
+"roles": [
+"customer service",
+"front office",
+"retail",
+"store manager",
+"cashier",
+"logistics",
+"warehouse"
+],
+"links": {
+"LinkedIn": "https://bh.linkedin.com/jobs/view/senior-forecourt-attendant-at-bapco-energies-4475825697"
+},
+"families": [
+"Customer service",
+"Hospitality & F&B",
+"Retail",
+"Logistics & supply chain"
+]
+},
+{
+"title": "Senior Crew",
+"company": "Apparel Group",
+"location": "Bahrain",
+"posted": "2026-10-27",
+"url": "https://bh.linkedin.com/jobs/view/senior-crew-at-apparel-group-4375681736",
+"id": "senior crew|apparel group",
+"sources": [
+"LinkedIn"
+],
+"roles": [
+"customer service",
+"cashier"
+],
+"links": {
+"LinkedIn": "https://bh.linkedin.com/jobs/view/senior-crew-at-apparel-group-4375681736"
+},
+"families": [
+"Customer service",
+"Retail"
+]
+},
+{
 "title": "Butcher",
 "company": "Silversea",
 "location": "Bahrain",
@@ -2932,26 +3070,6 @@
 },
 "families": [
 "Hospitality & F&B"
-]
-},
-{
-"title": "Senior Crew",
-"company": "Apparel Group",
-"location": "Bahrain",
-"posted": "2026-10-27",
-"url": "https://bh.linkedin.com/jobs/view/senior-crew-at-apparel-group-4375681736",
-"id": "senior crew|apparel group",
-"sources": [
-"LinkedIn"
-],
-"roles": [
-"cashier"
-],
-"links": {
-"LinkedIn": "https://bh.linkedin.com/jobs/view/senior-crew-at-apparel-group-4375681736"
-},
-"families": [
-"Retail"
 ]
 },
 {
@@ -2990,7 +3108,6 @@
 "reconciliation",
 "payroll",
 "HR operations",
-"office manager",
 "store manager",
 "logistics",
 "supply chain",
@@ -3219,30 +3336,6 @@
 ]
 },
 {
-"title": "Door Attendant (Bahraini National)",
-"company": "Hilton",
-"location": "Bahrain",
-"posted": "2026-10-26",
-"url": "https://bh.linkedin.com/jobs/view/door-attendant-bahraini-national-at-hilton-4483558330",
-"id": "door attendant bahraini national|hilton",
-"sources": [
-"LinkedIn"
-],
-"roles": [
-"receptionist",
-"front office",
-"driver"
-],
-"links": {
-"LinkedIn": "https://bh.linkedin.com/jobs/view/door-attendant-bahraini-national-at-hilton-4483558330"
-},
-"families": [
-"HR & admin",
-"Hospitality & F&B",
-"Logistics & supply chain"
-]
-},
-{
 "title": "Marketing Manager",
 "company": "Raffles Hotels & Resorts",
 "location": "Manama, Capital Governorate, Bahrain",
@@ -3436,20 +3529,16 @@
 "url": "https://bh.linkedin.com/jobs/view/housekeeper-hotel-cleanliness-expert-at-marriott-executive-apartments-4483220513",
 "id": "housekeeper hotel cleanliness expert|marriott executive apartments",
 "sources": [
-"LinkedIn",
-"Tanqeeb"
+"LinkedIn"
 ],
 "roles": [
-"hotel",
-"legal"
+"hotel"
 ],
 "links": {
-"LinkedIn": "https://bh.linkedin.com/jobs/view/housekeeper-hotel-cleanliness-expert-at-marriott-executive-apartments-4483220513",
-"Tanqeeb": "https://bahrain.tanqeeb.com/jobs-in-middle-east/all/jobs/021312380.html"
+"LinkedIn": "https://bh.linkedin.com/jobs/view/housekeeper-hotel-cleanliness-expert-at-marriott-executive-apartments-4483220513"
 },
 "families": [
-"Hospitality & F&B",
-"Legal"
+"Hospitality & F&B"
 ]
 },
 {
@@ -3530,6 +3619,28 @@
 },
 "families": [
 "Hospitality & F&B"
+]
+},
+{
+"title": "Door Attendant (Bahraini National)",
+"company": "Hilton",
+"location": "Bahrain",
+"posted": "2026-10-26",
+"url": "https://bh.linkedin.com/jobs/view/door-attendant-bahraini-national-at-hilton-4483558330",
+"id": "door attendant bahraini national|hilton",
+"sources": [
+"LinkedIn"
+],
+"roles": [
+"front office",
+"driver"
+],
+"links": {
+"LinkedIn": "https://bh.linkedin.com/jobs/view/door-attendant-bahraini-national-at-hilton-4483558330"
+},
+"families": [
+"Hospitality & F&B",
+"Logistics & supply chain"
 ]
 },
 {
@@ -3614,38 +3725,6 @@
 },
 "families": [
 "Logistics & supply chain"
-]
-},
-{
-"title": "In-Room Dining Supervisor",
-"company": "Four Seasons",
-"location": "Manama, Capital Governorate, Bahrain",
-"posted": "2026-10-25",
-"url": "https://bh.linkedin.com/jobs/view/in-room-dining-supervisor-at-four-seasons-4483399005",
-"id": "in room dining supervisor|four seasons",
-"sources": [
-"LinkedIn",
-"Tanqeeb"
-],
-"roles": [
-"operations officer",
-"customer service",
-"hotel",
-"restaurant",
-"front office",
-"store manager",
-"AML"
-],
-"links": {
-"LinkedIn": "https://bh.linkedin.com/jobs/view/in-room-dining-supervisor-at-four-seasons-4483399005",
-"Tanqeeb": "https://bahrain.tanqeeb.com/jobs-in-middle-east/all/jobs/021340533.html"
-},
-"families": [
-"Banking & finance ops",
-"Customer service",
-"Hospitality & F&B",
-"Retail",
-"Compliance, risk & audit"
 ]
 },
 {
@@ -3757,7 +3836,6 @@
 "roles": [
 "client onboarding",
 "relationship manager",
-"receptionist",
 "sales executive",
 "customer service",
 "front office",
@@ -3770,7 +3848,6 @@
 "families": [
 "Compliance, risk & audit",
 "Relationship & client mgmt",
-"HR & admin",
 "Sales & business dev",
 "Customer service",
 "Hospitality & F&B",
@@ -3872,6 +3949,7 @@
 ],
 "roles": [
 "receptionist",
+"customer service",
 "cashier"
 ],
 "links": {
@@ -3879,6 +3957,7 @@
 },
 "families": [
 "HR & admin",
+"Customer service",
 "Retail"
 ]
 },
@@ -3895,9 +3974,9 @@
 ],
 "roles": [
 "sales executive",
+"customer service",
 "front office",
 "cashier",
-"AML",
 "retail"
 ],
 "links": {
@@ -3906,9 +3985,9 @@
 },
 "families": [
 "Sales & business dev",
+"Customer service",
 "Hospitality & F&B",
-"Retail",
-"Compliance, risk & audit"
+"Retail"
 ]
 },
 {
@@ -3953,6 +4032,34 @@
 },
 "families": [
 "Marketing & media"
+]
+},
+{
+"title": "In-Room Dining Supervisor",
+"company": "Four Seasons",
+"location": "Manama, Capital Governorate, Bahrain",
+"posted": "2026-10-25",
+"url": "https://bh.linkedin.com/jobs/view/in-room-dining-supervisor-at-four-seasons-4483399005",
+"id": "in room dining supervisor|four seasons",
+"sources": [
+"LinkedIn",
+"Tanqeeb"
+],
+"roles": [
+"customer service",
+"hotel",
+"restaurant",
+"front office",
+"store manager"
+],
+"links": {
+"LinkedIn": "https://bh.linkedin.com/jobs/view/in-room-dining-supervisor-at-four-seasons-4483399005",
+"Tanqeeb": "https://bahrain.tanqeeb.com/jobs-in-middle-east/all/jobs/021340533.html"
+},
+"families": [
+"Customer service",
+"Hospitality & F&B",
+"Retail"
 ]
 },
 {
@@ -4053,16 +4160,14 @@
 ],
 "roles": [
 "operations analyst",
-"back office",
 "bank",
 "client onboarding",
-"risk",
 "relationship manager",
 "account manager",
 "financial analyst",
-"administration officer",
 "data analyst",
 "marketing",
+"customer service",
 "call centre",
 "medical"
 ],
@@ -4074,7 +4179,6 @@
 "Compliance, risk & audit",
 "Relationship & client mgmt",
 "Accounting & finance",
-"HR & admin",
 "IT & software",
 "Marketing & media",
 "Customer service",
@@ -4093,7 +4197,7 @@
 ],
 "roles": [
 "settlement",
-"receptionist",
+"client onboarding",
 "sales executive",
 "customer service",
 "call centre",
@@ -4106,7 +4210,7 @@
 },
 "families": [
 "Banking & finance ops",
-"HR & admin",
+"Compliance, risk & audit",
 "Sales & business dev",
 "Customer service",
 "Hospitality & F&B",
@@ -4131,6 +4235,7 @@
 "sales manager",
 "store manager",
 "logistics",
+"procurement",
 "supply chain",
 "operations manager"
 ],
@@ -4213,6 +4318,60 @@
 ]
 },
 {
+"title": "Manager Sales Operations & Strategy",
+"company": "Delivery Hero SE",
+"location": "Bahrain - Manama",
+"posted": "2026-10-24",
+"url": "https://bahrain.tanqeeb.com/jobs-in-middle-east/all/jobs/021338411.html",
+"id": "manager sales operations strategy|delivery hero se",
+"sources": [
+"Tanqeeb"
+],
+"roles": [
+"compliance",
+"doctor",
+"logistics",
+"operations manager"
+],
+"links": {
+"Tanqeeb": "https://bahrain.tanqeeb.com/jobs-in-middle-east/all/jobs/021338411.html"
+},
+"families": [
+"Compliance, risk & audit",
+"Healthcare",
+"Logistics & supply chain",
+"Project & management"
+]
+},
+{
+"title": "Front Desk Team Leader",
+"company": "AccorHotels Middle East",
+"location": "Bahrain - Manama",
+"posted": "2026-10-24",
+"url": "https://bahrain.tanqeeb.com/jobs-in-middle-east/all/jobs/021338237.html",
+"id": "front desk team leader|accorhotels middle east",
+"sources": [
+"Tanqeeb"
+],
+"roles": [
+"recruiter",
+"receptionist",
+"business development",
+"call centre",
+"hotel",
+"front office"
+],
+"links": {
+"Tanqeeb": "https://bahrain.tanqeeb.com/jobs-in-middle-east/all/jobs/021338237.html"
+},
+"families": [
+"HR & admin",
+"Sales & business dev",
+"Customer service",
+"Hospitality & F&B"
+]
+},
+{
 "title": "Manger/Senior Manager - Technology Consulting - TST - FS - Banking - Bahrain",
 "company": "EY",
 "location": "Manama, Capital Governorate, Bahrain",
@@ -4227,7 +4386,6 @@
 "treasury operations",
 "bank",
 "KYC",
-"AML",
 "client onboarding",
 "financial crime",
 "internal control",
@@ -4263,6 +4421,7 @@
 "compliance",
 "accountant",
 "finance officer",
+"financial analyst",
 "payroll",
 "HR operations",
 "HR officer",
@@ -4270,6 +4429,7 @@
 "retail",
 "store manager",
 "logistics",
+"procurement",
 "supply chain",
 "warehouse",
 "operations manager"
@@ -4318,37 +4478,6 @@
 ]
 },
 {
-"title": "Store Manager | Retail | Watsons | Bahrain",
-"company": "Al-Futtaim",
-"location": "Bahrain",
-"posted": "2026-10-23",
-"url": "https://bh.linkedin.com/jobs/view/store-manager-retail-watsons-bahrain-at-al-futtaim-4474719819",
-"id": "store manager retail watsons bahrain|al futtaim",
-"sources": [
-"LinkedIn"
-],
-"roles": [
-"operations officer",
-"HR operations",
-"HR officer",
-"office manager",
-"sales executive",
-"sales manager",
-"store manager",
-"operations manager"
-],
-"links": {
-"LinkedIn": "https://bh.linkedin.com/jobs/view/store-manager-retail-watsons-bahrain-at-al-futtaim-4474719819"
-},
-"families": [
-"Banking & finance ops",
-"HR & admin",
-"Sales & business dev",
-"Retail",
-"Project & management"
-]
-},
-{
 "title": "CBRE Advisory MENA Internship Program (Bahrain)",
 "company": "CBRE Asia Pacific",
 "location": "Bahrain",
@@ -4391,6 +4520,7 @@
 "client onboarding",
 "account manager",
 "software engineer",
+"sales executive",
 "business development"
 ],
 "links": {
@@ -4435,6 +4565,35 @@
 "IT & software",
 "Sales & business dev",
 "Marketing & media",
+"Retail",
+"Project & management"
+]
+},
+{
+"title": "Store Manager | Retail | Watsons | Bahrain",
+"company": "Al-Futtaim",
+"location": "Bahrain",
+"posted": "2026-10-23",
+"url": "https://bh.linkedin.com/jobs/view/store-manager-retail-watsons-bahrain-at-al-futtaim-4474719819",
+"id": "store manager retail watsons bahrain|al futtaim",
+"sources": [
+"LinkedIn"
+],
+"roles": [
+"HR operations",
+"HR officer",
+"office manager",
+"sales executive",
+"sales manager",
+"store manager",
+"operations manager"
+],
+"links": {
+"LinkedIn": "https://bh.linkedin.com/jobs/view/store-manager-retail-watsons-bahrain-at-al-futtaim-4474719819"
+},
+"families": [
+"HR & admin",
+"Sales & business dev",
 "Retail",
 "Project & management"
 ]
@@ -4514,8 +4673,7 @@
 "LinkedIn"
 ],
 "roles": [
-"doctor",
-"medical"
+"doctor"
 ],
 "links": {
 "LinkedIn": "https://bh.linkedin.com/jobs/view/consultant-in-geriatric-care-medicine-kuwait-at-mogi-i-o-ott-podcast-short-video-apps-for-you-4482852523"
@@ -4710,7 +4868,7 @@
 "company": "Mogi I/O : OTT/Podcast/Short Video Apps for you",
 "location": "Bahrain",
 "posted": "2026-10-23",
-"url": "https://bh.linkedin.com/jobs/view/consultant-endocrinologist-%E2%80%93-kuwait-at-mogi-i-o-ott-podcast-short-video-apps-for-you-4480119633",
+"url": "https://bh.linkedin.com/jobs/view/consultant-endocrinologist-%E2%80%93-kuwait-at-mogi-i-o-ott-podcast-short-video-apps-for-you-4480328210",
 "id": "consultant endocrinologist kuwait|mogi i o ott podcast short video apps for you",
 "sources": [
 "LinkedIn"
@@ -4719,7 +4877,7 @@
 "doctor"
 ],
 "links": {
-"LinkedIn": "https://bh.linkedin.com/jobs/view/consultant-endocrinologist-%E2%80%93-kuwait-at-mogi-i-o-ott-podcast-short-video-apps-for-you-4480119633"
+"LinkedIn": "https://bh.linkedin.com/jobs/view/consultant-endocrinologist-%E2%80%93-kuwait-at-mogi-i-o-ott-podcast-short-video-apps-for-you-4480328210"
 },
 "families": [
 "Healthcare"
@@ -4851,6 +5009,45 @@
 ]
 },
 {
+"title": "Manager Warehouse & Manual Handling",
+"company": "Dhl",
+"location": "Bahrain - Manama",
+"posted": "2026-10-23",
+"url": "https://bahrain.tanqeeb.com/jobs-in-middle-east/all/jobs/021337061.html",
+"id": "manager warehouse manual handling|dhl",
+"sources": [
+"Tanqeeb"
+],
+"roles": [
+"reconciliation",
+"client onboarding",
+"compliance",
+"internal control",
+"audit",
+"risk",
+"HR operations",
+"recruiter",
+"receptionist",
+"business development",
+"customer service",
+"logistics",
+"procurement",
+"supply chain",
+"warehouse"
+],
+"links": {
+"Tanqeeb": "https://bahrain.tanqeeb.com/jobs-in-middle-east/all/jobs/021337061.html"
+},
+"families": [
+"Banking & finance ops",
+"Compliance, risk & audit",
+"HR & admin",
+"Sales & business dev",
+"Customer service",
+"Logistics & supply chain"
+]
+},
+{
 "title": "Warehouse & Manual Handling Manager",
 "company": "DHL",
 "location": "Bahrain - Manama",
@@ -4892,6 +5089,113 @@
 ]
 },
 {
+"title": "Intern - Bahrain",
+"company": "Delivery Hero SE",
+"location": "Bahrain - Manama",
+"posted": "2026-10-23",
+"url": "https://bahrain.tanqeeb.com/jobs-in-middle-east/all/jobs/021336966.html",
+"id": "intern bahrain|delivery hero se",
+"sources": [
+"Tanqeeb"
+],
+"roles": [
+"client onboarding",
+"HR operations",
+"recruiter",
+"receptionist",
+"business development",
+"marketing",
+"doctor",
+"logistics"
+],
+"links": {
+"Tanqeeb": "https://bahrain.tanqeeb.com/jobs-in-middle-east/all/jobs/021336966.html"
+},
+"families": [
+"Compliance, risk & audit",
+"HR & admin",
+"Sales & business dev",
+"Marketing & media",
+"Healthcare",
+"Logistics & supply chain"
+]
+},
+{
+"title": "Assistant Director of Sales",
+"company": "Marriott International",
+"location": "Bahrain - Manama",
+"posted": "2026-10-23",
+"url": "https://bahrain.tanqeeb.com/jobs-in-middle-east/all/jobs/021337330.html",
+"id": "assistant director of sales|marriott international",
+"sources": [
+"Tanqeeb"
+],
+"roles": [
+"compliance",
+"government relations",
+"business development",
+"hotel"
+],
+"links": {
+"Tanqeeb": "https://bahrain.tanqeeb.com/jobs-in-middle-east/all/jobs/021337330.html"
+},
+"families": [
+"Compliance, risk & audit",
+"HR & admin",
+"Sales & business dev",
+"Hospitality & F&B"
+]
+},
+{
+"title": "Assistant Director of Sales",
+"company": "Tribute Portfolio",
+"location": "Bahrain - Manama",
+"posted": "2026-10-23",
+"url": "https://bahrain.tanqeeb.com/jobs-in-middle-east/all/jobs/021337060.html",
+"id": "assistant director of sales|tribute portfolio",
+"sources": [
+"Tanqeeb"
+],
+"roles": [
+"compliance",
+"government relations",
+"business development",
+"hotel"
+],
+"links": {
+"Tanqeeb": "https://bahrain.tanqeeb.com/jobs-in-middle-east/all/jobs/021337060.html"
+},
+"families": [
+"Compliance, risk & audit",
+"HR & admin",
+"Sales & business dev",
+"Hospitality & F&B"
+]
+},
+{
+"title": "Associate Marketing",
+"company": "Delivery Hero SE",
+"location": "Bahrain - Manama",
+"posted": "2026-10-23",
+"url": "https://bahrain.tanqeeb.com/jobs-in-middle-east/all/jobs/021336967.html",
+"id": "associate marketing|delivery hero se",
+"sources": [
+"Tanqeeb"
+],
+"roles": [
+"marketing",
+"social media",
+"doctor"
+],
+"links": {
+"Tanqeeb": "https://bahrain.tanqeeb.com/jobs-in-middle-east/all/jobs/021336967.html"
+},
+"families": [
+"Marketing & media",
+"Healthcare"
+]
+},
+{
 "title": "Business Development Executive",
 "company": "Confidential",
 "location": "Bahrain - Manama",
@@ -4926,6 +5230,26 @@
 ],
 "links": {
 "Tanqeeb": "https://bahrain.tanqeeb.com/jobs-in-middle-east/all/jobs/021335958.html"
+},
+"families": [
+"Healthcare"
+]
+},
+{
+"title": "Excavator Operators",
+"company": "Client of Talentrio",
+"location": "Bahrain - Manama",
+"posted": "2026-10-23",
+"url": "https://bahrain.tanqeeb.com/jobs-in-middle-east/all/jobs/021337332.html",
+"id": "excavator operators|client of talentrio",
+"sources": [
+"Tanqeeb"
+],
+"roles": [
+"medical"
+],
+"links": {
+"Tanqeeb": "https://bahrain.tanqeeb.com/jobs-in-middle-east/all/jobs/021337332.html"
 },
 "families": [
 "Healthcare"
@@ -5057,7 +5381,6 @@
 "corporate banking",
 "account manager",
 "sales executive",
-"business development",
 "sales manager",
 "marketing",
 "medical",
@@ -5125,8 +5448,7 @@
 ],
 "roles": [
 "operations officer",
-"hotel",
-"operations manager"
+"hotel"
 ],
 "links": {
 "LinkedIn": "https://bh.linkedin.com/jobs/view/housekeeping-supervisor-at-ibis-4482461424",
@@ -5134,31 +5456,6 @@
 },
 "families": [
 "Banking & finance ops",
-"Hospitality & F&B",
-"Project & management"
-]
-},
-{
-"title": "Housekeeping Supervisor",
-"company": "ibis, ibis Styles, ibis budget",
-"location": "Manama, Capital Governorate, Bahrain",
-"posted": "2026-10-22",
-"url": "https://bh.linkedin.com/jobs/view/housekeeping-supervisor-at-ibis-ibis-styles-ibis-budget-4481368171",
-"id": "housekeeping supervisor|ibis ibis styles ibis budget",
-"sources": [
-"LinkedIn"
-],
-"roles": [
-"operations officer",
-"office manager",
-"hotel"
-],
-"links": {
-"LinkedIn": "https://bh.linkedin.com/jobs/view/housekeeping-supervisor-at-ibis-ibis-styles-ibis-budget-4481368171"
-},
-"families": [
-"Banking & finance ops",
-"HR & admin",
 "Hospitality & F&B"
 ]
 },
@@ -5178,6 +5475,7 @@
 "account manager",
 "network engineer",
 "business development",
+"procurement",
 "supply chain",
 "project manager"
 ],
@@ -5228,33 +5526,6 @@
 ]
 },
 {
-"title": "Human Resources Intern",
-"company": "Hilton",
-"location": "Manama, Capital Governorate, Bahrain",
-"posted": "2026-10-22",
-"url": "https://bh.linkedin.com/jobs/view/human-resources-intern-at-hilton-4482478017",
-"id": "human resources intern|hilton",
-"sources": [
-"LinkedIn"
-],
-"roles": [
-"back office",
-"HR operations",
-"HR officer",
-"recruiter",
-"administration officer",
-"office manager",
-"secretary"
-],
-"links": {
-"LinkedIn": "https://bh.linkedin.com/jobs/view/human-resources-intern-at-hilton-4482478017"
-},
-"families": [
-"Banking & finance ops",
-"HR & admin"
-]
-},
-{
 "title": "Farsi Linguist CAT II",
 "company": "Valiant Integrated Services",
 "location": "Manama, Capital Governorate, Bahrain",
@@ -5279,7 +5550,7 @@
 "company": "ADG",
 "location": "Manama, Capital Governorate, Bahrain",
 "posted": "2026-10-22",
-"url": "https://bh.linkedin.com/jobs/view/forward-deployed-engineer-at-adg-4481368053",
+"url": "https://bh.linkedin.com/jobs/view/forward-deployed-engineer-at-adg-4479375584",
 "id": "forward deployed engineer|adg",
 "sources": [
 "LinkedIn"
@@ -5287,7 +5558,6 @@
 "roles": [
 "bank",
 "KYC",
-"AML",
 "client onboarding",
 "software engineer",
 "IT support",
@@ -5296,7 +5566,7 @@
 "project engineer"
 ],
 "links": {
-"LinkedIn": "https://bh.linkedin.com/jobs/view/forward-deployed-engineer-at-adg-4481368053"
+"LinkedIn": "https://bh.linkedin.com/jobs/view/forward-deployed-engineer-at-adg-4479375584"
 },
 "families": [
 "Banking & finance ops",
@@ -5420,6 +5690,30 @@
 ]
 },
 {
+"title": "Facilities & HSE Officer-Automotive",
+"company": "Qureos",
+"location": "Bahrain",
+"posted": "2026-10-22",
+"url": "https://bh.linkedin.com/jobs/view/facilities-hse-officer-automotive-at-qureos-4481399444",
+"id": "facilities hse officer automotive|qureos",
+"sources": [
+"LinkedIn"
+],
+"roles": [
+"compliance",
+"risk",
+"mechanical engineer",
+"civil engineer"
+],
+"links": {
+"LinkedIn": "https://bh.linkedin.com/jobs/view/facilities-hse-officer-automotive-at-qureos-4481399444"
+},
+"families": [
+"Compliance, risk & audit",
+"Engineering & technical"
+]
+},
+{
 "title": "Account Executive",
 "company": "Dell Technologies",
 "location": "Manama, Capital Governorate, Bahrain",
@@ -5461,16 +5755,39 @@
 "office manager",
 "secretary",
 "receptionist",
-"call centre",
-"cashier"
+"call centre"
 ],
 "links": {
 "LinkedIn": "https://bh.linkedin.com/jobs/view/personnel-assistant-i-at-chenega-mios-sbu-4482760860"
 },
 "families": [
 "HR & admin",
-"Customer service",
-"Retail"
+"Customer service"
+]
+},
+{
+"title": "Human Resources Intern",
+"company": "Hilton",
+"location": "Manama, Capital Governorate, Bahrain",
+"posted": "2026-10-22",
+"url": "https://bh.linkedin.com/jobs/view/human-resources-intern-at-hilton-4482478017",
+"id": "human resources intern|hilton",
+"sources": [
+"LinkedIn"
+],
+"roles": [
+"HR operations",
+"HR officer",
+"recruiter",
+"administration officer",
+"office manager",
+"secretary"
+],
+"links": {
+"LinkedIn": "https://bh.linkedin.com/jobs/view/human-resources-intern-at-hilton-4482478017"
+},
+"families": [
+"HR & admin"
 ]
 },
 {
@@ -5522,7 +5839,6 @@
 "LinkedIn"
 ],
 "roles": [
-"administration officer",
 "secretary",
 "marketing",
 "digital marketing",
@@ -5648,7 +5964,6 @@
 "digital marketing",
 "graphic designer",
 "social media",
-"AML",
 "doctor"
 ],
 "links": {
@@ -5657,7 +5972,6 @@
 },
 "families": [
 "Marketing & media",
-"Compliance, risk & audit",
 "Healthcare"
 ]
 },
@@ -5747,6 +6061,26 @@
 "families": [
 "Hospitality & F&B",
 "Retail"
+]
+},
+{
+"title": "Housekeeping Supervisor",
+"company": "ibis, ibis Styles, ibis budget",
+"location": "Manama, Capital Governorate, Bahrain",
+"posted": "2026-10-22",
+"url": "https://bh.linkedin.com/jobs/view/housekeeping-supervisor-at-ibis-ibis-styles-ibis-budget-4481368171",
+"id": "housekeeping supervisor|ibis ibis styles ibis budget",
+"sources": [
+"LinkedIn"
+],
+"roles": [
+"hotel"
+],
+"links": {
+"LinkedIn": "https://bh.linkedin.com/jobs/view/housekeeping-supervisor-at-ibis-ibis-styles-ibis-budget-4481368171"
+},
+"families": [
+"Hospitality & F&B"
 ]
 },
 {
@@ -5880,32 +6214,6 @@
 "families": [
 "Compliance, risk & audit",
 "Logistics & supply chain"
-]
-},
-{
-"title": "Head of Advisory",
-"company": "Qureos",
-"location": "Bahrain - Manama",
-"posted": "2026-10-22",
-"url": "https://bahrain.tanqeeb.com/jobs-in-middle-east/all/jobs/021332554.html",
-"id": "head of advisory|qureos",
-"sources": [
-"Tanqeeb"
-],
-"roles": [
-"compliance",
-"risk",
-"recruiter",
-"receptionist",
-"business development"
-],
-"links": {
-"Tanqeeb": "https://bahrain.tanqeeb.com/jobs-in-middle-east/all/jobs/021332554.html"
-},
-"families": [
-"Compliance, risk & audit",
-"HR & admin",
-"Sales & business dev"
 ]
 },
 {
@@ -6548,6 +6856,7 @@
 "corporate banking",
 "finance officer",
 "government relations",
+"procurement",
 "legal",
 "lawyer"
 ],
@@ -6560,6 +6869,7 @@
 "Relationship & client mgmt",
 "Accounting & finance",
 "HR & admin",
+"Logistics & supply chain",
 "Legal"
 ]
 },
@@ -6575,7 +6885,6 @@
 ],
 "roles": [
 "banking operations",
-"back office",
 "payments operations",
 "reconciliation",
 "treasury operations",
@@ -6614,7 +6923,6 @@
 "banking operations",
 "operations analyst",
 "KYC",
-"AML",
 "client onboarding",
 "financial crime",
 "internal control",
@@ -6654,6 +6962,7 @@
 "reconciliation",
 "administration officer",
 "logistics",
+"procurement",
 "supply chain",
 "warehouse"
 ],
@@ -6681,6 +6990,7 @@
 "back office",
 "trade finance",
 "logistics",
+"procurement",
 "supply chain"
 ],
 "links": {
@@ -6730,6 +7040,7 @@
 "roles": [
 "back office",
 "settlement",
+"AML",
 "compliance",
 "financial crime",
 "government relations",
@@ -6833,35 +7144,6 @@
 "internal control",
 "audit",
 "risk",
-"financial analyst",
-"government relations",
-"business development",
-"sales manager"
-],
-"links": {
-"LinkedIn": "https://bh.linkedin.com/jobs/view/head-of-advisory-at-braxtone-group-4480767479"
-},
-"families": [
-"Compliance, risk & audit",
-"Accounting & finance",
-"HR & admin",
-"Sales & business dev"
-]
-},
-{
-"title": "Head of Advisory",
-"company": "Burjline Builders",
-"location": "Manama, Capital Governorate, Bahrain",
-"posted": "2026-10-21",
-"url": "https://bh.linkedin.com/jobs/view/head-of-advisory-at-burjline-builders-4481161094",
-"id": "head of advisory|burjline builders",
-"sources": [
-"LinkedIn"
-],
-"roles": [
-"financial crime",
-"audit",
-"risk",
 "relationship manager",
 "financial analyst",
 "government relations",
@@ -6869,7 +7151,7 @@
 "sales manager"
 ],
 "links": {
-"LinkedIn": "https://bh.linkedin.com/jobs/view/head-of-advisory-at-burjline-builders-4481161094"
+"LinkedIn": "https://bh.linkedin.com/jobs/view/head-of-advisory-at-braxtone-group-4480767479"
 },
 "families": [
 "Compliance, risk & audit",
@@ -6905,6 +7187,36 @@
 ]
 },
 {
+"title": "Head of Advisory",
+"company": "Qureos",
+"location": "Manama, Capital Governorate, Bahrain",
+"posted": "2026-10-21",
+"url": "https://bh.linkedin.com/jobs/view/head-of-advisory-at-qureos-4480790477",
+"id": "head of advisory|qureos",
+"sources": [
+"LinkedIn",
+"Tanqeeb"
+],
+"roles": [
+"account manager",
+"government relations",
+"business development",
+"risk",
+"recruiter",
+"receptionist"
+],
+"links": {
+"LinkedIn": "https://bh.linkedin.com/jobs/view/head-of-advisory-at-qureos-4480790477",
+"Tanqeeb": "https://bahrain.tanqeeb.com/jobs-in-middle-east/all/jobs/021332554.html"
+},
+"families": [
+"Relationship & client mgmt",
+"HR & admin",
+"Sales & business dev",
+"Compliance, risk & audit"
+]
+},
+{
 "title": "Cluster Manager",
 "company": "Apparel Group",
 "location": "Bahrain",
@@ -6917,6 +7229,7 @@
 "roles": [
 "HR operations",
 "HR officer",
+"business development",
 "sales manager",
 "store manager",
 "operations manager"
@@ -7058,27 +7371,23 @@
 ]
 },
 {
-"title": "F&B Captain – In Villa Dinning",
+"title": "Waitress / Hostess – Cigar Lounge",
 "company": "Raffles Hotels & Resorts",
 "location": "Manama, Capital Governorate, Bahrain",
 "posted": "2026-10-21",
-"url": "https://bh.linkedin.com/jobs/view/f-b-captain-%E2%80%93-in-villa-dinning-at-raffles-hotels-resorts-4472153568",
-"id": "f b captain in villa dinning|raffles hotels resorts",
+"url": "https://bh.linkedin.com/jobs/view/waitress-hostess-%E2%80%93-cigar-lounge-at-raffles-hotels-resorts-4472159409",
+"id": "waitress hostess cigar lounge|raffles hotels resorts",
 "sources": [
 "LinkedIn"
 ],
 "roles": [
-"customer service",
-"chef",
-"store manager"
+"customer service"
 ],
 "links": {
-"LinkedIn": "https://bh.linkedin.com/jobs/view/f-b-captain-%E2%80%93-in-villa-dinning-at-raffles-hotels-resorts-4472153568"
+"LinkedIn": "https://bh.linkedin.com/jobs/view/waitress-hostess-%E2%80%93-cigar-lounge-at-raffles-hotels-resorts-4472159409"
 },
 "families": [
-"Customer service",
-"Hospitality & F&B",
-"Retail"
+"Customer service"
 ]
 },
 {
@@ -7197,6 +7506,28 @@
 ],
 "links": {
 "LinkedIn": "https://bh.linkedin.com/jobs/view/head-baker-at-raffles-hotels-resorts-4482121686"
+},
+"families": [
+"Hospitality & F&B",
+"Retail"
+]
+},
+{
+"title": "F&B Captain – In Villa Dinning",
+"company": "Raffles Hotels & Resorts",
+"location": "Manama, Capital Governorate, Bahrain",
+"posted": "2026-10-21",
+"url": "https://bh.linkedin.com/jobs/view/f-b-captain-%E2%80%93-in-villa-dinning-at-raffles-hotels-resorts-4472153568",
+"id": "f b captain in villa dinning|raffles hotels resorts",
+"sources": [
+"LinkedIn"
+],
+"roles": [
+"chef",
+"store manager"
+],
+"links": {
+"LinkedIn": "https://bh.linkedin.com/jobs/view/f-b-captain-%E2%80%93-in-villa-dinning-at-raffles-hotels-resorts-4472153568"
 },
 "families": [
 "Hospitality & F&B",
@@ -7344,16 +7675,14 @@
 "banking operations",
 "payments operations",
 "bank",
-"risk",
-"business development"
+"risk"
 ],
 "links": {
 "Tanqeeb": "https://bahrain.tanqeeb.com/jobs-in-middle-east/all/jobs/021329709.html"
 },
 "families": [
 "Banking & finance ops",
-"Compliance, risk & audit",
-"Sales & business dev"
+"Compliance, risk & audit"
 ]
 },
 {
@@ -7395,7 +7724,6 @@
 "settlement",
 "audit",
 "receptionist",
-"hotel",
 "front office"
 ],
 "links": {
@@ -7450,7 +7778,6 @@
 "client onboarding",
 "internal control",
 "administration officer",
-"business development",
 "logistics",
 "procurement",
 "supply chain",
@@ -7463,7 +7790,6 @@
 "Banking & finance ops",
 "Compliance, risk & audit",
 "HR & admin",
-"Sales & business dev",
 "Logistics & supply chain"
 ]
 },
@@ -7506,9 +7832,7 @@
 ],
 "roles": [
 "bank",
-"compliance",
 "accountant",
-"business development",
 "marketing",
 "legal"
 ],
@@ -7517,10 +7841,38 @@
 },
 "families": [
 "Banking & finance ops",
-"Compliance, risk & audit",
 "Accounting & finance",
-"Sales & business dev",
 "Marketing & media",
+"Legal"
+]
+},
+{
+"title": "Chief Engineer",
+"company": "The Ritz-Carlton",
+"location": "Bahrain - Manama",
+"posted": "2026-10-21",
+"url": "https://bahrain.tanqeeb.com/jobs-in-middle-east/all/jobs/021330861.html",
+"id": "chief engineer|the ritz carlton",
+"sources": [
+"Tanqeeb"
+],
+"roles": [
+"internal control",
+"relationship manager",
+"business development",
+"doctor",
+"procurement",
+"legal"
+],
+"links": {
+"Tanqeeb": "https://bahrain.tanqeeb.com/jobs-in-middle-east/all/jobs/021330861.html"
+},
+"families": [
+"Compliance, risk & audit",
+"Relationship & client mgmt",
+"Sales & business dev",
+"Healthcare",
+"Logistics & supply chain",
 "Legal"
 ]
 },
@@ -7535,7 +7887,6 @@
 "Tanqeeb"
 ],
 "roles": [
-"compliance",
 "risk",
 "recruiter",
 "software engineer",
@@ -7551,59 +7902,6 @@
 "IT & software",
 "Sales & business dev",
 "Legal"
-]
-},
-{
-"title": "Chief Engineer",
-"company": "The Ritz-Carlton",
-"location": "Bahrain - Manama",
-"posted": "2026-10-21",
-"url": "https://bahrain.tanqeeb.com/jobs-in-middle-east/all/jobs/021330861.html",
-"id": "chief engineer|the ritz carlton",
-"sources": [
-"Tanqeeb"
-],
-"roles": [
-"compliance",
-"internal control",
-"relationship manager",
-"business development",
-"doctor",
-"hotel",
-"procurement",
-"legal"
-],
-"links": {
-"Tanqeeb": "https://bahrain.tanqeeb.com/jobs-in-middle-east/all/jobs/021330861.html"
-},
-"families": [
-"Compliance, risk & audit",
-"Relationship & client mgmt",
-"Sales & business dev",
-"Healthcare",
-"Hospitality & F&B",
-"Logistics & supply chain",
-"Legal"
-]
-},
-{
-"title": "Production Operator",
-"company": "Reckitt Benckiser Group",
-"location": "Bahrain - Manama",
-"posted": "2026-10-21",
-"url": "https://bahrain.tanqeeb.com/jobs-in-middle-east/all/jobs/021329715.html",
-"id": "production operator|reckitt benckiser group",
-"sources": [
-"Tanqeeb"
-],
-"roles": [
-"compliance"
-],
-"links": {
-"Tanqeeb": "https://bahrain.tanqeeb.com/jobs-in-middle-east/all/jobs/021329715.html"
-},
-"families": [
-"Compliance, risk & audit"
 ]
 },
 {
@@ -7639,15 +7937,13 @@
 "Tanqeeb"
 ],
 "roles": [
-"software engineer",
-"business development"
+"software engineer"
 ],
 "links": {
 "Tanqeeb": "https://bahrain.tanqeeb.com/jobs-in-middle-east/all/jobs/021329712.html"
 },
 "families": [
-"IT & software",
-"Sales & business dev"
+"IT & software"
 ]
 },
 {
@@ -7748,7 +8044,6 @@
 "Tanqeeb"
 ],
 "roles": [
-"hotel",
 "restaurant",
 "chef",
 "legal"
@@ -7826,6 +8121,34 @@
 ]
 },
 {
+"title": "HR Executive / HR Coordinator / HR Officer",
+"company": "ECom24/7",
+"location": "Capital Governorate, Bahrain",
+"posted": "2026-10-20",
+"url": "https://bh.linkedin.com/jobs/view/hr-executive-hr-coordinator-hr-officer-at-ecom24-7-4480493737",
+"id": "hr executive hr coordinator hr officer|ecom24 7",
+"sources": [
+"LinkedIn"
+],
+"roles": [
+"back office",
+"payroll",
+"HR operations",
+"HR officer",
+"recruiter",
+"administration officer",
+"office manager",
+"secretary"
+],
+"links": {
+"LinkedIn": "https://bh.linkedin.com/jobs/view/hr-executive-hr-coordinator-hr-officer-at-ecom24-7-4480493737"
+},
+"families": [
+"Banking & finance ops",
+"HR & admin"
+]
+},
+{
 "title": "Careers Specialist",
 "company": "RCSI Medical University of Bahrain",
 "location": "Busaiteen, Muharraq Governorate, Bahrain",
@@ -7873,6 +8196,7 @@
 "receptionist",
 "data analyst",
 "marketing",
+"digital marketing",
 "graphic designer",
 "social media"
 ],
@@ -7901,7 +8225,6 @@
 "reconciliation",
 "trade finance",
 "treasury operations",
-"AML",
 "compliance",
 "financial crime",
 "internal control",
@@ -8020,6 +8343,7 @@
 "marketing",
 "store manager",
 "logistics",
+"procurement",
 "supply chain"
 ],
 "links": {
@@ -8046,7 +8370,6 @@
 "LinkedIn"
 ],
 "roles": [
-"administration officer",
 "secretary",
 "receptionist",
 "customer service",
@@ -8153,13 +8476,15 @@
 "LinkedIn"
 ],
 "roles": [
-"receptionist"
+"receptionist",
+"customer service"
 ],
 "links": {
 "LinkedIn": "https://bh.linkedin.com/jobs/view/restaurant-hostess-at-hilton-4472713213"
 },
 "families": [
-"HR & admin"
+"HR & admin",
+"Customer service"
 ]
 },
 {
@@ -8239,13 +8564,15 @@
 "LinkedIn"
 ],
 "roles": [
-"civil engineer"
+"civil engineer",
+"procurement"
 ],
 "links": {
 "LinkedIn": "https://bh.linkedin.com/jobs/view/quantity-surveyor-10%2B-years-of-experience-preferred-gcc-experience-at-consulting-engineers-group-uk-ltd-4481543388"
 },
 "families": [
-"Engineering & technical"
+"Engineering & technical",
+"Logistics & supply chain"
 ]
 },
 {
@@ -8696,7 +9023,6 @@
 ],
 "roles": [
 "banking operations",
-"operations officer",
 "operations analyst",
 "payments operations",
 "settlement",
@@ -8780,6 +9106,7 @@
 "accounts payable",
 "retail",
 "logistics",
+"procurement",
 "supply chain",
 "operations manager"
 ],
@@ -8792,36 +9119,6 @@
 "Retail",
 "Logistics & supply chain",
 "Project & management"
-]
-},
-{
-"title": "Government Relations Officer (GRO/PRO)",
-"company": "Tivoli Hotels & Resorts",
-"location": "Southern Governorate, Bahrain",
-"posted": "2026-10-19",
-"url": "https://bh.linkedin.com/jobs/view/government-relations-officer-gro-pro-at-tivoli-hotels-resorts-4480274310",
-"id": "government relations officer gro pro|tivoli hotels resorts",
-"sources": [
-"LinkedIn"
-],
-"roles": [
-"back office",
-"compliance",
-"HR operations",
-"HR officer",
-"government relations",
-"administration officer",
-"legal",
-"lawyer"
-],
-"links": {
-"LinkedIn": "https://bh.linkedin.com/jobs/view/government-relations-officer-gro-pro-at-tivoli-hotels-resorts-4480274310"
-},
-"families": [
-"Banking & finance ops",
-"Compliance, risk & audit",
-"HR & admin",
-"Legal"
 ]
 },
 {
@@ -8913,6 +9210,34 @@
 "Banking & finance ops",
 "IT & software",
 "Marketing & media"
+]
+},
+{
+"title": "Government Relations Officer (GRO/PRO)",
+"company": "Tivoli Hotels & Resorts",
+"location": "Southern Governorate, Bahrain",
+"posted": "2026-10-19",
+"url": "https://bh.linkedin.com/jobs/view/government-relations-officer-gro-pro-at-tivoli-hotels-resorts-4480274310",
+"id": "government relations officer gro pro|tivoli hotels resorts",
+"sources": [
+"LinkedIn"
+],
+"roles": [
+"compliance",
+"HR operations",
+"HR officer",
+"government relations",
+"administration officer",
+"legal",
+"lawyer"
+],
+"links": {
+"LinkedIn": "https://bh.linkedin.com/jobs/view/government-relations-officer-gro-pro-at-tivoli-hotels-resorts-4480274310"
+},
+"families": [
+"Compliance, risk & audit",
+"HR & admin",
+"Legal"
 ]
 },
 {
@@ -9034,6 +9359,7 @@
 "finance officer",
 "financial analyst",
 "data analyst",
+"business development",
 "sales manager",
 "hotel",
 "restaurant"
@@ -9107,8 +9433,7 @@
 "roles": [
 "sales manager",
 "retail",
-"store manager",
-"supply chain"
+"procurement"
 ],
 "links": {
 "LinkedIn": "https://bh.linkedin.com/jobs/view/assistant-category-manager-at-talabat-4435434260"
@@ -9608,7 +9933,6 @@
 "treasury operations",
 "bank",
 "KYC",
-"AML",
 "client onboarding",
 "compliance",
 "financial crime",
@@ -9701,8 +10025,7 @@
 "payroll",
 "HR operations",
 "HR officer",
-"administration officer",
-"office manager"
+"administration officer"
 ],
 "links": {
 "LinkedIn": "https://bh.linkedin.com/jobs/view/paymaster-at-four-seasons-4480884944",
@@ -9996,26 +10319,6 @@
 ]
 },
 {
-"title": "Costing Engineer | Manama, Kingdom of Bahrain",
-"company": "Al Zain",
-"location": "Manama, Capital Governorate, Bahrain",
-"posted": "2026-10-17",
-"url": "https://bh.linkedin.com/jobs/view/costing-engineer-manama-kingdom-of-bahrain-at-al-zain-4477783583",
-"id": "costing engineer manama kingdom of bahrain|al zain",
-"sources": [
-"LinkedIn"
-],
-"roles": [
-"mechanical engineer"
-],
-"links": {
-"LinkedIn": "https://bh.linkedin.com/jobs/view/costing-engineer-manama-kingdom-of-bahrain-at-al-zain-4477783583"
-},
-"families": [
-"Engineering & technical"
-]
-},
-{
 "title": "Bahrain - Voyage Program March 2027 - Food & Beverage",
 "company": "Corporate",
 "location": "Bahrain - Manama",
@@ -10174,31 +10477,6 @@
 ]
 },
 {
-"title": "Product Manager",
-"company": "ADG",
-"location": "Manama, Capital Governorate, Bahrain",
-"posted": "2026-10-16",
-"url": "https://bh.linkedin.com/jobs/view/product-manager-at-adg-4479375558",
-"id": "product manager|adg",
-"sources": [
-"LinkedIn"
-],
-"roles": [
-"operations analyst",
-"bank",
-"financial crime",
-"project manager"
-],
-"links": {
-"LinkedIn": "https://bh.linkedin.com/jobs/view/product-manager-at-adg-4479375558"
-},
-"families": [
-"Banking & finance ops",
-"Compliance, risk & audit",
-"Project & management"
-]
-},
-{
 "title": "Associate | Audit | Audit & Assurance | Bahrain FY27",
 "company": "Deloitte",
 "location": "Manama, Capital Governorate, Bahrain",
@@ -10252,6 +10530,30 @@
 "Relationship & client mgmt",
 "Accounting & finance",
 "Sales & business dev"
+]
+},
+{
+"title": "Product Manager",
+"company": "ADG",
+"location": "Manama, Capital Governorate, Bahrain",
+"posted": "2026-10-16",
+"url": "https://bh.linkedin.com/jobs/view/product-manager-at-adg-4479375558",
+"id": "product manager|adg",
+"sources": [
+"LinkedIn"
+],
+"roles": [
+"bank",
+"financial crime",
+"project manager"
+],
+"links": {
+"LinkedIn": "https://bh.linkedin.com/jobs/view/product-manager-at-adg-4479375558"
+},
+"families": [
+"Banking & finance ops",
+"Compliance, risk & audit",
+"Project & management"
 ]
 },
 {
@@ -10354,6 +10656,7 @@
 "electrical engineer",
 "civil engineer",
 "project engineer",
+"procurement",
 "project manager"
 ],
 "links": {
@@ -10361,6 +10664,7 @@
 },
 "families": [
 "Engineering & technical",
+"Logistics & supply chain",
 "Project & management"
 ]
 },
@@ -10929,28 +11233,6 @@
 ]
 },
 {
-"title": "Team Leader – Housekeeping – Jumeirah Gulf of Bahrain",
-"company": "Jumeirah",
-"location": "Manama, Capital Governorate, Bahrain",
-"posted": "2026-10-15",
-"url": "https://bh.linkedin.com/jobs/view/team-leader-%E2%80%93-housekeeping-%E2%80%93-jumeirah-gulf-of-bahrain-at-jumeirah-4414676675",
-"id": "team leader housekeeping jumeirah gulf of bahrain|jumeirah",
-"sources": [
-"LinkedIn"
-],
-"roles": [
-"operations officer",
-"operations manager"
-],
-"links": {
-"LinkedIn": "https://bh.linkedin.com/jobs/view/team-leader-%E2%80%93-housekeeping-%E2%80%93-jumeirah-gulf-of-bahrain-at-jumeirah-4414676675"
-},
-"families": [
-"Banking & finance ops",
-"Project & management"
-]
-},
-{
 "title": "Senior Consultant, Functional - Tech",
 "company": "Ebrahim Khalil Kanoo B.S.C (c)",
 "location": "Manama, Capital Governorate, Bahrain",
@@ -11053,7 +11335,6 @@
 "roles": [
 "bank",
 "KYC",
-"AML",
 "client onboarding",
 "financial crime",
 "relationship manager",
@@ -11117,12 +11398,12 @@
 "roles": [
 "HR operations",
 "HR officer",
+"sales manager",
 "restaurant",
 "retail",
 "store manager",
 "cashier",
 "logistics",
-"supply chain",
 "warehouse",
 "operations manager"
 ],
@@ -11131,6 +11412,7 @@
 },
 "families": [
 "HR & admin",
+"Sales & business dev",
 "Hospitality & F&B",
 "Retail",
 "Logistics & supply chain",
@@ -11138,30 +11420,33 @@
 ]
 },
 {
-"title": "Assistant Store Manager - ZIMMERMANN Bahrain",
-"company": "Chalhoub Group",
-"location": "Seef, Capital Governorate, Bahrain",
+"title": "Front Desk Receptionist / Front Office Executive",
+"company": "KD CAMPUS PRIVATE LIMITED",
+"location": "Capital Governorate, Bahrain",
 "posted": "2026-10-15",
-"url": "https://bh.linkedin.com/jobs/view/assistant-store-manager-zimmermann-bahrain-at-chalhoub-group-4459507201",
-"id": "assistant store manager zimmermann bahrain|chalhoub group",
+"url": "https://bh.linkedin.com/jobs/view/front-desk-receptionist-front-office-executive-at-kd-campus-private-limited-4479802577",
+"id": "front desk receptionist front office executive|kd campus private limited",
 "sources": [
 "LinkedIn"
 ],
 "roles": [
+"administration officer",
 "office manager",
-"sales manager",
-"retail",
-"store manager",
-"operations manager"
+"secretary",
+"receptionist",
+"customer service",
+"call centre",
+"front office",
+"cashier"
 ],
 "links": {
-"LinkedIn": "https://bh.linkedin.com/jobs/view/assistant-store-manager-zimmermann-bahrain-at-chalhoub-group-4459507201"
+"LinkedIn": "https://bh.linkedin.com/jobs/view/front-desk-receptionist-front-office-executive-at-kd-campus-private-limited-4479802577"
 },
 "families": [
 "HR & admin",
-"Sales & business dev",
-"Retail",
-"Project & management"
+"Customer service",
+"Hospitality & F&B",
+"Retail"
 ]
 },
 {
@@ -11182,6 +11467,31 @@
 },
 "families": [
 "Sales & business dev"
+]
+},
+{
+"title": "Assistant Store Manager - ZIMMERMANN Bahrain",
+"company": "Chalhoub Group",
+"location": "Seef, Capital Governorate, Bahrain",
+"posted": "2026-10-15",
+"url": "https://bh.linkedin.com/jobs/view/assistant-store-manager-zimmermann-bahrain-at-chalhoub-group-4459507201",
+"id": "assistant store manager zimmermann bahrain|chalhoub group",
+"sources": [
+"LinkedIn"
+],
+"roles": [
+"sales manager",
+"retail",
+"store manager",
+"operations manager"
+],
+"links": {
+"LinkedIn": "https://bh.linkedin.com/jobs/view/assistant-store-manager-zimmermann-bahrain-at-chalhoub-group-4459507201"
+},
+"families": [
+"Sales & business dev",
+"Retail",
+"Project & management"
 ]
 },
 {
@@ -11216,8 +11526,7 @@
 "LinkedIn"
 ],
 "roles": [
-"doctor",
-"medical"
+"doctor"
 ],
 "links": {
 "LinkedIn": "https://bh.linkedin.com/jobs/view/consultant-geriatric-medicine-kuwait-at-mogi-i-o-ott-podcast-short-video-apps-for-you-4479821746"
@@ -11328,6 +11637,26 @@
 ]
 },
 {
+"title": "Team Leader – Housekeeping – Jumeirah Gulf of Bahrain",
+"company": "Jumeirah",
+"location": "Manama, Capital Governorate, Bahrain",
+"posted": "2026-10-15",
+"url": "https://bh.linkedin.com/jobs/view/team-leader-%E2%80%93-housekeeping-%E2%80%93-jumeirah-gulf-of-bahrain-at-jumeirah-4414676675",
+"id": "team leader housekeeping jumeirah gulf of bahrain|jumeirah",
+"sources": [
+"LinkedIn"
+],
+"roles": [
+"operations manager"
+],
+"links": {
+"LinkedIn": "https://bh.linkedin.com/jobs/view/team-leader-%E2%80%93-housekeeping-%E2%80%93-jumeirah-gulf-of-bahrain-at-jumeirah-4414676675"
+},
+"families": [
+"Project & management"
+]
+},
+{
 "title": "Project Manager - Treasury, Risk, Finance",
 "company": "Virtu Thinko",
 "location": "Bahrain - Manama",
@@ -11341,7 +11670,6 @@
 "banking operations",
 "treasury operations",
 "bank",
-"risk",
 "project manager"
 ],
 "links": {
@@ -11349,7 +11677,6 @@
 },
 "families": [
 "Banking & finance ops",
-"Compliance, risk & audit",
 "Project & management"
 ]
 },
@@ -11421,7 +11748,6 @@
 ],
 "roles": [
 "bank",
-"risk",
 "receptionist",
 "marketing",
 "legal"
@@ -11431,54 +11757,9 @@
 },
 "families": [
 "Banking & finance ops",
-"Compliance, risk & audit",
 "HR & admin",
 "Marketing & media",
 "Legal"
-]
-},
-{
-"title": "Senior Project Engineer",
-"company": "Reckitt Benckiser Group",
-"location": "Bahrain - Manama",
-"posted": "2026-10-15",
-"url": "https://bahrain.tanqeeb.com/jobs-in-middle-east/all/jobs/021315036.html",
-"id": "senior project engineer|reckitt benckiser group",
-"sources": [
-"Tanqeeb"
-],
-"roles": [
-"risk",
-"project engineer",
-"procurement"
-],
-"links": {
-"Tanqeeb": "https://bahrain.tanqeeb.com/jobs-in-middle-east/all/jobs/021315036.html"
-},
-"families": [
-"Compliance, risk & audit",
-"Engineering & technical",
-"Logistics & supply chain"
-]
-},
-{
-"title": "Project Manager",
-"company": "Client of Dolphin Manpower",
-"location": "Bahrain - Manama",
-"posted": "2026-10-15",
-"url": "https://bahrain.tanqeeb.com/jobs-in-middle-east/all/jobs/021313727.html",
-"id": "project manager|client of dolphin manpower",
-"sources": [
-"Tanqeeb"
-],
-"roles": [
-"risk"
-],
-"links": {
-"Tanqeeb": "https://bahrain.tanqeeb.com/jobs-in-middle-east/all/jobs/021313727.html"
-},
-"families": [
-"Compliance, risk & audit"
 ]
 },
 {
@@ -11543,6 +11824,28 @@
 },
 "families": [
 "HR & admin"
+]
+},
+{
+"title": "Senior Project Engineer",
+"company": "Reckitt Benckiser Group",
+"location": "Bahrain - Manama",
+"posted": "2026-10-15",
+"url": "https://bahrain.tanqeeb.com/jobs-in-middle-east/all/jobs/021315036.html",
+"id": "senior project engineer|reckitt benckiser group",
+"sources": [
+"Tanqeeb"
+],
+"roles": [
+"project engineer",
+"procurement"
+],
+"links": {
+"Tanqeeb": "https://bahrain.tanqeeb.com/jobs-in-middle-east/all/jobs/021315036.html"
+},
+"families": [
+"Engineering & technical",
+"Logistics & supply chain"
 ]
 },
 {
@@ -11791,26 +12094,6 @@
 ]
 },
 {
-"title": "Assistant Professor in Public Law",
-"company": "Gulf University",
-"location": "Bahrain - Manama",
-"posted": "2026-10-15",
-"url": "https://bahrain.tanqeeb.com/jobs-in-middle-east/all/jobs/021315044.html",
-"id": "assistant professor in public law|gulf university",
-"sources": [
-"Tanqeeb"
-],
-"roles": [
-"legal"
-],
-"links": {
-"Tanqeeb": "https://bahrain.tanqeeb.com/jobs-in-middle-east/all/jobs/021315044.html"
-},
-"families": [
-"Legal"
-]
-},
-{
 "title": "Production Support Engineer",
 "company": "Arab Financial Services",
 "location": "Manama, Capital Governorate, Bahrain",
@@ -11824,7 +12107,6 @@
 "banking operations",
 "operations officer",
 "operations analyst",
-"back office",
 "payments operations",
 "settlement",
 "reconciliation",
@@ -11912,7 +12194,6 @@
 "financial analyst",
 "accounts payable",
 "payroll",
-"project engineer",
 "project manager"
 ],
 "links": {
@@ -11924,7 +12205,6 @@
 "Relationship & client mgmt",
 "Accounting & finance",
 "HR & admin",
-"Engineering & technical",
 "Project & management"
 ]
 },
@@ -12046,7 +12326,7 @@
 "back office",
 "reconciliation",
 "data analyst",
-"logistics",
+"procurement",
 "supply chain",
 "warehouse"
 ],
@@ -12072,7 +12352,6 @@
 "roles": [
 "operations analyst",
 "KYC",
-"AML",
 "risk",
 "corporate banking",
 "accountant",
@@ -12108,7 +12387,6 @@
 ],
 "roles": [
 "back office",
-"settlement",
 "credit administration",
 "credit operations",
 "accountant",
@@ -12119,6 +12397,7 @@
 "secretary",
 "receptionist",
 "retail",
+"procurement",
 "legal"
 ],
 "links": {
@@ -12130,6 +12409,7 @@
 "Accounting & finance",
 "HR & admin",
 "Retail",
+"Logistics & supply chain",
 "Legal"
 ]
 },
@@ -12178,8 +12458,8 @@
 "customer service",
 "call centre",
 "front office",
-"retail",
-"cashier"
+"cashier",
+"retail"
 ],
 "links": {
 "LinkedIn": "https://bh.linkedin.com/jobs/view/customer-experience-associate-at-calo-inc-4478801070",
@@ -12377,8 +12657,7 @@
 "roles": [
 "HR operations",
 "HR officer",
-"recruiter",
-"office manager"
+"recruiter"
 ],
 "links": {
 "LinkedIn": "https://bh.linkedin.com/jobs/view/human-resources-business-partner-at-azadea-group-4476655243"
@@ -12398,7 +12677,6 @@
 "LinkedIn"
 ],
 "roles": [
-"administration officer",
 "secretary",
 "receptionist",
 "customer service",
@@ -12427,7 +12705,6 @@
 "LinkedIn"
 ],
 "roles": [
-"administration officer",
 "secretary",
 "receptionist",
 "customer service",
@@ -12444,6 +12721,26 @@
 "Customer service",
 "Hospitality & F&B",
 "Retail"
+]
+},
+{
+"title": "Oracle Fusion Service Functional Consultant",
+"company": "BlackStone eIT",
+"location": "Bahrain",
+"posted": "2026-10-14",
+"url": "https://bh.linkedin.com/jobs/view/oracle-fusion-service-functional-consultant-at-blackstone-eit-4479598562",
+"id": "oracle fusion service functional consultant|blackstone eit",
+"sources": [
+"LinkedIn"
+],
+"roles": [
+"IT support"
+],
+"links": {
+"LinkedIn": "https://bh.linkedin.com/jobs/view/oracle-fusion-service-functional-consultant-at-blackstone-eit-4479598562"
+},
+"families": [
+"IT & software"
 ]
 },
 {
@@ -12916,7 +13213,6 @@
 "credit administration",
 "credit operations",
 "treasury operations",
-"compliance",
 "internal control",
 "audit",
 "accountant",
@@ -13026,6 +13322,7 @@
 "sales executive",
 "business development",
 "marketing",
+"procurement",
 "supply chain"
 ],
 "links": {
@@ -13107,7 +13404,6 @@
 ],
 "roles": [
 "settlement",
-"AML",
 "client onboarding",
 "compliance",
 "financial crime",
@@ -13116,8 +13412,7 @@
 "financial analyst",
 "government relations",
 "legal",
-"lawyer",
-"project manager"
+"lawyer"
 ],
 "links": {
 "LinkedIn": "https://bh.linkedin.com/jobs/view/international-tax-advisory-manager-or-senior-manager-bahrain-at-ey-4449580186"
@@ -13127,31 +13422,6 @@
 "Compliance, risk & audit",
 "Accounting & finance",
 "HR & admin",
-"Legal",
-"Project & management"
-]
-},
-{
-"title": "Corporate Lawyer",
-"company": "IDEX Consulting Ltd",
-"location": "Manama, Capital Governorate, Bahrain",
-"posted": "2026-10-13",
-"url": "https://bh.linkedin.com/jobs/view/corporate-lawyer-at-idex-consulting-ltd-4477981614",
-"id": "corporate lawyer|idex consulting ltd",
-"sources": [
-"LinkedIn"
-],
-"roles": [
-"AML",
-"financial crime",
-"legal",
-"lawyer"
-],
-"links": {
-"LinkedIn": "https://bh.linkedin.com/jobs/view/corporate-lawyer-at-idex-consulting-ltd-4477981614"
-},
-"families": [
-"Compliance, risk & audit",
 "Legal"
 ]
 },
@@ -13199,6 +13469,29 @@
 },
 "families": [
 "Compliance, risk & audit"
+]
+},
+{
+"title": "Corporate Lawyer",
+"company": "IDEX Consulting Ltd",
+"location": "Manama, Capital Governorate, Bahrain",
+"posted": "2026-10-13",
+"url": "https://bh.linkedin.com/jobs/view/corporate-lawyer-at-idex-consulting-ltd-4477981614",
+"id": "corporate lawyer|idex consulting ltd",
+"sources": [
+"LinkedIn"
+],
+"roles": [
+"financial crime",
+"legal",
+"lawyer"
+],
+"links": {
+"LinkedIn": "https://bh.linkedin.com/jobs/view/corporate-lawyer-at-idex-consulting-ltd-4477981614"
+},
+"families": [
+"Compliance, risk & audit",
+"Legal"
 ]
 },
 {
@@ -13257,7 +13550,7 @@
 "LinkedIn"
 ],
 "roles": [
-"digital marketing"
+"social media"
 ],
 "links": {
 "LinkedIn": "https://bh.linkedin.com/jobs/view/videographer-photographer-at-alzayani-investments-4476412140"
@@ -13614,33 +13907,6 @@
 ]
 },
 {
-"title": "Senior Coordinator of Career Center",
-"company": "American University of Bahrain (AUBH)",
-"location": "Riffa, Southern Governorate, Bahrain",
-"posted": "2026-10-12",
-"url": "https://bh.linkedin.com/jobs/view/senior-coordinator-of-career-center-at-american-university-of-bahrain-aubh-4478525854",
-"id": "senior coordinator of career center|american university of bahrain aubh",
-"sources": [
-"LinkedIn"
-],
-"roles": [
-"back office",
-"HR operations",
-"HR officer",
-"recruiter",
-"administration officer",
-"office manager",
-"secretary"
-],
-"links": {
-"LinkedIn": "https://bh.linkedin.com/jobs/view/senior-coordinator-of-career-center-at-american-university-of-bahrain-aubh-4478525854"
-},
-"families": [
-"Banking & finance ops",
-"HR & admin"
-]
-},
-{
 "title": "Manager | Audit & Assurance | Controls Assurance | Bahrain",
 "company": "Deloitte",
 "location": "Manama, Capital Governorate, Bahrain",
@@ -13653,7 +13919,6 @@
 "roles": [
 "reconciliation",
 "KYC",
-"AML",
 "client onboarding",
 "compliance",
 "financial crime",
@@ -13757,6 +14022,31 @@
 ]
 },
 {
+"title": "Senior Coordinator of Career Center",
+"company": "American University of Bahrain (AUBH)",
+"location": "Riffa, Southern Governorate, Bahrain",
+"posted": "2026-10-12",
+"url": "https://bh.linkedin.com/jobs/view/senior-coordinator-of-career-center-at-american-university-of-bahrain-aubh-4478525854",
+"id": "senior coordinator of career center|american university of bahrain aubh",
+"sources": [
+"LinkedIn"
+],
+"roles": [
+"HR operations",
+"HR officer",
+"recruiter",
+"administration officer",
+"office manager",
+"secretary"
+],
+"links": {
+"LinkedIn": "https://bh.linkedin.com/jobs/view/senior-coordinator-of-career-center-at-american-university-of-bahrain-aubh-4478525854"
+},
+"families": [
+"HR & admin"
+]
+},
+{
 "title": "Boutique manager Bahrain - Marassi",
 "company": "Christian Dior Couture",
 "location": "Manama, Capital Governorate, Bahrain",
@@ -13795,6 +14085,7 @@
 ],
 "roles": [
 "receptionist",
+"customer service",
 "front office"
 ],
 "links": {
@@ -13802,6 +14093,7 @@
 },
 "families": [
 "HR & admin",
+"Customer service",
 "Hospitality & F&B"
 ]
 },
@@ -13869,6 +14161,30 @@
 ]
 },
 {
+"title": "Category Manager",
+"company": "talabat",
+"location": "Manama, Capital Governorate, Bahrain",
+"posted": "2026-10-12",
+"url": "https://bh.linkedin.com/jobs/view/category-manager-at-talabat-4460012236",
+"id": "category manager|talabat",
+"sources": [
+"LinkedIn"
+],
+"roles": [
+"sales manager",
+"marketing",
+"procurement"
+],
+"links": {
+"LinkedIn": "https://bh.linkedin.com/jobs/view/category-manager-at-talabat-4460012236"
+},
+"families": [
+"Sales & business dev",
+"Marketing & media",
+"Logistics & supply chain"
+]
+},
+{
 "title": "Assistant Marketing Manager",
 "company": "Confidential Careers",
 "location": "Manama, Capital Governorate, Bahrain",
@@ -13891,28 +14207,6 @@
 "families": [
 "Marketing & media",
 "Retail"
-]
-},
-{
-"title": "Category Manager",
-"company": "talabat",
-"location": "Manama, Capital Governorate, Bahrain",
-"posted": "2026-10-12",
-"url": "https://bh.linkedin.com/jobs/view/category-manager-at-talabat-4460012236",
-"id": "category manager|talabat",
-"sources": [
-"LinkedIn"
-],
-"roles": [
-"marketing",
-"supply chain"
-],
-"links": {
-"LinkedIn": "https://bh.linkedin.com/jobs/view/category-manager-at-talabat-4460012236"
-},
-"families": [
-"Marketing & media",
-"Logistics & supply chain"
 ]
 },
 {
@@ -14683,9 +14977,9 @@
 "operations analyst",
 "back office",
 "accounts payable",
-"administration officer",
 "retail",
 "logistics",
+"procurement",
 "supply chain",
 "warehouse"
 ],
@@ -14695,7 +14989,6 @@
 "families": [
 "Banking & finance ops",
 "Accounting & finance",
-"HR & admin",
 "Retail",
 "Logistics & supply chain"
 ]
@@ -14737,7 +15030,6 @@
 ],
 "roles": [
 "KYC",
-"AML",
 "compliance",
 "risk",
 "government relations",
@@ -14885,7 +15177,6 @@
 ],
 "roles": [
 "sales executive",
-"front office",
 "retail",
 "cashier"
 ],
@@ -14894,7 +15185,6 @@
 },
 "families": [
 "Sales & business dev",
-"Hospitality & F&B",
 "Retail"
 ]
 },
@@ -14944,26 +15234,6 @@
 },
 "families": [
 "HR & admin",
-"Healthcare"
-]
-},
-{
-"title": "Residence Guest Service Agent",
-"company": "Four Seasons",
-"location": "Bahrain - Manama",
-"posted": "2026-10-11",
-"url": "https://bahrain.tanqeeb.com/jobs-in-middle-east/all/jobs/021303742.html",
-"id": "residence guest service agent|four seasons",
-"sources": [
-"Tanqeeb"
-],
-"roles": [
-"doctor"
-],
-"links": {
-"Tanqeeb": "https://bahrain.tanqeeb.com/jobs-in-middle-east/all/jobs/021303742.html"
-},
-"families": [
 "Healthcare"
 ]
 },
@@ -15043,7 +15313,6 @@
 "roles": [
 "account manager",
 "marketing",
-"doctor",
 "medical"
 ],
 "links": {
@@ -15122,28 +15391,6 @@
 ]
 },
 {
-"title": "Expressions of Interest - MCC Engineer",
-"company": "Aviation JobSearch Europa",
-"location": "Bahrain",
-"posted": "2026-10-09",
-"url": "https://bh.linkedin.com/jobs/view/expressions-of-interest-mcc-engineer-at-aviation-jobsearch-europa-4478507318",
-"id": "expressions of interest mcc engineer|aviation jobsearch europa",
-"sources": [
-"LinkedIn"
-],
-"roles": [
-"mechanical engineer",
-"electrical engineer",
-"technician"
-],
-"links": {
-"LinkedIn": "https://bh.linkedin.com/jobs/view/expressions-of-interest-mcc-engineer-at-aviation-jobsearch-europa-4478507318"
-},
-"families": [
-"Engineering & technical"
-]
-},
-{
 "title": "Radio Frequency Engineer",
 "company": "SAIC",
 "location": "Riffa, Southern Governorate, Bahrain",
@@ -15158,6 +15405,26 @@
 ],
 "links": {
 "LinkedIn": "https://bh.linkedin.com/jobs/view/radio-frequency-engineer-at-saic-4459660831"
+},
+"families": [
+"Engineering & technical"
+]
+},
+{
+"title": "Expressions of Interest - MCC Engineer",
+"company": "Aviation JobSearch Europa",
+"location": "Bahrain",
+"posted": "2026-10-09",
+"url": "https://bh.linkedin.com/jobs/view/expressions-of-interest-mcc-engineer-at-aviation-jobsearch-europa-4478507318",
+"id": "expressions of interest mcc engineer|aviation jobsearch europa",
+"sources": [
+"LinkedIn"
+],
+"roles": [
+"electrical engineer"
+],
+"links": {
+"LinkedIn": "https://bh.linkedin.com/jobs/view/expressions-of-interest-mcc-engineer-at-aviation-jobsearch-europa-4478507318"
 },
 "families": [
 "Engineering & technical"
@@ -15268,26 +15535,6 @@
 ]
 },
 {
-"title": "Expressions of Interest - Engineering Director",
-"company": "Aviation JobSearch Europa",
-"location": "Bahrain",
-"posted": "2026-10-09",
-"url": "https://bh.linkedin.com/jobs/view/expressions-of-interest-engineering-director-at-aviation-jobsearch-europa-4478501659",
-"id": "expressions of interest engineering director|aviation jobsearch europa",
-"sources": [
-"LinkedIn"
-],
-"roles": [
-"project manager"
-],
-"links": {
-"LinkedIn": "https://bh.linkedin.com/jobs/view/expressions-of-interest-engineering-director-at-aviation-jobsearch-europa-4478501659"
-},
-"families": [
-"Project & management"
-]
-},
-{
 "title": "Microsoft Platform Lead",
 "company": "Arab Banking corporation",
 "location": "Bahrain - Manama",
@@ -15356,7 +15603,6 @@
 "roles": [
 "back office",
 "accountant",
-"doctor",
 "procurement",
 "warehouse"
 ],
@@ -15366,7 +15612,6 @@
 "families": [
 "Banking & finance ops",
 "Accounting & finance",
-"Healthcare",
 "Logistics & supply chain"
 ]
 },
@@ -15511,7 +15756,6 @@
 ],
 "roles": [
 "accountant",
-"marketing",
 "restaurant"
 ],
 "links": {
@@ -15519,7 +15763,6 @@
 },
 "families": [
 "Accounting & finance",
-"Marketing & media",
 "Hospitality & F&B"
 ]
 },
@@ -15647,50 +15890,6 @@
 "families": [
 "Engineering & technical",
 "Healthcare"
-]
-},
-{
-"title": "Sales Executive",
-"company": "Synthesis Trading W.L.L.",
-"location": "Bahrain - Muharraq government",
-"posted": "2026-10-09",
-"url": "https://bahrain.tanqeeb.com/jobs-in-middle-east/all/jobs/021300195.html",
-"id": "sales executive|synthesis trading w l l",
-"sources": [
-"Tanqeeb"
-],
-"roles": [
-"marketing",
-"procurement"
-],
-"links": {
-"Tanqeeb": "https://bahrain.tanqeeb.com/jobs-in-middle-east/all/jobs/021300195.html"
-},
-"families": [
-"Marketing & media",
-"Logistics & supply chain"
-]
-},
-{
-"title": "Aircraft Mechanic",
-"company": "V2x",
-"location": "Bahrain - Manama",
-"posted": "2026-10-09",
-"url": "https://bahrain.tanqeeb.com/jobs-in-middle-east/all/jobs/021297760.html",
-"id": "aircraft mechanic|v2x",
-"sources": [
-"Tanqeeb"
-],
-"roles": [
-"doctor",
-"logistics"
-],
-"links": {
-"Tanqeeb": "https://bahrain.tanqeeb.com/jobs-in-middle-east/all/jobs/021297760.html"
-},
-"families": [
-"Healthcare",
-"Logistics & supply chain"
 ]
 },
 {
@@ -15837,6 +16036,26 @@
 ]
 },
 {
+"title": "Sales Executive",
+"company": "Synthesis Trading W.L.L.",
+"location": "Bahrain - Muharraq government",
+"posted": "2026-10-09",
+"url": "https://bahrain.tanqeeb.com/jobs-in-middle-east/all/jobs/021300195.html",
+"id": "sales executive|synthesis trading w l l",
+"sources": [
+"Tanqeeb"
+],
+"roles": [
+"procurement"
+],
+"links": {
+"Tanqeeb": "https://bahrain.tanqeeb.com/jobs-in-middle-east/all/jobs/021300195.html"
+},
+"families": [
+"Logistics & supply chain"
+]
+},
+{
 "title": "Credit Controller",
 "company": "Bureau Veritas",
 "location": "Manama, Capital Governorate, Bahrain",
@@ -15919,6 +16138,7 @@
 "operations officer",
 "office manager",
 "receptionist",
+"customer service",
 "call centre",
 "hotel",
 "front office",
@@ -15937,31 +16157,6 @@
 "Hospitality & F&B",
 "Retail",
 "Project & management"
-]
-},
-{
-"title": "Fire & Gas Technicians - Bahrain",
-"company": "VINCI Energies",
-"location": "Riffa, Southern Governorate, Bahrain",
-"posted": "2026-10-08",
-"url": "https://bh.linkedin.com/jobs/view/fire-gas-technicians-bahrain-at-vinci-energies-4476920728",
-"id": "fire gas technicians bahrain|vinci energies",
-"sources": [
-"LinkedIn"
-],
-"roles": [
-"compliance",
-"mechanical engineer",
-"electrical engineer",
-"project engineer",
-"technician"
-],
-"links": {
-"LinkedIn": "https://bh.linkedin.com/jobs/view/fire-gas-technicians-bahrain-at-vinci-energies-4476920728"
-},
-"families": [
-"Compliance, risk & audit",
-"Engineering & technical"
 ]
 },
 {
@@ -16024,6 +16219,28 @@
 ],
 "links": {
 "LinkedIn": "https://bh.linkedin.com/jobs/view/electrical-draftsman-at-nass-group-corporation-4477115126"
+},
+"families": [
+"Engineering & technical"
+]
+},
+{
+"title": "Fire & Gas Technicians - Bahrain",
+"company": "VINCI Energies",
+"location": "Riffa, Southern Governorate, Bahrain",
+"posted": "2026-10-08",
+"url": "https://bh.linkedin.com/jobs/view/fire-gas-technicians-bahrain-at-vinci-energies-4476920728",
+"id": "fire gas technicians bahrain|vinci energies",
+"sources": [
+"LinkedIn"
+],
+"roles": [
+"electrical engineer",
+"project engineer",
+"technician"
+],
+"links": {
+"LinkedIn": "https://bh.linkedin.com/jobs/view/fire-gas-technicians-bahrain-at-vinci-energies-4476920728"
 },
 "families": [
 "Engineering & technical"
@@ -16315,26 +16532,6 @@
 ]
 },
 {
-"title": "Barista",
-"company": "Downtown Rotana",
-"location": "Bahrain - Manama",
-"posted": "2026-10-08",
-"url": "https://bahrain.tanqeeb.com/jobs-in-middle-east/all/jobs/021295742.html",
-"id": "barista|downtown rotana",
-"sources": [
-"Tanqeeb"
-],
-"roles": [
-"customer service"
-],
-"links": {
-"Tanqeeb": "https://bahrain.tanqeeb.com/jobs-in-middle-east/all/jobs/021295742.html"
-},
-"families": [
-"Customer service"
-]
-},
-{
 "title": "Demi Chef De Partie (Hot Kitchen)",
 "company": "AccorHotels Middle East",
 "location": "Bahrain - Manama",
@@ -16416,6 +16613,26 @@
 ]
 },
 {
+"title": "Aircraft Mechanic",
+"company": "V2x",
+"location": "Bahrain - Manama",
+"posted": "2026-10-08",
+"url": "https://bahrain.tanqeeb.com/jobs-in-middle-east/all/jobs/021295746.html",
+"id": "aircraft mechanic|v2x",
+"sources": [
+"Tanqeeb"
+],
+"roles": [
+"logistics"
+],
+"links": {
+"Tanqeeb": "https://bahrain.tanqeeb.com/jobs-in-middle-east/all/jobs/021295746.html"
+},
+"families": [
+"Logistics & supply chain"
+]
+},
+{
 "title": "Procurement Coordinator",
 "company": "Zenvia E-Commerce Trading",
 "location": "Bahrain - Manama",
@@ -16476,7 +16693,6 @@
 ],
 "roles": [
 "bank",
-"AML",
 "software engineer",
 "data analyst"
 ],
@@ -16485,7 +16701,6 @@
 },
 "families": [
 "Banking & finance ops",
-"Compliance, risk & audit",
 "IT & software"
 ]
 },
@@ -16592,6 +16807,7 @@
 "LinkedIn"
 ],
 "roles": [
+"customer service",
 "hotel",
 "restaurant",
 "front office",
@@ -16601,6 +16817,7 @@
 "LinkedIn": "https://bh.linkedin.com/jobs/view/waiter-at-wyndham-hotels-resorts-emea-4474468445"
 },
 "families": [
+"Customer service",
 "Hospitality & F&B",
 "Retail"
 ]
@@ -16743,7 +16960,6 @@
 "roles": [
 "internal control",
 "audit",
-"accountant",
 "administration officer",
 "software engineer",
 "warehouse",
@@ -16754,7 +16970,6 @@
 },
 "families": [
 "Compliance, risk & audit",
-"Accounting & finance",
 "HR & admin",
 "IT & software",
 "Logistics & supply chain",
@@ -16982,13 +17197,15 @@
 ],
 "roles": [
 "finance officer",
-"financial analyst"
+"financial analyst",
+"procurement"
 ],
 "links": {
 "LinkedIn": "https://bh.linkedin.com/jobs/view/quantity-surveyor-at-nass-group-corporation-4476179122"
 },
 "families": [
-"Accounting & finance"
+"Accounting & finance",
+"Logistics & supply chain"
 ]
 },
 {
@@ -17002,7 +17219,6 @@
 "LinkedIn"
 ],
 "roles": [
-"mechanical engineer",
 "electrical engineer",
 "civil engineer",
 "project engineer",
@@ -17251,39 +17467,13 @@
 "Tanqeeb"
 ],
 "roles": [
-"audit",
-"accountant"
+"audit"
 ],
 "links": {
 "Tanqeeb": "https://bahrain.tanqeeb.com/jobs-in-middle-east/all/jobs/021291318.html"
 },
 "families": [
-"Compliance, risk & audit",
-"Accounting & finance"
-]
-},
-{
-"title": "Online Marketing Manager",
-"company": "Zenvia E-Commerce Trading",
-"location": "Bahrain - Manama",
-"posted": "2026-10-06",
-"url": "https://bahrain.tanqeeb.com/jobs-in-bahrain/all/jobs/021290600.html",
-"id": "online marketing manager|zenvia e commerce trading",
-"sources": [
-"Tanqeeb"
-],
-"roles": [
-"audit",
-"retail",
-"warehouse"
-],
-"links": {
-"Tanqeeb": "https://bahrain.tanqeeb.com/jobs-in-bahrain/all/jobs/021290600.html"
-},
-"families": [
-"Compliance, risk & audit",
-"Retail",
-"Logistics & supply chain"
+"Compliance, risk & audit"
 ]
 },
 {
@@ -17390,6 +17580,28 @@
 ]
 },
 {
+"title": "Online Marketing Manager",
+"company": "Zenvia E-Commerce Trading",
+"location": "Bahrain - Manama",
+"posted": "2026-10-06",
+"url": "https://bahrain.tanqeeb.com/jobs-in-bahrain/all/jobs/021290600.html",
+"id": "online marketing manager|zenvia e commerce trading",
+"sources": [
+"Tanqeeb"
+],
+"roles": [
+"retail",
+"warehouse"
+],
+"links": {
+"Tanqeeb": "https://bahrain.tanqeeb.com/jobs-in-bahrain/all/jobs/021290600.html"
+},
+"families": [
+"Retail",
+"Logistics & supply chain"
+]
+},
+{
 "title": "Project Manager, QC Inspector, Procurement Executive - Nass Bahrain",
 "company": "Ambe International",
 "location": "Bahrain - Manama",
@@ -17468,30 +17680,6 @@
 ]
 },
 {
-"title": "Project Manager - Marine",
-"company": "NASS Group & Corporation",
-"location": "Bahrain",
-"posted": "2026-10-05",
-"url": "https://bh.linkedin.com/jobs/view/project-manager-marine-at-nass-group-corporation-4475808672",
-"id": "project manager marine|nass group corporation",
-"sources": [
-"LinkedIn"
-],
-"roles": [
-"settlement",
-"civil engineer",
-"project manager"
-],
-"links": {
-"LinkedIn": "https://bh.linkedin.com/jobs/view/project-manager-marine-at-nass-group-corporation-4475808672"
-},
-"families": [
-"Banking & finance ops",
-"Engineering & technical",
-"Project & management"
-]
-},
-{
 "title": "Certified Senior Outsystems Developer",
 "company": "ARRAY INNOVATION",
 "location": "Manama, Capital Governorate, Bahrain",
@@ -17505,10 +17693,10 @@
 "bank",
 "KYC",
 "AML",
+"client onboarding",
 "financial crime",
 "software engineer",
-"cyber security",
-"project engineer"
+"cyber security"
 ],
 "links": {
 "LinkedIn": "https://bh.linkedin.com/jobs/view/certified-senior-outsystems-developer-at-array-innovation-4475596550"
@@ -17516,8 +17704,7 @@
 "families": [
 "Banking & finance ops",
 "Compliance, risk & audit",
-"IT & software",
-"Engineering & technical"
+"IT & software"
 ]
 },
 {
@@ -17535,7 +17722,6 @@
 "HR officer",
 "recruiter",
 "administration officer",
-"office manager",
 "secretary"
 ],
 "links": {
@@ -17573,6 +17759,28 @@
 "Customer service",
 "Hospitality & F&B",
 "Retail"
+]
+},
+{
+"title": "Project Manager - Marine",
+"company": "NASS Group & Corporation",
+"location": "Bahrain",
+"posted": "2026-10-05",
+"url": "https://bh.linkedin.com/jobs/view/project-manager-marine-at-nass-group-corporation-4475808672",
+"id": "project manager marine|nass group corporation",
+"sources": [
+"LinkedIn"
+],
+"roles": [
+"civil engineer",
+"project manager"
+],
+"links": {
+"LinkedIn": "https://bh.linkedin.com/jobs/view/project-manager-marine-at-nass-group-corporation-4475808672"
+},
+"families": [
+"Engineering & technical",
+"Project & management"
 ]
 },
 {
@@ -17673,7 +17881,7 @@
 "LinkedIn"
 ],
 "roles": [
-"logistics",
+"procurement",
 "supply chain"
 ],
 "links": {
@@ -17740,7 +17948,6 @@
 "reconciliation",
 "bank",
 "internal control",
-"audit",
 "accounts payable"
 ],
 "links": {
@@ -17942,46 +18149,6 @@
 ]
 },
 {
-"title": "Demi Chef de Partie (Cafeteria)",
-"company": "Sheraton",
-"location": "Bahrain - Manama",
-"posted": "2026-10-05",
-"url": "https://bahrain.tanqeeb.com/jobs-in-middle-east/all/jobs/021288312.html",
-"id": "demi chef de partie cafeteria|sheraton",
-"sources": [
-"Tanqeeb"
-],
-"roles": [
-"chef"
-],
-"links": {
-"Tanqeeb": "https://bahrain.tanqeeb.com/jobs-in-middle-east/all/jobs/021288312.html"
-},
-"families": [
-"Hospitality & F&B"
-]
-},
-{
-"title": "Junior Sous Chef",
-"company": "Four Seasons",
-"location": "Bahrain - Manama",
-"posted": "2026-10-05",
-"url": "https://bahrain.tanqeeb.com/jobs-in-middle-east/all/jobs/021288285.html",
-"id": "junior sous chef|four seasons",
-"sources": [
-"Tanqeeb"
-],
-"roles": [
-"chef"
-],
-"links": {
-"Tanqeeb": "https://bahrain.tanqeeb.com/jobs-in-middle-east/all/jobs/021288285.html"
-},
-"families": [
-"Hospitality & F&B"
-]
-},
-{
 "title": "HVAC Technician",
 "company": "The Ritz-Carlton",
 "location": "Bahrain - Manama",
@@ -18043,6 +18210,32 @@
 ]
 },
 {
+"title": "Marketing & Admin Coordinator",
+"company": "Qureos",
+"location": "Manama, Capital Governorate, Bahrain",
+"posted": "2026-10-04",
+"url": "https://bh.linkedin.com/jobs/view/marketing-admin-coordinator-at-qureos-4474218089",
+"id": "marketing admin coordinator|qureos",
+"sources": [
+"LinkedIn",
+"Tanqeeb"
+],
+"roles": [
+"back office",
+"office manager",
+"social media"
+],
+"links": {
+"LinkedIn": "https://bh.linkedin.com/jobs/view/marketing-admin-coordinator-at-qureos-4474218089",
+"Tanqeeb": "https://bahrain.tanqeeb.com/jobs-in-middle-east/all/jobs/021287759.html"
+},
+"families": [
+"Banking & finance ops",
+"HR & admin",
+"Marketing & media"
+]
+},
+{
 "title": "Guest Experience Expert",
 "company": "Sheraton Hotels & Resorts",
 "location": "Manama, Capital Governorate, Bahrain",
@@ -18089,29 +18282,6 @@
 },
 "families": [
 "IT & software"
-]
-},
-{
-"title": "Marketing & Admin Coordinator",
-"company": "Qureos",
-"location": "Manama, Capital Governorate, Bahrain",
-"posted": "2026-10-04",
-"url": "https://bh.linkedin.com/jobs/view/marketing-admin-coordinator-at-qureos-4474218089",
-"id": "marketing admin coordinator|qureos",
-"sources": [
-"LinkedIn",
-"Tanqeeb"
-],
-"roles": [
-"digital marketing",
-"social media"
-],
-"links": {
-"LinkedIn": "https://bh.linkedin.com/jobs/view/marketing-admin-coordinator-at-qureos-4474218089",
-"Tanqeeb": "https://bahrain.tanqeeb.com/jobs-in-middle-east/all/jobs/021287759.html"
-},
-"families": [
-"Marketing & media"
 ]
 },
 {
@@ -18332,28 +18502,6 @@
 ]
 },
 {
-"title": "Housekeeping Team Leader",
-"company": "ibis, ibis Styles, ibis budget",
-"location": "Manama, Capital Governorate, Bahrain",
-"posted": "2026-10-01",
-"url": "https://bh.linkedin.com/jobs/view/housekeeping-team-leader-at-ibis-ibis-styles-ibis-budget-4472570138",
-"id": "housekeeping team leader|ibis ibis styles ibis budget",
-"sources": [
-"LinkedIn"
-],
-"roles": [
-"office manager",
-"operations manager"
-],
-"links": {
-"LinkedIn": "https://bh.linkedin.com/jobs/view/housekeeping-team-leader-at-ibis-ibis-styles-ibis-budget-4472570138"
-},
-"families": [
-"HR & admin",
-"Project & management"
-]
-},
-{
 "title": "Hostess",
 "company": "Raffles Al Areen Palace Bahrain",
 "location": "Manama, Capital Governorate, Bahrain",
@@ -18456,13 +18604,15 @@
 "LinkedIn"
 ],
 "roles": [
-"civil engineer"
+"civil engineer",
+"procurement"
 ],
 "links": {
 "LinkedIn": "https://bh.linkedin.com/jobs/view/estimator-at-nass-group-corporation-4474176803"
 },
 "families": [
-"Engineering & technical"
+"Engineering & technical",
+"Logistics & supply chain"
 ]
 },
 {
@@ -18563,7 +18713,6 @@
 "Tanqeeb"
 ],
 "roles": [
-"digital marketing",
 "retail",
 "supply chain"
 ],
@@ -18572,9 +18721,28 @@
 "Tanqeeb": "https://bahrain.tanqeeb.com/jobs-in-middle-east/all/jobs/021281657.html"
 },
 "families": [
-"Marketing & media",
 "Retail",
 "Logistics & supply chain"
+]
+},
+{
+"title": "Housekeeping Team Leader",
+"company": "ibis, ibis Styles, ibis budget",
+"location": "Manama, Capital Governorate, Bahrain",
+"posted": "2026-10-01",
+"url": "https://bh.linkedin.com/jobs/view/housekeeping-team-leader-at-ibis-ibis-styles-ibis-budget-4472570138",
+"id": "housekeeping team leader|ibis ibis styles ibis budget",
+"sources": [
+"LinkedIn"
+],
+"roles": [
+"operations manager"
+],
+"links": {
+"LinkedIn": "https://bh.linkedin.com/jobs/view/housekeeping-team-leader-at-ibis-ibis-styles-ibis-budget-4472570138"
+},
+"families": [
+"Project & management"
 ]
 },
 {
@@ -18737,6 +18905,112 @@
 },
 "families": [
 "Logistics & supply chain"
+]
+},
+{
+"title": "Project Manager - Core Banking",
+"company": "Virtu Thinko",
+"location": "Bahrain - Manama",
+"posted": "",
+"url": "https://bahrain.tanqeeb.com/jobs-in-middle-east/all/jobs/021357975.html",
+"id": "project manager core banking|virtu thinko",
+"sources": [
+"Tanqeeb"
+],
+"roles": [
+"banking operations",
+"payments operations",
+"credit operations",
+"bank",
+"compliance",
+"risk",
+"business development",
+"project manager"
+],
+"links": {
+"Tanqeeb": "https://bahrain.tanqeeb.com/jobs-in-middle-east/all/jobs/021357975.html"
+},
+"families": [
+"Banking & finance ops",
+"Compliance, risk & audit",
+"Sales & business dev",
+"Project & management"
+]
+},
+{
+"title": "Senior Accountant",
+"company": "Bahrain Credit",
+"location": "Bahrain - Manama",
+"posted": "",
+"url": "https://bahrain.tanqeeb.com/jobs-in-middle-east/all/jobs/021357972.html",
+"id": "senior accountant|bahrain credit",
+"sources": [
+"Tanqeeb"
+],
+"roles": [
+"banking operations",
+"payments operations",
+"reconciliation",
+"treasury operations",
+"bank",
+"compliance",
+"audit",
+"accountant",
+"legal"
+],
+"links": {
+"Tanqeeb": "https://bahrain.tanqeeb.com/jobs-in-middle-east/all/jobs/021357972.html"
+},
+"families": [
+"Banking & finance ops",
+"Compliance, risk & audit",
+"Accounting & finance",
+"Legal"
+]
+},
+{
+"title": "Regional Finance Manager",
+"company": "Gulf Air",
+"location": "Bahrain - Manama",
+"posted": "",
+"url": "https://bahrain.tanqeeb.com/jobs-in-middle-east/all/jobs/021357971.html",
+"id": "regional finance manager|gulf air",
+"sources": [
+"Tanqeeb"
+],
+"roles": [
+"banking operations",
+"back office",
+"payments operations",
+"reconciliation",
+"credit administration",
+"credit operations",
+"treasury operations",
+"bank",
+"AML",
+"compliance",
+"internal control",
+"audit",
+"risk",
+"relationship manager",
+"corporate banking",
+"accountant",
+"payroll",
+"government relations",
+"business development",
+"legal"
+],
+"links": {
+"Tanqeeb": "https://bahrain.tanqeeb.com/jobs-in-middle-east/all/jobs/021357971.html"
+},
+"families": [
+"Banking & finance ops",
+"Compliance, risk & audit",
+"Relationship & client mgmt",
+"Accounting & finance",
+"HR & admin",
+"Sales & business dev",
+"Legal"
 ]
 },
 {
@@ -19033,45 +19307,6 @@
 ]
 },
 {
-"title": "Manager Warehouse & Manual Handling",
-"company": "Dhl",
-"location": "Bahrain - Manama",
-"posted": "",
-"url": "https://bahrain.tanqeeb.com/jobs-in-middle-east/all/jobs/021337061.html",
-"id": "manager warehouse manual handling|dhl",
-"sources": [
-"Tanqeeb"
-],
-"roles": [
-"reconciliation",
-"client onboarding",
-"compliance",
-"internal control",
-"audit",
-"risk",
-"HR operations",
-"recruiter",
-"receptionist",
-"business development",
-"customer service",
-"logistics",
-"procurement",
-"supply chain",
-"warehouse"
-],
-"links": {
-"Tanqeeb": "https://bahrain.tanqeeb.com/jobs-in-middle-east/all/jobs/021337061.html"
-},
-"families": [
-"Banking & finance ops",
-"Compliance, risk & audit",
-"HR & admin",
-"Sales & business dev",
-"Customer service",
-"Logistics & supply chain"
-]
-},
-{
 "title": "IT Project Manager/Coordinator",
 "company": "Virtu Thinko",
 "location": "Bahrain - Manama",
@@ -19119,6 +19354,143 @@
 "families": [
 "Banking & finance ops",
 "Accounting & finance"
+]
+},
+{
+"title": "Laundry Valet Attendant",
+"company": "Sheraton",
+"location": "Bahrain - Manama",
+"posted": "",
+"url": "https://bahrain.tanqeeb.com/jobs-in-middle-east/all/jobs/021359059.html",
+"id": "laundry valet attendant|sheraton",
+"sources": [
+"Tanqeeb"
+],
+"roles": [
+"AML",
+"hotel",
+"legal"
+],
+"links": {
+"Tanqeeb": "https://bahrain.tanqeeb.com/jobs-in-middle-east/all/jobs/021359059.html"
+},
+"families": [
+"Compliance, risk & audit",
+"Hospitality & F&B",
+"Legal"
+]
+},
+{
+"title": "Store Manager",
+"company": "Armada Retail Concept Trading",
+"location": "Bahrain - Manama",
+"posted": "",
+"url": "https://bahrain.tanqeeb.com/jobs-in-middle-east/all/jobs/021359057.html",
+"id": "store manager|armada retail concept trading",
+"sources": [
+"Tanqeeb"
+],
+"roles": [
+"AML",
+"customer service",
+"retail",
+"store manager"
+],
+"links": {
+"Tanqeeb": "https://bahrain.tanqeeb.com/jobs-in-middle-east/all/jobs/021359057.html"
+},
+"families": [
+"Compliance, risk & audit",
+"Customer service",
+"Retail"
+]
+},
+{
+"title": "Firefighter/EMT-B",
+"company": "V2x",
+"location": "Bahrain - Manama",
+"posted": "",
+"url": "https://bahrain.tanqeeb.com/jobs-in-middle-east/all/jobs/021359056.html",
+"id": "firefighter emt b|v2x",
+"sources": [
+"Tanqeeb"
+],
+"roles": [
+"AML",
+"doctor",
+"medical",
+"logistics",
+"driver"
+],
+"links": {
+"Tanqeeb": "https://bahrain.tanqeeb.com/jobs-in-middle-east/all/jobs/021359056.html"
+},
+"families": [
+"Compliance, risk & audit",
+"Healthcare",
+"Logistics & supply chain"
+]
+},
+{
+"title": "Commis I",
+"company": "Marriott International",
+"location": "Bahrain - Manama",
+"posted": "",
+"url": "https://bahrain.tanqeeb.com/jobs-in-middle-east/all/jobs/021357976.html",
+"id": "commis i|marriott international",
+"sources": [
+"Tanqeeb"
+],
+"roles": [
+"AML",
+"chef"
+],
+"links": {
+"Tanqeeb": "https://bahrain.tanqeeb.com/jobs-in-middle-east/all/jobs/021357976.html"
+},
+"families": [
+"Compliance, risk & audit",
+"Hospitality & F&B"
+]
+},
+{
+"title": "C-12 / King Air - Lead Site Mechanic",
+"company": "Amentum",
+"location": "Bahrain - Manama",
+"posted": "",
+"url": "https://bahrain.tanqeeb.com/jobs-in-middle-east/all/jobs/021357974.html",
+"id": "c 12 king air lead site mechanic|amentum",
+"sources": [
+"Tanqeeb"
+],
+"roles": [
+"AML"
+],
+"links": {
+"Tanqeeb": "https://bahrain.tanqeeb.com/jobs-in-middle-east/all/jobs/021357974.html"
+},
+"families": [
+"Compliance, risk & audit"
+]
+},
+{
+"title": "Product Specialist - Pet Health - Remote",
+"company": "Tribe Wellness Sales",
+"location": "Bahrain - Manama",
+"posted": "",
+"url": "https://bahrain.tanqeeb.com/jobs-in-middle-east/all/jobs/021357973.html",
+"id": "product specialist pet health remote|tribe wellness sales",
+"sources": [
+"Tanqeeb"
+],
+"roles": [
+"AML"
+],
+"links": {
+"Tanqeeb": "https://bahrain.tanqeeb.com/jobs-in-middle-east/all/jobs/021357973.html"
+},
+"families": [
+"Compliance, risk & audit"
 ]
 },
 {
@@ -19627,145 +19999,30 @@
 ]
 },
 {
-"title": "Front Desk Team Leader",
-"company": "Accor",
+"title": "Galley Supervisor",
+"company": "V2x",
 "location": "Bahrain - Manama",
 "posted": "",
-"url": "https://bahrain.tanqeeb.com/jobs-in-middle-east/all/jobs/021341922.html",
-"id": "front desk team leader|accor",
+"url": "https://bahrain.tanqeeb.com/jobs-in-middle-east/all/jobs/021359055.html",
+"id": "galley supervisor|v2x",
 "sources": [
 "Tanqeeb"
 ],
 "roles": [
-"AML",
-"recruiter",
-"receptionist",
-"business development",
-"call centre",
-"hotel",
-"front office"
-],
-"links": {
-"Tanqeeb": "https://bahrain.tanqeeb.com/jobs-in-middle-east/all/jobs/021341922.html"
-},
-"families": [
-"Compliance, risk & audit",
-"HR & admin",
-"Sales & business dev",
-"Customer service",
-"Hospitality & F&B"
-]
-},
-{
-"title": "In-Room Dining Supervisor",
-"company": "Four Seasons Hotel",
-"location": "Bahrain - Manama",
-"posted": "",
-"url": "https://bahrain.tanqeeb.com/jobs-in-middle-east/all/jobs/021341920.html",
-"id": "in room dining supervisor|four seasons hotel",
-"sources": [
-"Tanqeeb"
-],
-"roles": [
-"AML",
-"hotel"
-],
-"links": {
-"Tanqeeb": "https://bahrain.tanqeeb.com/jobs-in-middle-east/all/jobs/021341920.html"
-},
-"families": [
-"Compliance, risk & audit",
-"Hospitality & F&B"
-]
-},
-{
-"title": "Restaurant General Manager",
-"company": "AccorHotels Middle East",
-"location": "Bahrain - Manama",
-"posted": "",
-"url": "https://bahrain.tanqeeb.com/jobs-in-middle-east/all/jobs/021341530.html",
-"id": "restaurant general manager|accorhotels middle east",
-"sources": [
-"Tanqeeb"
-],
-"roles": [
-"AML",
 "compliance",
-"recruiter",
-"business development",
-"hotel",
-"restaurant",
-"chef"
-],
-"links": {
-"Tanqeeb": "https://bahrain.tanqeeb.com/jobs-in-middle-east/all/jobs/021341530.html"
-},
-"families": [
-"Compliance, risk & audit",
-"HR & admin",
-"Sales & business dev",
-"Hospitality & F&B"
-]
-},
-{
-"title": "Front Desk Team Leader",
-"company": "AccorHotels Middle East",
-"location": "Bahrain - Manama",
-"posted": "",
-"url": "https://bahrain.tanqeeb.com/jobs-in-middle-east/all/jobs/021338237.html",
-"id": "front desk team leader|accorhotels middle east",
-"sources": [
-"Tanqeeb"
-],
-"roles": [
-"AML",
-"recruiter",
-"receptionist",
-"business development",
-"call centre",
-"hotel",
-"front office"
-],
-"links": {
-"Tanqeeb": "https://bahrain.tanqeeb.com/jobs-in-middle-east/all/jobs/021338237.html"
-},
-"families": [
-"Compliance, risk & audit",
-"HR & admin",
-"Sales & business dev",
-"Customer service",
-"Hospitality & F&B"
-]
-},
-{
-"title": "Intern - Bahrain",
-"company": "Delivery Hero SE",
-"location": "Bahrain - Manama",
-"posted": "",
-"url": "https://bahrain.tanqeeb.com/jobs-in-middle-east/all/jobs/021336966.html",
-"id": "intern bahrain|delivery hero se",
-"sources": [
-"Tanqeeb"
-],
-"roles": [
-"client onboarding",
-"HR operations",
-"recruiter",
-"receptionist",
-"business development",
-"marketing",
 "doctor",
+"chef",
+"cashier",
 "logistics"
 ],
 "links": {
-"Tanqeeb": "https://bahrain.tanqeeb.com/jobs-in-middle-east/all/jobs/021336966.html"
+"Tanqeeb": "https://bahrain.tanqeeb.com/jobs-in-middle-east/all/jobs/021359055.html"
 },
 "families": [
 "Compliance, risk & audit",
-"HR & admin",
-"Sales & business dev",
-"Marketing & media",
 "Healthcare",
+"Hospitality & F&B",
+"Retail",
 "Logistics & supply chain"
 ]
 },
@@ -19867,6 +20124,34 @@
 ]
 },
 {
+"title": "Restaurant General Manager",
+"company": "AccorHotels Middle East",
+"location": "Bahrain - Manama",
+"posted": "",
+"url": "https://bahrain.tanqeeb.com/jobs-in-middle-east/all/jobs/021341530.html",
+"id": "restaurant general manager|accorhotels middle east",
+"sources": [
+"Tanqeeb"
+],
+"roles": [
+"compliance",
+"recruiter",
+"business development",
+"hotel",
+"restaurant",
+"chef"
+],
+"links": {
+"Tanqeeb": "https://bahrain.tanqeeb.com/jobs-in-middle-east/all/jobs/021341530.html"
+},
+"families": [
+"Compliance, risk & audit",
+"HR & admin",
+"Sales & business dev",
+"Hospitality & F&B"
+]
+},
+{
 "title": "Contract Manager",
 "company": "EMCO Company W.L.L",
 "location": "Bahrain - Manama",
@@ -19900,54 +20185,35 @@
 ]
 },
 {
-"title": "Assistant Director of Sales",
+"title": "Multi-Property General Manager",
 "company": "Marriott International",
 "location": "Bahrain - Manama",
 "posted": "",
-"url": "https://bahrain.tanqeeb.com/jobs-in-middle-east/all/jobs/021337330.html",
-"id": "assistant director of sales|marriott international",
+"url": "https://bahrain.tanqeeb.com/jobs-in-middle-east/all/jobs/021357967.html",
+"id": "multi property general manager|marriott international",
 "sources": [
 "Tanqeeb"
 ],
 "roles": [
-"compliance",
+"risk",
+"relationship manager",
+"HR operations",
 "government relations",
 "business development",
+"marketing",
+"doctor",
 "hotel"
 ],
 "links": {
-"Tanqeeb": "https://bahrain.tanqeeb.com/jobs-in-middle-east/all/jobs/021337330.html"
+"Tanqeeb": "https://bahrain.tanqeeb.com/jobs-in-middle-east/all/jobs/021357967.html"
 },
 "families": [
 "Compliance, risk & audit",
+"Relationship & client mgmt",
 "HR & admin",
 "Sales & business dev",
-"Hospitality & F&B"
-]
-},
-{
-"title": "Assistant Director of Sales",
-"company": "Tribute Portfolio",
-"location": "Bahrain - Manama",
-"posted": "",
-"url": "https://bahrain.tanqeeb.com/jobs-in-middle-east/all/jobs/021337060.html",
-"id": "assistant director of sales|tribute portfolio",
-"sources": [
-"Tanqeeb"
-],
-"roles": [
-"compliance",
-"government relations",
-"business development",
-"hotel"
-],
-"links": {
-"Tanqeeb": "https://bahrain.tanqeeb.com/jobs-in-middle-east/all/jobs/021337060.html"
-},
-"families": [
-"Compliance, risk & audit",
-"HR & admin",
-"Sales & business dev",
+"Marketing & media",
+"Healthcare",
 "Hospitality & F&B"
 ]
 },
@@ -19997,6 +20263,34 @@
 "Customer service",
 "Healthcare",
 "Legal"
+]
+},
+{
+"title": "Front Desk Team Leader",
+"company": "Accor",
+"location": "Bahrain - Manama",
+"posted": "",
+"url": "https://bahrain.tanqeeb.com/jobs-in-middle-east/all/jobs/021341922.html",
+"id": "front desk team leader|accor",
+"sources": [
+"Tanqeeb"
+],
+"roles": [
+"recruiter",
+"receptionist",
+"business development",
+"call centre",
+"hotel",
+"front office"
+],
+"links": {
+"Tanqeeb": "https://bahrain.tanqeeb.com/jobs-in-middle-east/all/jobs/021341922.html"
+},
+"families": [
+"HR & admin",
+"Sales & business dev",
+"Customer service",
+"Hospitality & F&B"
 ]
 },
 {
@@ -20238,29 +20532,6 @@
 ]
 },
 {
-"title": "Associate Marketing",
-"company": "Delivery Hero SE",
-"location": "Bahrain - Manama",
-"posted": "",
-"url": "https://bahrain.tanqeeb.com/jobs-in-middle-east/all/jobs/021336967.html",
-"id": "associate marketing|delivery hero se",
-"sources": [
-"Tanqeeb"
-],
-"roles": [
-"marketing",
-"social media",
-"doctor"
-],
-"links": {
-"Tanqeeb": "https://bahrain.tanqeeb.com/jobs-in-middle-east/all/jobs/021336967.html"
-},
-"families": [
-"Marketing & media",
-"Healthcare"
-]
-},
-{
 "title": "Sales Agent Properties",
 "company": "Confidential",
 "location": "Bahrain - Manama",
@@ -20345,26 +20616,6 @@
 ]
 },
 {
-"title": "Excavator Operators",
-"company": "Client of Talentrio",
-"location": "Bahrain - Manama",
-"posted": "",
-"url": "https://bahrain.tanqeeb.com/jobs-in-middle-east/all/jobs/021337332.html",
-"id": "excavator operators|client of talentrio",
-"sources": [
-"Tanqeeb"
-],
-"roles": [
-"medical"
-],
-"links": {
-"Tanqeeb": "https://bahrain.tanqeeb.com/jobs-in-middle-east/all/jobs/021337332.html"
-},
-"families": [
-"Healthcare"
-]
-},
-{
 "title": "Hotel Cleanliness Expert",
 "company": "Marriott International",
 "location": "Bahrain - Manama",
@@ -20446,6 +20697,26 @@
 "families": [
 "Hospitality & F&B",
 "Legal"
+]
+},
+{
+"title": "In-Room Dining Supervisor",
+"company": "Four Seasons Hotel",
+"location": "Bahrain - Manama",
+"posted": "",
+"url": "https://bahrain.tanqeeb.com/jobs-in-middle-east/all/jobs/021341920.html",
+"id": "in room dining supervisor|four seasons hotel",
+"sources": [
+"Tanqeeb"
+],
+"roles": [
+"hotel"
+],
+"links": {
+"Tanqeeb": "https://bahrain.tanqeeb.com/jobs-in-middle-east/all/jobs/021341920.html"
+},
+"families": [
+"Hospitality & F&B"
 ]
 },
 {
