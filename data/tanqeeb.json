@@ -1,5 +1,5 @@
 {
-"fetched_at": "2026-10-31T04:09:59+00:00",
+"fetched_at": "2026-10-31T05:13:56+00:00",
 "roles": [
 "banking operations",
 "operations officer",
@@ -103,7 +103,7 @@
 "source": "Tanqeeb",
 "ok": true,
 "count": 377,
-"note": "2 of 77 searches failed: project engineer: HTTPSConnectionPool(host='bahrain.tanqeeb.com', port=443): Read timed out. (read timeout=25); digital marketing: HTTPSConnectionPool(host='bahrain.tanqeeb.com', port=443): Read timed out. (read timeout=25)"
+"note": ""
 }
 ],
 "jobs": [
@@ -267,31 +267,6 @@
 ]
 },
 {
-"title": "Associate Marketing",
-"company": "talabat",
-"location": "Bahrain - Manama",
-"posted": "2026-10-23",
-"url": "https://bahrain.tanqeeb.com/jobs-in-middle-east/all/jobs/021341923.html",
-"id": "associate marketing|talabat",
-"sources": [
-"Tanqeeb"
-],
-"roles": [
-"AML",
-"marketing",
-"social media",
-"doctor"
-],
-"links": {
-"Tanqeeb": "https://bahrain.tanqeeb.com/jobs-in-middle-east/all/jobs/021341923.html"
-},
-"families": [
-"Compliance, risk & audit",
-"Marketing & media",
-"Healthcare"
-]
-},
-{
 "title": "Intern - Bahrain",
 "company": "Delivery Hero SE",
 "location": "Bahrain - Manama",
@@ -373,6 +348,29 @@
 "HR & admin",
 "Sales & business dev",
 "Hospitality & F&B"
+]
+},
+{
+"title": "Associate Marketing",
+"company": "talabat",
+"location": "Bahrain - Manama",
+"posted": "2026-10-23",
+"url": "https://bahrain.tanqeeb.com/jobs-in-middle-east/all/jobs/021341923.html",
+"id": "associate marketing|talabat",
+"sources": [
+"Tanqeeb"
+],
+"roles": [
+"marketing",
+"social media",
+"doctor"
+],
+"links": {
+"Tanqeeb": "https://bahrain.tanqeeb.com/jobs-in-middle-east/all/jobs/021341923.html"
+},
+"families": [
+"Marketing & media",
+"Healthcare"
 ]
 },
 {
@@ -705,32 +703,6 @@
 ]
 },
 {
-"title": "Head of Advisory",
-"company": "Qureos",
-"location": "Bahrain - Manama",
-"posted": "2026-10-22",
-"url": "https://bahrain.tanqeeb.com/jobs-in-middle-east/all/jobs/021332554.html",
-"id": "head of advisory|qureos",
-"sources": [
-"Tanqeeb"
-],
-"roles": [
-"compliance",
-"risk",
-"recruiter",
-"receptionist",
-"business development"
-],
-"links": {
-"Tanqeeb": "https://bahrain.tanqeeb.com/jobs-in-middle-east/all/jobs/021332554.html"
-},
-"families": [
-"Compliance, risk & audit",
-"HR & admin",
-"Sales & business dev"
-]
-},
-{
 "title": "Assistant Professor in Safety Engineering",
 "company": "Gulf University",
 "location": "Bahrain - Manama",
@@ -845,6 +817,31 @@
 "families": [
 "Compliance, risk & audit",
 "Accounting & finance",
+"Sales & business dev"
+]
+},
+{
+"title": "Head of Advisory",
+"company": "Qureos",
+"location": "Bahrain - Manama",
+"posted": "2026-10-22",
+"url": "https://bahrain.tanqeeb.com/jobs-in-middle-east/all/jobs/021332554.html",
+"id": "head of advisory|qureos",
+"sources": [
+"Tanqeeb"
+],
+"roles": [
+"risk",
+"recruiter",
+"receptionist",
+"business development"
+],
+"links": {
+"Tanqeeb": "https://bahrain.tanqeeb.com/jobs-in-middle-east/all/jobs/021332554.html"
+},
+"families": [
+"Compliance, risk & audit",
+"HR & admin",
 "Sales & business dev"
 ]
 },
@@ -1503,7 +1500,6 @@
 "roles": [
 "bank",
 "accountant",
-"business development",
 "marketing",
 "legal"
 ],
@@ -1513,37 +1509,7 @@
 "families": [
 "Banking & finance ops",
 "Accounting & finance",
-"Sales & business dev",
 "Marketing & media",
-"Legal"
-]
-},
-{
-"title": "Applications Development Intermediate Analyst",
-"company": "Citi",
-"location": "Bahrain - Manama",
-"posted": "2026-10-21",
-"url": "https://bahrain.tanqeeb.com/jobs-in-middle-east/all/jobs/021332024.html",
-"id": "applications development intermediate analyst|citi",
-"sources": [
-"Tanqeeb"
-],
-"roles": [
-"compliance",
-"risk",
-"recruiter",
-"software engineer",
-"business development",
-"legal"
-],
-"links": {
-"Tanqeeb": "https://bahrain.tanqeeb.com/jobs-in-middle-east/all/jobs/021332024.html"
-},
-"families": [
-"Compliance, risk & audit",
-"HR & admin",
-"IT & software",
-"Sales & business dev",
 "Legal"
 ]
 },
@@ -1574,6 +1540,34 @@
 "Sales & business dev",
 "Healthcare",
 "Logistics & supply chain",
+"Legal"
+]
+},
+{
+"title": "Applications Development Intermediate Analyst",
+"company": "Citi",
+"location": "Bahrain - Manama",
+"posted": "2026-10-21",
+"url": "https://bahrain.tanqeeb.com/jobs-in-middle-east/all/jobs/021332024.html",
+"id": "applications development intermediate analyst|citi",
+"sources": [
+"Tanqeeb"
+],
+"roles": [
+"risk",
+"recruiter",
+"software engineer",
+"business development",
+"legal"
+],
+"links": {
+"Tanqeeb": "https://bahrain.tanqeeb.com/jobs-in-middle-east/all/jobs/021332024.html"
+},
+"families": [
+"Compliance, risk & audit",
+"HR & admin",
+"IT & software",
+"Sales & business dev",
 "Legal"
 ]
 },
@@ -1673,6 +1667,7 @@
 ],
 "roles": [
 "marketing",
+"digital marketing",
 "customer service"
 ],
 "links": {
@@ -2822,6 +2817,7 @@
 ],
 "roles": [
 "marketing",
+"digital marketing",
 "social media"
 ],
 "links": {
@@ -3047,7 +3043,6 @@
 ],
 "roles": [
 "bank",
-"risk",
 "receptionist",
 "marketing",
 "legal"
@@ -3057,7 +3052,6 @@
 },
 "families": [
 "Banking & finance ops",
-"Compliance, risk & audit",
 "HR & admin",
 "Marketing & media",
 "Legal"
@@ -3152,6 +3146,28 @@
 ]
 },
 {
+"title": "Senior Project Engineer",
+"company": "Reckitt Benckiser Group",
+"location": "Bahrain - Manama",
+"posted": "2026-10-15",
+"url": "https://bahrain.tanqeeb.com/jobs-in-middle-east/all/jobs/021315036.html",
+"id": "senior project engineer|reckitt benckiser group",
+"sources": [
+"Tanqeeb"
+],
+"roles": [
+"project engineer",
+"procurement"
+],
+"links": {
+"Tanqeeb": "https://bahrain.tanqeeb.com/jobs-in-middle-east/all/jobs/021315036.html"
+},
+"families": [
+"Engineering & technical",
+"Logistics & supply chain"
+]
+},
+{
 "title": "Safety Engineer",
 "company": "Confidential",
 "location": "Bahrain - capital government",
@@ -3182,7 +3198,8 @@
 "Tanqeeb"
 ],
 "roles": [
-"marketing"
+"marketing",
+"digital marketing"
 ],
 "links": {
 "Tanqeeb": "https://bahrain.tanqeeb.com/jobs-in-middle-east/all/jobs/021315041.html"
@@ -3328,26 +3345,6 @@
 ],
 "links": {
 "Tanqeeb": "https://bahrain.tanqeeb.com/jobs-in-bahrain/all/jobs/021314455.html"
-},
-"families": [
-"Logistics & supply chain"
-]
-},
-{
-"title": "Senior Project Engineer",
-"company": "Reckitt Benckiser Group",
-"location": "Bahrain - Manama",
-"posted": "2026-10-15",
-"url": "https://bahrain.tanqeeb.com/jobs-in-middle-east/all/jobs/021315036.html",
-"id": "senior project engineer|reckitt benckiser group",
-"sources": [
-"Tanqeeb"
-],
-"roles": [
-"procurement"
-],
-"links": {
-"Tanqeeb": "https://bahrain.tanqeeb.com/jobs-in-middle-east/all/jobs/021315036.html"
 },
 "families": [
 "Logistics & supply chain"
@@ -3722,7 +3719,8 @@
 "Tanqeeb"
 ],
 "roles": [
-"marketing"
+"marketing",
+"digital marketing"
 ],
 "links": {
 "Tanqeeb": "https://bahrain.tanqeeb.com/jobs-in-middle-east/all/jobs/021310932.html"
@@ -3743,6 +3741,7 @@
 ],
 "roles": [
 "marketing",
+"digital marketing",
 "social media"
 ],
 "links": {
@@ -4287,7 +4286,8 @@
 ],
 "roles": [
 "receptionist",
-"marketing"
+"marketing",
+"digital marketing"
 ],
 "links": {
 "Tanqeeb": "https://bahrain.tanqeeb.com/jobs-in-middle-east/all/jobs/021305271.html"
@@ -4431,6 +4431,7 @@
 ],
 "roles": [
 "marketing",
+"digital marketing",
 "social media",
 "customer service"
 ],
@@ -5691,6 +5692,7 @@
 "roles": [
 "payments operations",
 "HR operations",
+"digital marketing",
 "social media",
 "logistics",
 "supply chain"
@@ -5872,6 +5874,28 @@
 ]
 },
 {
+"title": "ECommerce Executive",
+"company": "Confidential",
+"location": "Bahrain - Manama",
+"posted": "2026-10-07",
+"url": "https://bahrain.tanqeeb.com/jobs-in-bahrain/all/jobs/021292011.html",
+"id": "ecommerce executive|confidential",
+"sources": [
+"Tanqeeb"
+],
+"roles": [
+"digital marketing",
+"retail"
+],
+"links": {
+"Tanqeeb": "https://bahrain.tanqeeb.com/jobs-in-bahrain/all/jobs/021292011.html"
+},
+"families": [
+"Marketing & media",
+"Retail"
+]
+},
+{
 "title": "Steward",
 "company": "Wyndham Hotels and Resorts Inc",
 "location": "Bahrain - Manama",
@@ -5930,26 +5954,6 @@
 },
 "families": [
 "Hospitality & F&B"
-]
-},
-{
-"title": "ECommerce Executive",
-"company": "Confidential",
-"location": "Bahrain - Manama",
-"posted": "2026-10-07",
-"url": "https://bahrain.tanqeeb.com/jobs-in-bahrain/all/jobs/021292011.html",
-"id": "ecommerce executive|confidential",
-"sources": [
-"Tanqeeb"
-],
-"roles": [
-"retail"
-],
-"links": {
-"Tanqeeb": "https://bahrain.tanqeeb.com/jobs-in-bahrain/all/jobs/021292011.html"
-},
-"families": [
-"Retail"
 ]
 },
 {
@@ -6524,6 +6528,7 @@
 ],
 "roles": [
 "receptionist",
+"digital marketing",
 "social media"
 ],
 "links": {
@@ -7471,6 +7476,81 @@
 ]
 },
 {
+"title": "Laundry Valet Attendant",
+"company": "Sheraton",
+"location": "Bahrain - Manama",
+"posted": "",
+"url": "https://bahrain.tanqeeb.com/jobs-in-middle-east/all/jobs/021359059.html",
+"id": "laundry valet attendant|sheraton",
+"sources": [
+"Tanqeeb"
+],
+"roles": [
+"AML",
+"hotel",
+"legal"
+],
+"links": {
+"Tanqeeb": "https://bahrain.tanqeeb.com/jobs-in-middle-east/all/jobs/021359059.html"
+},
+"families": [
+"Compliance, risk & audit",
+"Hospitality & F&B",
+"Legal"
+]
+},
+{
+"title": "Store Manager",
+"company": "Armada Retail Concept Trading",
+"location": "Bahrain - Manama",
+"posted": "",
+"url": "https://bahrain.tanqeeb.com/jobs-in-middle-east/all/jobs/021359057.html",
+"id": "store manager|armada retail concept trading",
+"sources": [
+"Tanqeeb"
+],
+"roles": [
+"AML",
+"customer service",
+"retail",
+"store manager"
+],
+"links": {
+"Tanqeeb": "https://bahrain.tanqeeb.com/jobs-in-middle-east/all/jobs/021359057.html"
+},
+"families": [
+"Compliance, risk & audit",
+"Customer service",
+"Retail"
+]
+},
+{
+"title": "Firefighter/EMT-B",
+"company": "V2x",
+"location": "Bahrain - Manama",
+"posted": "",
+"url": "https://bahrain.tanqeeb.com/jobs-in-middle-east/all/jobs/021359056.html",
+"id": "firefighter emt b|v2x",
+"sources": [
+"Tanqeeb"
+],
+"roles": [
+"AML",
+"doctor",
+"medical",
+"logistics",
+"driver"
+],
+"links": {
+"Tanqeeb": "https://bahrain.tanqeeb.com/jobs-in-middle-east/all/jobs/021359056.html"
+},
+"families": [
+"Compliance, risk & audit",
+"Healthcare",
+"Logistics & supply chain"
+]
+},
+{
 "title": "Commis I",
 "company": "Marriott International",
 "location": "Bahrain - Manama",
@@ -8065,55 +8145,67 @@
 ]
 },
 {
-"title": "Front Desk Team Leader",
-"company": "Accor",
+"title": "Multi- Property General Manager - Marriott Executive Apartments Manama Bahrain & Residence Inn by Marriott, Juffair",
+"company": "Marriott Executive Apartments",
 "location": "Bahrain - Manama",
 "posted": "",
-"url": "https://bahrain.tanqeeb.com/jobs-in-middle-east/all/jobs/021341922.html",
-"id": "front desk team leader|accor",
+"url": "https://bahrain.tanqeeb.com/jobs-in-middle-east/all/jobs/021359058.html",
+"id": "multi property general manager marriott executive apartments manama bahrain residence inn by marriott juffair|marriott executive apartments",
 "sources": [
 "Tanqeeb"
 ],
 "roles": [
-"AML",
-"recruiter",
-"receptionist",
+"compliance",
+"risk",
+"relationship manager",
+"HR operations",
+"government relations",
 "business development",
-"call centre",
+"marketing",
+"doctor",
 "hotel",
-"front office"
+"legal"
 ],
 "links": {
-"Tanqeeb": "https://bahrain.tanqeeb.com/jobs-in-middle-east/all/jobs/021341922.html"
+"Tanqeeb": "https://bahrain.tanqeeb.com/jobs-in-middle-east/all/jobs/021359058.html"
 },
 "families": [
 "Compliance, risk & audit",
+"Relationship & client mgmt",
 "HR & admin",
 "Sales & business dev",
-"Customer service",
-"Hospitality & F&B"
+"Marketing & media",
+"Healthcare",
+"Hospitality & F&B",
+"Legal"
 ]
 },
 {
-"title": "In-Room Dining Supervisor",
-"company": "Four Seasons Hotel",
+"title": "Galley Supervisor",
+"company": "V2x",
 "location": "Bahrain - Manama",
 "posted": "",
-"url": "https://bahrain.tanqeeb.com/jobs-in-middle-east/all/jobs/021341920.html",
-"id": "in room dining supervisor|four seasons hotel",
+"url": "https://bahrain.tanqeeb.com/jobs-in-middle-east/all/jobs/021359055.html",
+"id": "galley supervisor|v2x",
 "sources": [
 "Tanqeeb"
 ],
 "roles": [
-"AML",
-"hotel"
+"compliance",
+"doctor",
+"chef",
+"cashier",
+"logistics"
 ],
 "links": {
-"Tanqeeb": "https://bahrain.tanqeeb.com/jobs-in-middle-east/all/jobs/021341920.html"
+"Tanqeeb": "https://bahrain.tanqeeb.com/jobs-in-middle-east/all/jobs/021359055.html"
 },
 "families": [
 "Compliance, risk & audit",
-"Hospitality & F&B"
+"Healthcare",
+"Hospitality & F&B",
+"Retail",
+"Logistics & supply chain"
 ]
 },
 {
@@ -8356,6 +8448,34 @@
 ]
 },
 {
+"title": "Front Desk Team Leader",
+"company": "Accor",
+"location": "Bahrain - Manama",
+"posted": "",
+"url": "https://bahrain.tanqeeb.com/jobs-in-middle-east/all/jobs/021341922.html",
+"id": "front desk team leader|accor",
+"sources": [
+"Tanqeeb"
+],
+"roles": [
+"recruiter",
+"receptionist",
+"business development",
+"call centre",
+"hotel",
+"front office"
+],
+"links": {
+"Tanqeeb": "https://bahrain.tanqeeb.com/jobs-in-middle-east/all/jobs/021341922.html"
+},
+"families": [
+"HR & admin",
+"Sales & business dev",
+"Customer service",
+"Hospitality & F&B"
+]
+},
+{
 "title": "ZAIN2565 - Manager – Cyber Security",
 "company": "Zain - Kuwait",
 "location": "Bahrain - Manama",
@@ -8468,6 +8588,7 @@
 "Tanqeeb"
 ],
 "roles": [
+"project engineer",
 "sales executive",
 "customer service",
 "warehouse"
@@ -8476,6 +8597,7 @@
 "Tanqeeb": "https://bahrain.tanqeeb.com/jobs-in-bahrain/all/jobs/021340589.html"
 },
 "families": [
+"Engineering & technical",
 "Sales & business dev",
 "Customer service",
 "Logistics & supply chain"
@@ -8527,32 +8649,6 @@
 "Sales & business dev",
 "Customer service",
 "Hospitality & F&B"
-]
-},
-{
-"title": "Multi- Property General Manager - Marriott Executive Apartments Manama Bahrain & Residence Inn by Marriott, Juffair",
-"company": "Marriott Executive Apartments",
-"location": "Bahrain - Manama",
-"posted": "",
-"url": "https://bahrain.tanqeeb.com/jobs-in-middle-east/all/jobs/021359058.html",
-"id": "multi property general manager marriott executive apartments manama bahrain residence inn by marriott juffair|marriott executive apartments",
-"sources": [
-"Tanqeeb"
-],
-"roles": [
-"marketing",
-"doctor",
-"hotel",
-"legal"
-],
-"links": {
-"Tanqeeb": "https://bahrain.tanqeeb.com/jobs-in-middle-east/all/jobs/021359058.html"
-},
-"families": [
-"Marketing & media",
-"Healthcare",
-"Hospitality & F&B",
-"Legal"
 ]
 },
 {
@@ -8618,29 +8714,6 @@
 ]
 },
 {
-"title": "Store Manager",
-"company": "Armada Retail Concept Trading",
-"location": "Bahrain - Manama",
-"posted": "",
-"url": "https://bahrain.tanqeeb.com/jobs-in-middle-east/all/jobs/021359057.html",
-"id": "store manager|armada retail concept trading",
-"sources": [
-"Tanqeeb"
-],
-"roles": [
-"customer service",
-"retail",
-"store manager"
-],
-"links": {
-"Tanqeeb": "https://bahrain.tanqeeb.com/jobs-in-middle-east/all/jobs/021359057.html"
-},
-"families": [
-"Customer service",
-"Retail"
-]
-},
-{
 "title": "Sales Agent Properties",
 "company": "Confidential",
 "location": "Bahrain - Manama",
@@ -8703,56 +8776,6 @@
 ]
 },
 {
-"title": "Firefighter/EMT-B",
-"company": "V2x",
-"location": "Bahrain - Manama",
-"posted": "",
-"url": "https://bahrain.tanqeeb.com/jobs-in-middle-east/all/jobs/021359056.html",
-"id": "firefighter emt b|v2x",
-"sources": [
-"Tanqeeb"
-],
-"roles": [
-"doctor",
-"medical",
-"logistics",
-"driver"
-],
-"links": {
-"Tanqeeb": "https://bahrain.tanqeeb.com/jobs-in-middle-east/all/jobs/021359056.html"
-},
-"families": [
-"Healthcare",
-"Logistics & supply chain"
-]
-},
-{
-"title": "Galley Supervisor",
-"company": "V2x",
-"location": "Bahrain - Manama",
-"posted": "",
-"url": "https://bahrain.tanqeeb.com/jobs-in-middle-east/all/jobs/021359055.html",
-"id": "galley supervisor|v2x",
-"sources": [
-"Tanqeeb"
-],
-"roles": [
-"doctor",
-"chef",
-"cashier",
-"logistics"
-],
-"links": {
-"Tanqeeb": "https://bahrain.tanqeeb.com/jobs-in-middle-east/all/jobs/021359055.html"
-},
-"families": [
-"Healthcare",
-"Hospitality & F&B",
-"Retail",
-"Logistics & supply chain"
-]
-},
-{
 "title": "Kitchen Helper",
 "company": "European Graduate School of Management",
 "location": "Bahrain - capital government",
@@ -8772,28 +8795,6 @@
 "families": [
 "Healthcare",
 "Hospitality & F&B"
-]
-},
-{
-"title": "Laundry Valet Attendant",
-"company": "Sheraton",
-"location": "Bahrain - Manama",
-"posted": "",
-"url": "https://bahrain.tanqeeb.com/jobs-in-middle-east/all/jobs/021359059.html",
-"id": "laundry valet attendant|sheraton",
-"sources": [
-"Tanqeeb"
-],
-"roles": [
-"hotel",
-"legal"
-],
-"links": {
-"Tanqeeb": "https://bahrain.tanqeeb.com/jobs-in-middle-east/all/jobs/021359059.html"
-},
-"families": [
-"Hospitality & F&B",
-"Legal"
 ]
 },
 {
@@ -8878,6 +8879,26 @@
 "families": [
 "Hospitality & F&B",
 "Legal"
+]
+},
+{
+"title": "In-Room Dining Supervisor",
+"company": "Four Seasons Hotel",
+"location": "Bahrain - Manama",
+"posted": "",
+"url": "https://bahrain.tanqeeb.com/jobs-in-middle-east/all/jobs/021341920.html",
+"id": "in room dining supervisor|four seasons hotel",
+"sources": [
+"Tanqeeb"
+],
+"roles": [
+"hotel"
+],
+"links": {
+"Tanqeeb": "https://bahrain.tanqeeb.com/jobs-in-middle-east/all/jobs/021341920.html"
+},
+"families": [
+"Hospitality & F&B"
 ]
 },
 {
